@@ -1,0 +1,47 @@
+目
+
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ XÂY DỰNG BÌNH DƯƠNG ACC
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+4.
+
+MẪU SỐ 809 - DN/HN Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+
+của Bộ Tài chính về hướng dẫn phương pháp lập và trình bày báo cáo tài chính hợp nhất; Chuẩn mực kế toán Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+
+TÓM TẮT CÁC CHÍNH SÁCH KÊ TOÁN CHỦ YẾU
+
+4.1. Cơ sở lập báo cáo tài chính hợp nhất
+
+Báo cáo tài chính hợp nhất được lập trên cơ sở kế toán dồn tích (trừ một số thông tin liên quan đến lưu chuyển tiền 10), theo nguyên tắc giá gốc, dựa trên giả thiết hoạt động liên tục.
+
+Báo cáo tài chính hợp nhất bao gồm Báo cáo tài chính riêng của Công ty và Bảo cáo tài chính của công ty do Công ty kiểm soát (công ty con) được lập cho năm tài chính kết thúc ngày 31/12/2022. Việt kiểm soát này đại được khi Công ty có khả năng chi phối các chính sách tài chính và hoạt động của các công ty nhận đầu tư nhằm thu được lợi ích từ hoạt động của các công ty này.
+
+Kết quả hoạt động kinh doanh của công ty con được đưa vào Bảo cáo tài chính hợp nhất kể từ ngày công ty mẹ nắm quyền kiểm soát công ty con và chấm dứt vào ngày công ty mẹ thực sự chấm dứt quyền kiểm soát công ty con.
+
+Trong trường hợp cần thiết, Báo cáo tài chính của các công ty con được điều chỉnh để các chính sách kế toán được áp dụng tại công ty mẹ và các công ty con khác là giống nhau.
+
+Các giao dịch và số dư phát sinh từ các giao dịch giữa các công ty trong tổ hợp công ty mẹ - công ty con được loại trừ toàn bộ khi hợp nhất báo cáo tài chính.
+
+Lợi ích cổ đông không kiểm soát được trình bày trong Bảng cân đối kế toán hợp nhất thành một chi tàu răng thuộc phần vốn chủ sở hữu. Giá bị lợi ích cổ đông không kiểm soát trong tài sản thuần của các công ty con hợp nhất bao gồm: Lợi ích của cổ đông không kiểm soát tại ngày mua được xác định theo giá trị hợp lý tài sản thuần của công ty con tại ngày mua lợi ích của cổ đồng không kiểm soát trong sự biển động của tổng vốn chủ sở hữu kể từ ngày mua đền đầu kỳ báo cáo và lợi ích của Đỗ động không kiểm soát trong sự biến động của tổng vốn chủ sở hữu phát sinh trong kỳ báo cáo. Phần sở hữu của cổ đông không kiểm soát trong Báo cáo kết quả kinh doanh hợp nhất cũng được trình bày thành chỉ tiêu riêng biệt
+
+4.2. Ước tính kế toán
+
+Việc lập báo cáo tài chính hợp nhất tuân thủ Chuẩn mực kế toán Việt Nam, Chỗ độ kế toán doanh nghiệp và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất yêu cầu Ban Tổng giám đốc phải có những ước linh và giá định ảnh hưởng đến số lựu báo cáo về công nợ, tài sản và việc trình bày các khoản công nợ và tài sản tiềm tàng tại ngày lập báo cáo tài chính cũng như các số liệu báo cáo về doanh thu và chi phi trong suốt năm tài chính. Kết quả hoạt động kinh doanh thực tế có triển khác với các ước tính, giã định đặt ra,
+
+4.3. Tiền và các khoản tương đương tiền
+
+Tiền phản ánh toàn bộ số tiền hiện có của Công ty và công ty con tại ngày kết thúc niên độ kế toán, bao gồm: tiền mặt, tiền gửi ngân hàng không kỳ hạn và tiền đang chuyển.
+
+Các khoản trong đường tiền phản ánh các khoản đầu tư ngắn hạn có thời hạn thu hồi không quá 03 tháng kể từ ngày đầu tư, có khả năng chuyển đổi dễ dàng thành một lượng liền xác định và không có rủi ro trong việc chuyển đổi thành liền tại thời điểm báo cáo, được ghi nhận phù hợp với quy định của Chuẩn mực kế toán Việt Nam số 24 - Báo cáo Lưu chuyển tiền tệ.
+
+4.4. Đầu tư nắm giữ đến ngày đáo hạn
+
+Phản ánh các khoản đầu tư mà Công ty có ý định và khả năng nắm giữ đến ngày đáo hạn có kỳ hạn còn lại không quá 12 tháng (ngắn hạn) và trên 12 tháng (dài hạn) kể từ thời điểm báo cáo (ngoài các khoản chứng khoán kinh doanh), bao gồm: các khoản tiền gửi ngân hàng có kỳ hạn (bao gồm cả các loại tin phiếu, kỳ phiếu) với mục đích thu lãi hàng kỹ.
+
+Các khoản đầu tư nằm giữ đến ngày đáo hạn được ghi nhận ban đầu theo giá gốc, bao gồm giá mua và các chi phí liên quan đến giao dịch mua các khoản đầu tư như chi phí môi giới, giao dịch, tư vẫn,
+
+11
+
+121 2024
