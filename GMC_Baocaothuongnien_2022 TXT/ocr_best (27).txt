@@ -1,0 +1,215 @@
++ Mức độ chính xác của phương pháp và số liệu tính toán lượng phát thải khí nhà kính (GHG):
+
+- Cơ sở tính toán: Theo hướng dẫn của IPCC (2006) về kiểm kê hệ thống phát thải khí nhà kính quốc gia, bằng cách xác định phương pháp thống kê và hệ số phát thải để chọn thang điểm phù hợp, sau đó dùng hàm căn bậc hai của tích mức điểm phương pháp tính và hệ số phát thải rồi nhân với tỷ lệ phần trăm của lượng phát thải khí nhà kính để đưa ra hệ số quy đổi. Trung bình cộng của tất cả hệ số quy đổi để ra điểm trung bình. Đối chiếu với bảng so sánh để quy ra mức độ chính xác.
+
+Cấp chính xác
+
+A
+
+Dim (x)
+
+X<=]
+
+1<x<-2
+
+B
+
+C
+
+2<x<=3
+
+D
+
+3<x<m4
+
+E
+
+x4
+
+Bảng xác định mức độ chính xác
+
+- Cách thức tính toán (Theo bảng số liệu) như sau:
+
+Mức độ chính xác
+
+Rất tốt Very good Tót Good Trung bình
+
+Medium Kém Bad
+
+Rất kin
+
+Very bad
+
+Th
+
+Pangpiping s
+
+امن العام له يا ايما
+
+B()
+
+(M)
+
+Qu
+
+2
+
+РОС
+
+Bm(1)
+
+T
+
+triển cấp chính sác Poly
+
+TENGG
+
+4
+
+2
+
+4
+
+3
+
+ப
+
+2
+
+QP0
+
+4
+
+Qey
+
+0,54
+
+0085
+
+1,76
+
+000
+
+0,11
+
+-
+
+3
+
+3
+
+3
+
+14
+
+Q
+
+2
+
+4
+
+283
+
+0000
+
+Р
+
+4
+
+4
+
+400
+
+PCC 6
+
+33
+
+0110
+
+14
+
+4
+
+Th00 DCO
+
+4
+
+400
+
+0,02
+
+Nand though
+
+LT
+
+2
+
+Qui(PCC)
+
+4
+
+289
+
+•
+
+0000
+
+POC
+
+.
+
+Qui PC2006
+
+2
+
+g)
+
+PCC 20
+
+4
+
+2,19
+
+1013
+
+De
+
+Quic Cary (24)
+
+139
+
+91,44
+
+1304
+
+AL
+
+2
+
+2
+
+Qui
+
+4
+
+1000
+
+Cary (2011)
+
+33
+
+2
+
+Qué (PCC
+
+0000
+
+miền trung bình
+
+Ce chinha
+
+Levels
+
+- Kết quả tính toán điểm trung bình x= 1,864 thuộc Level B – Tốt
+
+27

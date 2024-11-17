@@ -1,0 +1,275 @@
+Công Ty Cổ Phần Garmex Sài Gòn
+
+252 Nguyễn Văn Lượng, Phường 17, Quận Gò Vắp, TP. Hồ Chí
+
+Minh
+
+Báo cáo tài chính hợp nhất
+
+Cho năm tài chính 2023 kết thúc vào ngày 31/12/2023
+
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+
+Tại ngày 31 tháng 12 năm 2023
+
+Đơn vị tính: VND
+
+Chi tiêu
+
+Mã số
+
+NGUỒN VỐN
+
+Thuyế t minh
+
+Số cuối năm
+
+Số đầu năm
+
+A . NỢ PHẢI TRẢ (300 = 310 +330)
+
+300
+
+26.699.717.340
+
+87.346.313.734
+
+I. Nợ ngắn hạn
+
+310
+
+10.606.323.346
+
+73.140.671.877
+
+1. Phải trả người bán ngắn hạn
+
+311
+
+V.12
+
+5.496.313.969
+
+5.173.743.334
+
+2. Người mua trả tiền trước ngắn hạn
+
+312
+
+170.527.420
+
+93.407.420
+
+3. Thuế và các khoản phải nộp Nhà nước
+
+313
+
+V.13
+
+284.235.569
+
+703.440.418
+
+4. Phải trả người lao động
+
+314
+
+445.057.353
+
+15.566.420.148
+
+5. Chi phi phải trả ngắn hạn
+
+315
+
+V.14
+
+279.314.652
+
+1.498.986.467
+
+6. Phải trả nội bộ ngắn hạn
+
+316
+
+7. Phải trả theo tiến độ kế hoạch hợp đồng xây dựng
+
+8. Doanh thu chưa thực hiện ngắn hạn
+
+9. Phải trả ngắn hạn khác
+
+317
+
+DN:6305
+
+318
+
+DICH
+
+319
+
+V.15
+
+3.084.286.474.
+
+1.661.089 890
+
+CHE VA K
+
+10. Vay và nợ thuê tài chính ngắn hạn
+
+320
+
+V.11
+
+28.889.717151 PH
+
+11. Dự phòng phải trả ngắn hạn
+
+321
+
+V.16
+
+12. Quỹ khen thưởng, phúc lợi
+
+322
+
+326.771.735 519.816.174
+
+18.988.791.375/
+
+565.075.674
+
+13. Quỹ bình ổn giá
+
+323
+
+14. Giao dịch mua bán lại trái phiếu Chính phủ
+
+324
+
+II. Nợ dài hạn
+
+330
+
+16.093.393.994
+
+14.205.641.857
+
+I. Phải trả dài hạn người bán dài hạn
+
+331
+
+2. Người mua trả tiền trước dài hạn
+
+332
+
+3. Chi phí phải trả dài hạn
+
+333
+
+4. Phải trả nội bộ về vốn kinh doanh
+
+334
+
+C
+
+5. Phải trả nội bộ dài hạn
+
+335
+
+6. Doanh thu chưa thực hiện dài hạn
+
+336
+
+7. Phải trả dài hạn khác
+
+337
+
+8. Vay và nợ thuê tài chính dài hạn
+
+338
+
+9. Trái phiếu chuyển đổi
+
+10. Cổ phiếu ưu đãi
+
+339
+
+340
+
+11. Thuế thu nhập hoãn lại phải trả
+
+341
+
+V.17
+
+14.970.848.948
+
+12. Dự phòng phải trả dài hạn
+
+342 V.16
+
+1.122.545.046
+
+7.598.571.624 6.607.070.233
+
+13. Quỹ phát triển khoa học, công nghệ
+
+343
+
+B. VỐN CHỦ SỞ HỮU (400 = 410 +430)
+
+400
+
+V.18
+
+392.378.063.139
+
+448.045.894.659
+
+I. Vốn chủ sở hữu
+
+410
+
+392.378.063.139
+
+448.045.894.659
+
+I. Vốn góp của chủ sở hữu
+
+411
+
+330.002.590.000
+
+330.002.590.000
+
+- Cổ phiếu ưu đãi
+
+- Cổ phiếu phổ thông có quyền biểu quyết
+
+411a
+
+330.002.590.000
+
+330.002.590.000
+
+411b
+
+2. Thặng dư vốn cổ phần
+
+412
+
+72.687.827.370
+
+72.687.827.370
+
+3. Quyền chọn chuyển đổi trái phiếu
+
+413
+
+4. Vốn khác của chủ sở hữu
+
+414
+
+10

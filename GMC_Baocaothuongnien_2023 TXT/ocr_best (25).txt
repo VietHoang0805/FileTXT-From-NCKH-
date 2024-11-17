@@ -1,0 +1,359 @@
+Lượng phát thải khí nhà kính (GHG) : từ sử dụng điện cho sản xuất
+
+Tổng lượng phát thải khí nhà kính (GHG) trực tiếp :
+
+từ hoạt động sản xuất = (1) + (2)+ (3) + (4)+ (5)+(6)+(7)+ (8)
+
+526,36 Tấn CO2 (8)
+
+585,982 Tấn CO2 (I)
+
+* Lượng khí nhà kính (GHG) phát thải gián tiếp từ hoạt động đi lại của người lao động đến nơi làm việc:
+
+STT
+
+- Dữ liệu tính toán: Số lượng lao động, số ngày làm việc và khoảng cách trung bình từ nhà đến nơi làm việc của người lao động được thống kê theo từng tháng trong năm
+
+2023.
+
+- Cơ sở tỉnh toán: Hệ số chuyển đổi quảng đường (Đơn vị: Km) sang lượng phát thải CO2 (Đơn vị: Tấn CO2) được tính theo hệ phát thải khí nhà kính theo hướng dẫn của IPCC (2006) về kiểm kê hệ thống phát thải khi nhà kính quốc gia. Cách thức tính toán (Bảng số liệu đinh kèm):
+
+Thing
+
+20001
+
+Sheng phurong
+
+cinhin (my)
+
+cho đầu của việc trong tinh con cho Lee khi khác lượng khí thải Lương khi thu
+
+d)
+
+CO2 (Ti
+
+CH4 (T)
+
+NO2 (Ti
+
+kish
+
+thing
+
+(Kim)
+
+(1)
+
+(2)
+
+(4)
+
+45%
+
+#
+
+(7)
+
+|(9)~(3)*(6)^{3}*2 (10)=(3)*(4)*(5)* (11)=(3)^{4}^(5)*|{12}={(5)+(30′′ *(6)/1000 27/000000 28/00000028)+(11265)
+
+I
+
+T
+
+542
+
+5
+
+26
+
+2.
+
+7
+
+235
+
+3
+
+26
+
+0,189 0,07
+
+0,07 0,007 007
+
+26,033
+
+0,00644
+
+0,000GH
+
+27.131
+
+3
+
+3
+
+3
+
+26
+
+0189 0,07
+
+4
+
+4
+
+וכן
+
+5
+
+26
+
+0189
+
+0:07 0,007
+
+11,5479 923832 40294
+
+0,004277
+
+00004277
+
+11.281
+
+0,0034216
+
+0.00034216
+
+9425
+
+0.0031122
+
+000031122
+
+8573
+
+3
+
+3
+
+61
+
+3
+
+26
+
+0189
+
+0,07
+
+0.007
+
+290754
+
+20011102
+
+0,0001102
+
+3,058
+
+6
+
+6
+
+40
+
+5
+
+26
+
+018
+
+0007
+
+1,9656
+
+0.000728
+
+00000728
+
+2005
+
+7
+
+7
+
+37
+
+3
+
+26
+
+0.199
+
+0007
+
+0.0006734
+
+0.00006734
+
+1855
+
+8
+
+8
+
+36
+
+3
+
+26
+
+0,199
+
+0007
+
+17004
+
+0.0006552
+
+0,00006552
+
+3805
+
+9
+
+36
+
+3
+
+26
+
+0,199
+
+0.07
+
+0.007
+
+17004
+
+8000652
+
+0.0000552
+
+30
+
+35
+
+5
+
+30
+
+20
+
+0,1
+
+0,07 0,007
+
+1,7199
+
+0,000637
+
+0.0000637
+
+1755
+
+H
+
+11
+
+35
+
+5
+
+26
+
+0,189
+
+0,001
+
+1,7199
+
+12
+
+12
+
+35
+
+5
+
+26
+
+0,189
+
+0,007
+
+17199
+
+0000637 0000037
+
+TỔNG CỘNG
+
+71.30214
+
+0026402
+
+00000637 0.0000637 0,00264082
+
+3755 72,741
+
+(II)
+
+Lượng phát thải khí nhà kính (GHG):
+
+72,741 Tấn CO2
+
+Tổng lượng phát thải trực tiếp và gián tiếp năm 2023: (I) + (II)
+
+658,723 Tấn CO2
+
+* Mức độ chính xác của phương pháp và số liệu tính toán lượng phát thải khí nhà kính (GHG): - Cơ sở tính toán: Theo hướng dẫn của IPCC (2006) về kiểm kê hệ thống phát thải khí nhà kinh quốc gia, bằng cách xác định phương pháp thống kê và hệ số phát thải để chọn thang điểm phù hợp, sau đó dùng hàm căn bậc hai của tích mức điểm phương pháp tính và hệ số phát thải rồi nhân với tỷ lệ phần trăm của lượng phát thải khí nhà kính để đưa ra hệ số quy đổi. Trung bình cộng của tất cả hệ số quy đổi để ra điểm trung bình. Đối chiếu với bảng so sánh để quy ra mức độ chính xác.
+
+Cấp chính xác
+
+A
+
+Điểm (x)
+
+Mức độ chính xác
+
+Rất tốt Very good
+
+Τάι Good
+
+Trung bình
+
+Medium
+
+X]
+
+B
+
+1<x<-2
+
+C
+
+2<x<-3
+
+D
+
+3<x<4
+
+E
+
+x-4
+
+Rất KÊN Very bad
+
+25
+
+Kém Bad

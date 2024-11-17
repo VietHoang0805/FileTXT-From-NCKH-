@@ -1,0 +1,335 @@
+Thing
+
+Lượng phát thải khí nhà kính (GHG) : từ sử dụng dầu DO cho vận chuyển
+
+6,940 Tấn CO2
+
+, Xăng và dầu DO vận hành các máy móc thiết bị trong sản xuất:
+
+2
+
+- Dữ liệu tính toán: Lượng Xăng và dầu DO tiêu thụ được thống kê theo các hoá đơn hàng tháng trong năm 2023.
+
+- Cơ sở tính toán: Hệ số chuyển đổi nhiên liệu sử dụng (Đơn vị: Lít) sang lượng phát thải CO2 (Đơn vị: Tấn CO2) được tính theo hướng dẫn của IPCC (2006) về kiểm kê hệ thống phát thải khí nhà kính quốc gia.
+
+- Cách thức tính toán (Theo bảng số liệu) như sau:
+
+Og mile wrong sun muskh
+
+ing thing)
+
+KKKL CO Leg C La to the leag
+
+STT
+
+vi hod ( Tổng hợp | Nhiệt lượng
+
+(KT)
+
+ng chayin d (TI)
+
+Tổng huyện phía
+
+CO2 CIH N20
+
+(D
+
+(4)
+
+(5)
+
+- 10000/1000 (710/1000
+
+(T (11)-
+
+(T
+
+(12)-
+
+phie thai (T) (130
+
+CO2
+
+(4)-(1)(122
+
++(332)
+
+1
+
+1
+
+Diesel Of (d-gh
+
+45
+
+1000
+
+74.100306
+
+0,00 0,0000000 0,0000
+
+4,00
+
+200
+
+2
+
+2
+
+Diesel Oil (d-084k
+
+k
+
+146
+
+1001
+
+69.300 3 0,6
+
+0,04
+
+00000
+
+0,0000
+
+600
+
+3
+
+3
+
+Cucine (-0.7kg)
+
+43,8
+
+43
+
+41003
+
+06
+
+0,14
+
+0,000
+
+00000
+
+914
+
+4
+
+4
+
+Diesel (-0
+
+k
+
+43
+
+4,000
+
+74.100 3
+
+06
+
+0,00
+
+0,0x00
+
+00000
+
+0,00
+
+100
+
+G(+7kg) k
+
+73
+
+6
+
+Desel 04(-0.36
+
+k
+
+43
+
+43
+
+4,000
+
+74100 3
+
+06
+
+002
+
+0,0000
+
+00000
+
+0,00
+
+9,000
+
+74.100 3
+
+OA
+
+0:00
+
+0,0000
+
+00000
+
+0,00
+
+200
+
+7
+
+7
+
+Case (+0.5kg)
+
+146
+
+43
+
+0,001
+
+741003
+
+05
+
+0,0x00
+
+00000
+
+0,05
+
+309
+
+8
+
+*
+
+C(+0.73kg)
+
+219
+
+43
+
+0,000
+
+74.1003 04
+
+007
+
+0,0000
+
+4,0000
+
+9
+
+Diesel Old-03
+
+ke
+
+43
+
+0,000
+
+74100 3
+
+0,00
+
+00000
+
+00000
+
+0,00
+
+10
+
+10
+
+11
+
+C4-07
+
+12
+
+12
+
+C(+073kg
+
+43
+
+0,000
+
+143003 06
+
+0,00
+
+00000
+
+0.0000
+
+0,00
+
+2
+
+73
+
+43
+
+0,000
+
+34 300 3 0,6
+
+43
+
+0,000
+
+74100306
+
+TONG CONG
+
+0.0000
+
+0,0000
+
+0,00
+
+00000
+
+00000
+
+0:00
+
+6,346
+
+0,500
+
+4,000
+
+0,347
+
+0,00
+
+Lượng phát thải khí nhà kính (GHG) cho vận hành MMTB: 0,347 Tấn CO2 (3)
+
+) Phát sinh từ nước thải của hệ thống xử lý nước thải:
+
+-
+
+Dữ liệu tính toán: Số lượng lao động và số ngày làm việc được thống kê theo từng
+
+tháng trong năm 2023.
+
+- Cơ sở tỉnh toán: Hệ số phát thải BOD từ con người, MCF, chuyển đổi BOD phát thải (Đơn vị: g) sang lượng phát thải CO2 (Đơn vị: Tấn CO2) được tính theo Bảng 6.4 - Hướng dẫn của IPCC (2006) về kiểm kê hệ thống phát thải khí nhà kính quốc gia. Cách thức tính toán (Theo bảng số liệu) như sau:
+
+-
+
+22
