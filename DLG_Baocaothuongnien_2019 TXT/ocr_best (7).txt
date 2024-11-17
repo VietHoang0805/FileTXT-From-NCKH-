@@ -1,0 +1,41 @@
+Cơ cấu bộ máy quản lý.
+
+SƠ ĐỒ BỘ MÁY QUẢN LÝ CỦA CÔNG TY
+
+TỔNG GIÁM ĐỐC
+
+BAN KIỂM SOÁT NỘI BỘ
+
+BAN THƯ KÝ
+
+PHÓ TGĐ TT CÔNG TY TV
+
+CÁC CÔNG TY LIÊN
+
+KET
+
+PHÓ TGĐ TÀI CHÍNH
+
+P.TÀI CHÍNH
+
+P. KẾ TOÁN
+
+1000
+
+P.QUẢN LÝ CỔ ĐÔNG
+
+P. PR & QT MANG
+
+PHÀNH CHÍNH
+
+P NHÂN SỰ
+
+H000
+
+BAN NỘI CHÍNH
+
+PHÓ TGĐ DỰ ÁN
+
+| BAN QUẢN LÝ DỰ ÁN
+
+CÁC CÔNG TY CON

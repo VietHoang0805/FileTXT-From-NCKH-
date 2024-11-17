@@ -1,0 +1,257 @@
+BẢNG THAM CHIẾU
+
+THEO TIÊU CHUẨN CRI
+
+GRI 200: CÔNG BỐ THÔNG TIN THEO TIÊU CHUẨN KINH TẾ
+
+BẢNG THAM CHIẾU THEO TIÊU CHUẨN GRA V
+
+TIÊU CHUẨN GRI
+
+THÔNG TIN CÔNG BỐ
+
+TRANG
+
+GRI 201: HIỆU QUẢ HOẠT ĐỘNG KINH TẾ
+
+GRI 100: CÔNG BỐ THÔNG TIN THEO TIÊU CHUẨN CHUNG
+
+103-1
+
+HỒ SƠ TỔ CHỨC
+
+103-2
+
+Giải thích về chủ đề trọng yếu và phạm vi chủ đề Phương pháp Quản trị và các hợp phần
+
+87
+
+87
+
+102-1
+
+Tên tổ chức
+
+11
+
+103-3
+
+Đánh giá về Phương pháp Quản trị
+
+87
+
+102-2
+
+Các hoạt động, thương hiệu, sản phẩm và dịch vụ
+
+28-37
+
+201-1
+
+Giá trị kinh tế trực tiếp được tạo ra và phân bố
+
+88-89
+
+102-3
+
+Địa điểm của trụ sở chính
+
+11
+
+201-3
+
+Các nghĩa vụ theo chế độ phúc lợi đã quy định và các chế độ hưu trí khác
+
+88-89
+
+102-4
+
+Các địa điểm hoạt động
+
+38-39
+
+GRI 205: CHỐNG THAM NHŨNG
+
+102-6
+
+Quyền sở hữu và hình thức pháp lý
+
+11
+
+103-1
+
+102-6
+
+Các thị trường phục vụ
+
+38-39
+
+Giải thích về chủ đề trọng yếu và phạm vi chủ đề
+
+90
+
+102-7
+
+Quy mô của tổ chức
+
+103-2
+
+11, 38-39
+
+Phương pháp Quản trị và các hợp phần
+
+90
+
+102-8
+
+Thông tin về nhân viên và người lao động khác
+
+56-59, 94 105
+
+103-3
+
+Đánh giá về Phương pháp Quản trị
+
+90
+
+205-2
+
+205-3
+
+102-14
+
+Tuyên bố của người ra quyết định cấp cao
+
+4-7
+
+Truyền thông và đào tạo về các chính sách và quy trình chống tham nhũng Các vụ việc tham nhũng đã xác nhận và các biện pháp xử lý
+
+90-91
+
+91
+
+102-18
+
+Cơ cấu quản trị
+
+116-139
+
+GRI 300: CÔNG BỐ THÔNG TIN THEO TIÊU CHUẨN MÔI TRƯỜNG GRI 302; NĂNG LƯỢNG
+
+103-1
+
+102-45
+
+Các đơn vị được bao gồm trong báo cáo tài chính hợp nhất
+
+40-44, 161
+
+103-2
+
+Phương pháp Quản trị và các hợp phần
+
+102-46
+
+Xác định nội dung báo cáo và phạm vi chủ đề
+
+102-47
+
+Danh sách các chủ đề trọng yếu
+
+80-87 87
+
+103-3
+
+Đánh giá về Phương pháp Quản trị
+
+302-1
+
+Tiêu thụ năng lượng trong tổ chức
+
+102-48
+
+Trình bày lại thông tin
+
+Không có
+
+302-4
+
+Giảm tiêu hao năng lượng
+
+Giải thích về chủ đề trọng yếu và phạm vi chủ đề
+
+92
+
+92
+
+92
+
+92
+
+92
+
+102-49
+
+Thay đổi trong báo cáo
+
+102-50
+
+Kỳ báo cáo
+
+Không có 80
+
+GRI 305; PHÁT THÁI
+
+103-1
+
+Giải thích về chủ đề trọng yếu và phạm vi chủ đề
+
+93
+
+102-51
+
+Ngày của báo cáo gần nhất
+
+19/04/2022
+
+103-2
+
+Phương pháp Quản trị và các hợp phần
+
+93
+
+102-62
+
+Chu kỳ báo cáo
+
+Hằng năm
+
+103-3
+
+Đánh giá về Phương pháp Quản trị
+
+93
+
+102-53
+
+Đầu mối liên hệ cho các thắc mắc về báo cáo
+
+80
+
+305-2
+
+Phát thải khú nhà kinh (GHG) giản tiếp từ năng lượng (Phạm vi 2)
+
+93
+
+102-55
+
+Mục lục GRI
+
+188-191
+
+188
+
+* BÁO CÁO THƯỜNG NIÊN 2022
+
+189

@@ -1,0 +1,37 @@
+Cơ cấu bộ máy quản lý:
+
+SƠ ĐỒ BỘ MÁY QUẢN LÝ CỦA CÔNG TY
+
+BAN KIỂM SOÁT NỘI BỘ
+
+TỔNG GIÁM ĐỐC
+
+BAN THƯ KÝ
+
+PHÓ TGĐ TÀI CHÍNH
+
+BAN NỘI CHÍNH
+
+PHÓ TGĐ DỰ ÁN
+
+PHÓ TGĐ TT CÔNG TY TỰ
+
+P.TÀI CHÍNH
+
+P.HÀNH CHÍNH
+
+BAN QUẢN LÝ DỰ ÁN
+
+CÁC CÔNG TY CON
+
+CÁC CÔNG TY LIÊN
+
+KËT
+
+P KẾ TOÁN
+
+P. NHÂN SỰ
+
+P. QUẢN LÝ CỔ ĐÔNG
+
+P. PR & QT MANG
