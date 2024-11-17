@@ -1,0 +1,49 @@
+27
+
+Board of Directors: (danh sách thành viên Hội đồng quản trị, tỷ lệ sở hữu cổ phần có quyền biểu quyết và các chứng khoán khác do công ty phát hành, nêu rõ thành viên độc lập và các thành viên khác; số lượng chức danh thành viên Hội đồng quản trị, chức danh quản lý do từng thành viên Hội đồng quản trị của công ty nắm giữ tại các công ty khác/(The list of members of the Board of Directors, ownership percentages of voting shares and other securities issued by the company, the list of independent members and other members; the list of positions that a member of the Board of Directors at the Company hold at other companies).
+
+| 1. Ông Trần Khắc Chung - Chủ tịch HĐQT
+
+Năm sinh: 1968
+
+Trình độ chuyên môn: Cử nhân Kinh tế.
+
+Trình độ lý luận chính trị: Cao cấp.
+
+Trình độ tin học : B.
+
+Trình độ ngoại ngữ : B (Anh văn).
+
+Số CP sở hữu: 0 CP chiếm tỷ lệ: 0%.
+
+Số CP đại diện vốn Tập đoàn tại Công ty: 15.405.610 CP chiếm tỷ lệ: 51% tổng số cổ phần có quyền biểu quyết.
+
+Ngày bắt đầu là thành viên HĐQT Công ty CP cao su Hoà Bình: 25/4/2019. Chủ tịch Hội đồng quản trị Công ty CP cao su Việt – Lào.
+
+2. Ông Nguyễn Văn Quang – Thành viên HĐQT kiêm Tổng Giám đốc
+
+Năm sinh : 1969
+
+Trình độ chuyên môn: Cử nhân kinh tế.
+
+Trinh độ lý luận chính trị: Cao cấp.
+
+Trình độ tin học : A
+
+Trình độ ngoại ngữ : B (Anh văn)
+
+Số CP sở hữu: 0 CP chiếm tỷ lệ: 0%.
+
+Số CP đại diện vốn Tập đoàn tại Công ty: 622.257 CP chiếm tỷ lệ: 2,06% tổng số cổ phần có quyền biểu quyết.
+
+Ngày bắt đầu là thành viên HĐQT Công ty CP cao su Hoà Bình: 29/6/2022. Thành viên Hội đồng quản trị Công ty CP cao su Việt – Lào.
+
+3. Ông Bùi Phước Tiên – Thành viên độc lập HĐQT.
+
+Năm sinh : 1956
+
+Trinh độ chuyên môn: Cử nhân kinh tế.
+
+Trình độ lý luận chính trị: Cao cấp.
+
+Trình độ tin học : A
