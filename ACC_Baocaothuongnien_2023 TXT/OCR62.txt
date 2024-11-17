@@ -1,0 +1,45 @@
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ XÂY DỰNG BÌNH DƯƠNG ACC
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+MẪU SỐ 509 - DN
+
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính kim theo
+
+4. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU
+
+4.1. Cơ sở lập báo cáo tài chính
+
+Báo cáo tài chính được lập trên cơ sở kế toàn dẫn tích (trừ một số thông tin liên quan đến lưu chuyển tiền tệ), theo nguyên tắc giá gốc, dựa trên giả thiết hoạt động liên tục.
+
+4.2. Ước tính kế toán
+
+Việc lập báo cáo tài chính tuân thủ Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính yêu cầu Ban Tổng giám đốc phải có những ước tính và giả định ảnh hưởng đến số liệu báo cáo về công nợ, tài sản và miệng trình bày các khoản công nợ và tài sản tiềm tàng lại ngày lập báo cáo tài chính cũng như các số liệu báo cáo về doanh thu và chi phí trong suốt năm tài chính. Kết quả hoạt động kinh doanh thực tế có thể khác với các ước tính, giá định đặt ra.
+
+4.3. Tiền và các khoản tương đương tiền
+
+Tiền phản ánh toàn bộ số tiền hiện có của Công ty tại ngày kết thúc niên độ kế toán, bao gồm tiền mặt, tiền gửi ngân hàng không kỳ hạn và tiền đang chuyên,
+
+Các khoản tương đương tiền phản ánh các khoản đầu tư ngắn hạn có thời hạn thu hồi không quá 03 tháng kể từ ngày đầu lữ có khả năng chuyển đổi dễ dàng thành một lượng tiền xác định và không có rủi ro trong việc chuyển đổi thành tiền tại thời điểm báo cáo, được ghi nhận phù hợp với quy định của Chuẩn mực kế toán Việt Nam số 24 - Đảo cáo lưu chuyển tiến tệ.
+
+4.4. Đầu tư nắm giữ đến ngày đáo hạn
+
+Phản ánh các khoản đầu tư mà Công ty có ý định và khả năng nằm giữ đến ngày đáo hạn có kỳ hạn còn lại không quá 12 tháng (ngắn hạn) và trên 12 tháng (dài hạn) kể từ thời điểm báo cáo (ngoài các khoản chứng khoán kinh doanh), bao gồm các khoản tiền gửi ngân hàng có kỳ hạn (bao gồm cả Giáo loại tin phiếu, kỳ phiếu) với mục đích thu lãi hàng kỳ.
+
+Các khoản đầu tư nằm giữ đến ngày đào hạn được ghi nhận ban đầu theo giá gốc, bao gồm giá mua và các chi phí liên quan đến giao dịch mua các khoản đầu tư như chi phí môi giới, giao dịch, tư vấn, thuế, lệ phí và phi ngân hàng.... Sau ghi nhận ban đầu, các khoản đầu tư này được ghi nhận theo giả trị có thể thu hồi.
+
+Lãi tiền gửi phát sinh sau ngày mua các khoản đầu tư nắm giữ đến ngày đáo hạn, lãi khi thanh lý. nhượng bán các khoản đầu tư nắm giữ đến ngày đáo hạn được ghi nhận vào doanh thu hoạt động tốt chính, Lai được hưởng trước khi Công ty nắm giữ được ghi giảm tri vào giá gốc tại thời điểm mua
+
+Công ty căn cứ kỳ hạn còn lại kể từ thời điểm báo cáo của các khoản đầu tư nắm giữ đến ngày đảo hạn để phân loại là dài hạn hoặc ngắn hạn.
+
+Khi có các bằng chứng chắc chắn cho thấy một phần hoặc toàn bộ khoản đầu tư có thể không thu hồi được và số tổn thất được xác định một cách đảng tin cậy thì tổn thất được ghi nhận vào chi phi tài chính trong năm và giảm trừ trực tiếp vào giá trị đầu tư. Dự phòng đối với các khoản đầu tư nắm giữ đến ngày đáo hạn cổ bản chất tương tự các khoản phải thu khó có khả năng thu hồi được trích lập trong tự phải thu khó đòi theo thuyết minh số 4.6.
+
+4.3. Các khoản cho vay
+
+Phản ánh các khoản cho vay bằng hợp đồng, thỏa thuận vay giữa hai bên có kỳ hạn thu hồi còn lại không quân 12 tháng (ngắn hạn) và trên 12 tháng (dài hạn) tại thời điểm lập báo cáo tài chính. Các khoản cho vay được ghi số kế toán theo giá gốc. Lãi cho vay được ghi nhận vào doanh thu hoạt động tài chính khi phát sinh.
+
+Công ty căn cứ kỳ hạn còn lại kể từ thời điểm báo cáo của các khoản cho vay để phân loại là đài hạn hoặc ngắn hạn và đánh giá tại các khoản mục tiền tệ có gốc ngoại tệ (nếu có).
+
+Dự phòng đối với các khoản cho vay có bản chất tương tự các khoản phải thu khô có khả năng thu hồi được trích lập tương tự phải thu khó đòi theo thuyết minh số 4.6
+
+10

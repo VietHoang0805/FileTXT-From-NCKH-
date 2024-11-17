@@ -1,0 +1,51 @@
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ XÂY DỰNG BÌNH DƯƠNG ACC
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+MAU SO B09-DN
+
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với bản của tài chính kèm theo
+
+Xác định được chi phí liên quan đến giao dịch bản bất động sản.
+
+Doanh thu hoạt động tài chính phát sinh từ lần tiền gửi, tiền cổ tức, lợi nhuận được chia và các khoản doanh thu hoạt động tài chính khác, cụ thể như sau:
+
+Tiền lãi được xác định trong đối chắc chắn trên cơ sở số dư tiền gửi, cho vay và lãi suất thực tế từng kỳ.
+
+có lúc, lợi nhuận được chia được ghi nhận theo thông báo của bên chia cổ tức, lợi nhuận.
+
+Thu nhập khác phản ánh các khoản thu nhập phát sinh từ các sự kiện hay các nghiệp vụ riêng biệt với hoạt động kinh doanh thông thưởng của Công ty, ngoài các khoản doanh thu nếu trên.
+
+4.19. Thué
+
+Thuế thu nhập doanh nghiệp bao gồm thuế thu nhập hiện hành và thuế thu nhập hoãn lại.
+
+Chi phí thuế thu nhập hiện hành phản ánh số thuế thu nhập doanh nghiệp phải nộp phát sinh trong năm và số thuế thu nhập doanh nghiệp phải nộp bổ sung do phát hiện sai sót không trọng yếu của các năm trước. Thu nhập thuế thu nhập hiện hành phản ảnh số thuế thu nhập doanh nghiệp phải nộp được ghi giảm do phát hiện sai sót không trọng yếu của các năm trước,
+
+Chi phí thuế thu nhập hoàn lại phản ánh số chênh lệch giữa tài sản thuế thu nhập hoãn lại được hoàn nhập trong năm lớn hơn tài sản thuế thu nhập hoãn lại phát sinh trong năm hoặc thuế thu nhập hoãn lại phải trả phát sinh trong năm lớn hơn thuế thu nhập hoàn lại phải trả được hoàn nhập trong năm. Thu nhập thuế thu nhập hoãn lại phản ánh số chênh lệch giữa tài sản thuế thu nhập hoãn lại phát sinh trong năm lớn hơn tài sản thuế thu nhập hoãn lại được hoãn nhập trong năm hoặc thuế thu nhập hoàn lại phải trả được hoàn nhập trong năm lớn hơn thuế thu nhập hoãn lại phải trả phát sinh trong năm.
+
+Thuế thu nhập hoãn lại được tính trên các khoản chênh lệch giữa giá trị ghi số và cơ sở tính thuế của các khoản mục tài sản hoặc công nợ trên báo cáo tài chính, khoản lỗ tính thuế và ưu đãi thuế chưa sử dụng. Thuế thu nhập hoãn lại phải trả phải được ghi nhận cho tất cả các khoản chênh lệch tạm thời, đối với tài sản thuế thu nhập hoàn lại chỉ được ghi nhận khi chắc chắn có đủ lợi nhuận tính thuế trong tương lai để khấu trừ các khoản chênh lệch tạm thời
+
+Thuế thu nhập hoãn lại được xác định theo thuế suất dự lính sử áp dụng cho năm mà tài sản được thu hồi hay nợ phải trả được thanh toán. Thuế thu nhập hoãn lại được ghi nhận vào báo cáo kết quả hoạt động kinh doanh trừ trường hợp khoản thuế đó có liên quan đến các khoản mục được ghi thẳng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hoãn lại cũng được ghi thẳng vào
+
+vốn chủ sở hữu.
+
+Tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả được bù trừ khi Công ty có quyền hợp pháp đề bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và khi các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả liên quan tới thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế và Công ty có dự định thành toán thuế thu nhập hiện
+
+hành trên cơ sở thuần.
+
+Thu nhập tính thuế có thể khác với tổng lợi nhuận kế toán trước thuế được trình bày trên báo cáo kết quả hoạt động kinh doanh vì thu nhập tính thuế không bao gồm các khoản thu nhập chịu thuế hay chỉ phi được khấu trừ trong các năm khác (bao gồm cỗ lỗ mang sang, nếu có) và ngoài ra không bao gồm các thu nhập không chịu thuế hoặc chi phí không được khấu trên.
+
+Việc xác định thuế thu nhập của Công ty căn cứ vào các quy định hiện hành về thuế. Tuy nhiên, những quy định này thay đổi theo từng thời kỳ và việc xác định nghĩa vụ về thuế thu nhập doanh nghiệp tuy thuộc vào kết quả kiểm tra của cơ quan thuế có thẩm quyền.
+
+Các loại thuế khác được áp dụng theo các luật thuế hiện hành tại Việt Nam.
+
+4.20. Công cụ tài chính
+
+Ghi nhận ban đầu
+
+Tài sản tài chính
+
+16
+
+16
