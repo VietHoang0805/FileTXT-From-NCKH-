@@ -1,0 +1,311 @@
+STT
+
+Tên công ty
+
+Doanh thu
+
+Đơn vị tính: Triệu đồng
+
+Trong đó
+
+Loi
+
+Tông doanh thu
+
+và thu
+
+nhập khác | cung cấp
+
+doanh
+
+nhuận
+
+thu bán
+
+sau
+
+Tông tài sản
+
+Vón chu so hữu
+
+Hệ số
+
+thanh
+
+toán
+
+hàng và
+
+thue
+
+ngắn hạn
+
+dich vu
+
+I
+
+Công ty con
+
+Công ty TNHH
+
+1
+
+MTV Thương mại
+
+7.858.721 7.809.395 27.012 548.989
+
+50.000
+
+0,98
+
+Habeco
+
+Công ty CP bia Hà
+
+2
+
+Nội - Hải Dương
+
+167.146
+
+162.998 13.196 179.786
+
+73.512
+
+1,27
+
+3
+
+Công ty CP
+
+bia Hà
+
+| Nội - Hải Phòng
+
+232.200
+
+230.772 3.513 289.516 156.931
+
+0,46
+
+4
+
+|
+
+Công ty CP bia Hà
+
+Nội - Nam Định
+
+56.168
+
+55.638 2.536 36.181
+
+25.175
+
+1,31
+
+5
+
+5
+
+Công ty CP bia Hà
+
+Nội - Thái Bình
+
+168.571
+
+165.852
+
+5.959 357.093
+
+105.705
+
+0,73
+
+Công ty CP bia
+
+6
+
+583.749
+
+Thanh Hóa
+
+580.810
+
+9.838 325.494
+
+157.819
+
+1,06
+
+7
+
+Công ty CP bia Hà
+
+Nội - Quảng Bình
+
+90.239
+
+89.742
+
+684 90.425 72.686
+
+1,44
+
+8
+
+Công ty CP Bao bị
+
+Bia - Rượu - NGK
+
+84.077
+
+83.200
+
+4.107 40.357
+
+35.060
+
+5,33
+
+9
+
+Công ty CP Cổn
+
+Rượu Hà Nội.
+
+137.079
+
+125.431
+
+(84.52 8)
+
+658.298 559.693
+
+3,84
+
+Công ty CP Thương
+
+10
+
+mại Bia Hà Nội
+
+595.011
+
+590.482 27.663
+
+143.937 45.181
+
+0,99
+
+Công ty CP Bia -
+
+11
+
+Rượu - NGK Hà Nội
+
+333.655
+
+333.640 1.644 49.221 30.950
+
+2,08
+
+- Quảng Ninh
+
+Công ty CP Đầu tư
+
+12
+
+phát triển Công nghệ
+
+545.776
+
+Bia-Rugu-NGK
+
+544.486 22.920 579.275 298.732
+
+0,75
+
+Hà Nội
+
+13
+
+Công ty CP bia Hà
+
+Nội - Nghệ An
+
+464.845
+
+461.690 7.851 453.072 208.153
+
+0,65
+
+14
+
+Công ty CP bia Hà
+
+| Nội - Quảng Trị
+
+212.793
+
+209.281 7.371 233.919 105.687)
+
+0,86
+
+Công ty CP Habeco
+
+15
+
+Hải Phòng
+
+260.606
+
+253.937 1.717 426.757
+
+109.7131
+
+0,62
+
+16
+
+Công ty CP bia Hà
+
+| Nội - Hồng Hà
+
+203.738
+
+202.343 15.184 189.074 112.379
+
+0,83
+
+=
+
+II
+
+Công ty liên kết,
+
+liên doanh
+
+1
+
+Công ty CP Bao bị
+
+141.005
+
+Habeco
+
+140.923 1.987 134.989 51.049
+
+1,02
+
+2
+
+Công ty CP bia Hà
+
+Nội - Kim Bài
+
+146.983
+
+145.738 6.598 110.875 49.901 11
+
+0,30

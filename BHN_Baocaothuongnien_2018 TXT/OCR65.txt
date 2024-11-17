@@ -1,0 +1,41 @@
+Các khoản chi phí được ghi nhận vào chi phí tài chính gồm: Chi phí hoặc các khoản lỗ liên quan đến các hoạt động đầu tư tài chính. Chỉ phi vay vốn; Các khoản lỗ do thay đổi tỷ giá hối đoái của các nghiệp vụ phát sinh liên quan đến ngoại tệ: Dự phòng giảm giá đầu tư chứng khoán và các khoản đầu tư tài chính dài hạn.
+
+Các khoản trên được ghi nhận theo tổng số phát sinh trong năm, không bù trừ với doanh thu hoạt động tài chính.
+
+16. Nguyên tắc ghi nhận chi phí bán hàng, chi phí quản lý doanh nghiệp
+
+Chi phí bán hàng phản ánh các chi phi thực tế phát sinh trong quá trình bán sản phẩm, hàng hoá, cung cấp dịch vụ, bao gồm các chi phí chào hàng, giới thiệu sản phẩm, quảng cáo sản phẩm, hoa hồng bán hàng, chi phí bảo hành sản phẩm, hàng hoá (trừ hoạt động xây lắp), chi phí bảo quản, đóng gói, vận chuyển...
+
+Chi phí quản lý doanh nghiệp phản ảnh các chi phi quản lý chung của doanh nghiệp gồm các chi phi về lương nhân viên bộ phận quản lý doanh nghiệp (tiền lương, tiền công, các khoản phụ cấp....); bảo hiểm xã hội, bảo hiểm y tế, kinh phí công đoàn, bảo hiểm thất nghiệp của nhân viên quản lý doanh nghiệp; chi phí vật liệu văn phòng, công cụ lao động, khấu hao TSCĐ dùng cho quản lý doanh nghiệp: tiền thuê đất, thuế môn bài; khoản lập dự phòng phải thu khó đòi; dịch vụ mua ngoài (điện, nước, điện thoại, fax, bảo hiểm tài sản, cháy nổ...); chi phí bằng tiền khác (tiếp khách, hội nghị khách
+
+hàng...).
+
+17. Nguyên tắc và phương pháp ghi nhận chi phí thuế thu nhập doanh nghiệp
+
+Chi phi thuế thu nhập doanh nghiệp ghi nhận trên báo cáo kết quả hoạt động bao gồm Chi phí thuế thu nhập doanh nghiệp hiện hành và Chi phí thuế thu nhập doanh nghiệp hoãn lại.
+
+Chi phí thuế thu nhập doanh nghiệp hiện hành được xác định trên cơ sở thu nhập chịu thuế và thuế suất thuế thu nhập doanh nghiệp trong năm hiện hành.
+
+Chi phí thuế thu nhập doanh nghiệp hoãn lại được xác định trên cơ sở số chênh lệch tạm thời được khấu trừ, số chênh lệch tạm thời chịu thuế và thuế suất thuế thu nhập doanh nghiệp dự tính sẽ áp dụng cho năm tài sản được thu hồi hay nợ phải trả được thanh toán, dựa trên luật thuế có hiệu lực vào ngày kết thúc kỳ kế toán năm.
+
+18. Báo cáo bộ phận
+
+Báo cáo theo bộ phận bao gồm bộ phận theo lĩnh vực kinh doanh hoặc một bộ phận theo khu vực địa
+
+ly.
+
+Bộ phận theo lĩnh vực kinh doanh: Là một bộ phận có thể phân biệt được của một doanh nghiệp tham gia vào quá trình sản xuất hoặc cung cấp sản phẩm, dịch vụ riêng lẻ, một nhóm các sản phẩm hoặc các dịch vụ có liên quan mà bộ phận này chịu rủi ro và lợi ích kinh tế khác với các bộ phận kinh
+
+doanh khác.
+
+Bộ phận theo khu vực địa lý: Là một bộ phận có thể phân biệt được của một doanh nghiệp tham gia vào quá trình sản xuất hoặc cung cấp sản phẩm, dịch vụ trong phạm vi một môi trường kinh tế cụ thể mà bộ phận này có chịu rủi ro và lợi ích kinh tế khác với các bộ phận kinh doanh trong các môi trưởng kinh tế khác.
+
+19. Công cụ tải chính
+
+Ghi nhận ban đầu
+
+Tài sản tài chính
+
+Tại ngày ghi nhận ban đầu, tài sản tài chính được ghi nhận theo giả gốc cộng các chi phí giao dịch có liên quan trực tiếp đến việc mua sắm tài sản tài chính đó.
+
+-64-

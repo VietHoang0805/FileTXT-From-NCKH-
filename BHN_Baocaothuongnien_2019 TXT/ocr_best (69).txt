@@ -1,0 +1,35 @@
+BÁO CÁO THƯỜNG NIÊN NĂM 2019
+
+HABECO
+
+Sức bật Việt Nam
+
++ Nếu sản phẩm, hàng hoá, dịch vụ đã tiêu thụ từ các kỳ trước, đến kỳ sau phải giảm giá, phải chiết khấu thương mại, bị trả lại nhưng phát sinh trước thời điểm phát hành Báo cáo tài chính, kế toán phải coi đây là một sự kiện cần điều chỉnh phát sinh sau ngày lập Bảng cân đối kế toán và ghi giảm doanh thu, trên Báo cáo tài chính của kỷ lập báo cáo (kỷ trước).
+
++ Trường hợp sản phẩm, hàng hoá, dịch vụ phải giảm giá, phải chiết khấu thương mại, bị trả lại sau thời điểm phát hành Báo cáo tài chính thì doanh nghiệp ghi giảm doanh thu của kỳ phát sinh (kỳ sau).
+
+14. Nguyên tắc ghi nhận giả vốn hàng bán
+
+Giá vốn hàng bản phản ánh trị giá vốn của sản phẩm, hàng hóa, dịch vụ, bất động sản đầu tư; giá thành sản xuất của sản phẩm xây lắp (đối với doanh nghiệp xây lắp) bán trong năm. Ngoài ra, còn phản ánh các chi phí liên quan đến hoạt động kinh doanh bất động sản đầu tư như: Chi phí khấu hao; chi phí sửa chữa; chi phí nghiệp vụ cho thuê BĐS đầu tư theo phương thức cho thuê hoạt động (trường hợp phát sinh không lớn); chi phí nhượng bán, thanh lý BĐS đầu tư...
+
+Khoản dự phòng giảm giá hàng tồn kho được tính vào giá vốn hàng bán trên cơ sở số lượng hàng tồn kho và phần chênh lệch giữa giá trị thuần có thể thực hiện được nhỏ hơn giá gốc hàng tồn kho. Khi xác định khối lượng hàng tồn kho bị giảm giá cần phải trích lập dự phòng, kế toán phải loại trừ khối lượng hàng tồn kho đã ký được hợp đồng tiêu thụ (có giá trị thuần có thể thực hiện được không thấp hơn giá trị ghi sổ) nhưng chưa chuyển giao cho khách hàng nếu có bằng chứng chắc chắn về việc khách hàng sẽ không từ bỏ thực hiện hợp đồng.
+
+15. Nguyên tắc ghi nhận chi phí tài chính
+
+Các khoản chi phí được ghi nhận vào chi phí tài chính gồm: Chi phi hoặc các khoản lỗ liên quan đến các hoạt động đầu tư tài chính; Chi phi vay vốn; Các khoản lỗ do thay đổi tỷ giá hối đoái của các nghiệp vụ phát sinh liên quan đến ngoại tệ; Dự phòng giảm giá đầu tư chứng khoán và các khoản đầu tư tài chính dài hạn.
+
+Các khoản trên được ghi nhận theo tổng số phát sinh trong năm, không bù trừ với doanh thu hoạt động tài chính.
+
+16. Nguyên tắc ghi nhận chi phí bán hàng, chi phí quản lý doanh nghiệp
+
+Chi phí bán hàng phản ánh các chi phi thực tế phát sinh trong quá trình bán sản phẩm, hàng hoá, cung cấp dịch vụ, bao gồm các chi phí chào hàng, giới thiệu sản phẩm, quảng cáo sản phẩm, hoa hồng bán hàng, chi phí bảo hành sản phẩm, hàng hoá (trừ hoạt động xây lắp), chi phí bảo quản, đóng gói, vận chuyển
+
+Chi phí quản lý doanh nghiệp phản ánh các chi phí quản lý chung của doanh nghiệp gồm các chi phí về lương nhân viên bộ phận quản lý doanh nghiệp (tiền lương, tiền công, các khoản phụ cấp,...); bảo hiểm xã hội, bảo hiểm y tế, kinh phi công đoàn, bảo hiểm thất nghiệp của nhân viên quản lý doanh nghiệp; chi phí vật liệu văn phòng, công cụ lao động, khấu hao TSCĐ dùng cho quản lý doanh nghiệp; tiền thuê đất, thuế môn bài; khoản lập dự phòng phải thu khó đòi; dịch vụ mua ngoài (điện, nước, điện thoại, fax, bảo hiểm tài sản, cháy nố...); chi phí bằng tiền khác (tiếp khách, hội nghị khách hàng...),
+
+17. Nguyên tắc và phương pháp ghi nhận chi phí thuế thu nhập doanh nghiệp
+
+Chi phi thuế thu nhập doanh nghiệp ghi nhận trên báo cáo kết quả hoạt động bao gồm Chi phí thuế thu nhập doanh nghiệp hiện hành và Chi phí thuế thu nhập doanh nghiệp hoãn lại.
+
+Chi phí thuế thu nhập doanh nghiệp hiện hành được xác định trên cơ sở thu nhập chịu thuế và thuế suất thuế thu nhập doanh nghiệp trong năm hiện hành.
+
+69

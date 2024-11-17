@@ -1,0 +1,251 @@
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+
+Tại ngày 31 tháng 12 năm 2018
+
+Mã Thuyết
+
+Đơn vị tính: VND
+
+TÀI SẢN
+
+só
+
+31/12/2018
+
+01/01/2018
+
+minh
+
+A . TÀI SẢN NGÂN HẠN
+
+100
+
+5.385.393.126.815
+
+5.330.868.765.076
+
+1. Tiền và các khoản tương đương tiền
+
+110
+
+V.1
+
+1.733.702.238.425 2.154.885.217.239
+
+1. Tien
+
+111
+
+1.439.057.648.095
+
+1.658.084.490.815
+
+2. Các khoản tương đương tiền
+
+112
+
+294.644.590.330
+
+496.800.726.424
+
+II. Đầu tư tài chính ngắn hạn
+
+| 1. Chứng khoán kinh doanh
+
+2. Dự phòng giảm giá chứng khoán kinh doanh (*)
+
+| 3. Đầu tư nắm giữ đến ngày đảo hạn
+
+III. Các khoản phải thu ngắn hạn 1. Phải thu ngắn hạn của khách hàng | 2. Trả trước cho người bản ngắn hạn
+
+| 3. Phải thu nội bộ ngắn hạn
+
+120
+
+2.043.122.604.462 1.560.566.728.750
+
+121
+
+122
+
+123 V.2
+
+2.043.122.604.462 1.560.566.728.750
+
+130
+
+431.414.092.300
+
+334.765.969.285
+
+131
+
+V.3
+
+287.811.674.105
+
+212.499.920.646
+
+132
+
+56.921.799.425
+
+44.058.527.466
+
+133
+
+4. Phải thu theo tiến độ kế hoạch hợp đồng
+
+134
+
+xây dựng
+
+5. Phải thu về cho vay ngắn hạn
+
+135
+
+6. Phải thu ngắn hạn khác
+
+136
+
+653
+
+V.4
+
+15.000.000.000
+
+28.000.000.000
+
+V.5
+
+131.334.961.802
+
+114.173.525.933
+
+| 7. Dự phòng phải thu ngắn hạn khó đòi (")
+
+137
+
+(59.654.343.032) (63.966.004.760)
+
+8. Tài sản thiếu chờ xử lý
+
+139
+
+IV. Hàng tồn kho
+
+140
+
+V.7
+
+805.567.892.520
+
+950.173.058.560
+
+1. Hàng tồn kho
+
+141
+
+815.639.621.286
+
+950.281.497.853
+
+2. Dự phòng giảm giá hàng tồn kho (*)
+
+149
+
+(10.071.728.766)
+
+(108.439.293)
+
+V. Tài sản ngắn hạn khác
+
+150
+
+371.586.299.108
+
+330.477.791.242
+
+1. Chi phí trả trước ngắn hạn
+
+151 V.13
+
+21.574.420.508
+
+22.346.699.607
+
+2. Thuế GTGT được khấu trừ
+
+152
+
+26.290.752.637
+
+20.353.366.298
+
+3. Thuế và các khoản khác phải thu Nhà
+
+153
+
+V.16
+
+323.721.125.963
+
+287.777.725.337
+
+nước
+
+4. Giao dịch mua bán lại trái phiếu Chính
+
+154
+
+phú
+
+5. Tài sản ngắn hạn khác
+
+155
+
+B. TẢI SẢN DÀI HẠN
+
+200
+
+3.817.452.883.244 4.281.136.481.537
+
+I. Các khoản phải thu dài hạn
+
+210.
+
+656.846.000
+
+I. Phải thu dài hạn của khách hàng
+
+211
+
+2. Trả trước cho người bán dài hạn
+
+212
+
+3. Vốn kinh doanh ở đơn vị trực thuộc
+
+213
+
+4. Phải thu nội bộ dài hạn
+
+214
+
+5. Phải thu về cho vay dài hạn
+
+215
+
+V.4
+
+656.846.000
+
+6. Phải thu dài hạn khác
+
+216
+
+7. Dự phòng phải thu dài hạn khó đòi (")
+
+219
+
+-49-

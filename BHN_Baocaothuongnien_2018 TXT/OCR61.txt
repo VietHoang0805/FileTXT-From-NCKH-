@@ -1,0 +1,85 @@
+e)
+
+Đầu tư vào công cụ vốn của đơn vị khác
+
+Đầu tư vào công cụ vốn của đơn vị khác phản ánh các khoản đầu tư vào công cụ vốn nhưng Tổng Công ty không có quyền kiểm soát, đồng kiểm soát hoặc có ảnh hưởng đáng kể đối với bên được đầu
+
+tur.
+
+Khoản đầu tư vào công cụ vốn các đơn vị khác được phản ảnh theo nguyên giá trừ các khoản dự phòng tổn thất đầu tư vào đơn vị khác. Khoản dự phòng tổn thất đầu tư vào công cụ vốn các đơn vị khác được trích lập theo qui định hiện hành.
+
+5. Nguyên tắc kế toán nợ phải thu
+
+Các khoản phải thu được trình bày trên các báo cáo tài chính theo giá trị sổ sách các khoản phải thu từ khách hàng và các khoản phải thu khác sau khi cấn trừ các khoản dự phòng được lập cho các khoản phải thu khó đòi.
+
+Dự phỏng nợ phải thu khó đòi thể hiện phần giá trị của các khoản phải thu mà Tổng Công ty dự kiến không có khả năng thu hồi tại ngày kết thúc năm tài chính. Tăng hoặc giảm số tài khoản dự phòng được hạch toán vào chi phí quản lý doanh nghiệp trong báo cáo kết quả kinh doanh.
+
+Các khoản phải thu được phân loại là Ngắn hạn và Dài hạn trên Bảng cân đối kế toán căn cứ kỳ hạn còn lại của các khoản phải thu tại ngày lập Báo cáo Tài chính
+
+Các khoản phải thu khách hàng, khoản trả trước cho người bán, và các khoản phải thu khác tại thời điểm báo cáo, nếu:
+
+- Có thời hạn thu hồi hoặc thanh toán dưới 01 năm (hoặc trong một chu kỳ sản xuất kinh doanh) được phân loại là Tải sản ngắn hạn;
+
+- Có thời hạn thu hồi hoặc thanh toán trên 01 năm (hoặc trên một chu kỳ sản xuất kinh doanh) được phân loại là Tài sản dài hạn.
+
+6. Nguyên tắc ghi nhận hàng tồn kho
+
+Hàng tồn kho được tính theo giá gốc. Trường hợp giá trị thuần có thể thực hiện được thấp hơn giá gốc thì phải tính theo giá trị thuần có thể thực hiện được. Giá gốc hàng tồn kho bao gồm chi phí mua, chi phi chế biến và các chi phí liên quan trực tiếp khác phát sinh để có được hàng tồn kho ở địa điểm và trạng thái hiện tại.
+
+Giá trị hàng tồn kho được xác định theo phương pháp bình quân gia quyền.
+
+Hàng tồn kho được hạch toán theo phương pháp kê khai thường xuyên.
+
+Dự phòng giảm giá hàng tồn kho được lập vào thời điểm cuối năm căn cứ theo số chênh lệch giữa giả gốc của hàng tồn kho lớn hơn giá trị thuần có thể thực hiện được.
+
+7. Nguyên tắc ghi nhận và khấu hao tài sản cố định
+
+Tài sản cố định hữu hình, tài sản cố định vô hình được ghi nhận theo giá gốc. Trong quá trình sử dụng, tài sản cố định hữu hình, tài sản cố định vô hình được ghi nhận theo nguyên giá, hao mòn luy kể và giá trị còn lại.
+
+Khấu hao được trích theo phương pháp đường thẳng. Thời gian khấu hao được ước tính như sau:
+
+Loại tài sản
+
+Thời gian khấu hao (năm)
+
+- Nhà cửa, vật kiến trúc
+
+- Máy móc, thiết bị
+
+- Phương tiện vận tải
+
+- Dụng cụ quản lý
+
+Tài sản cố định khác
+
+- Thương hiệu
+
+Năm nay.
+
+Năm trước
+
+05-22
+
+05-22
+
+05-15
+
+05-15
+
+06-10
+
+06-10
+
+03-08
+
+03-08
+
+03-05
+
+03-05
+
+04
+
+04
+
+-60-

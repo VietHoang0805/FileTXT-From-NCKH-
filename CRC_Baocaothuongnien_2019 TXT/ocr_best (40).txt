@@ -1,0 +1,373 @@
+BÔI-DN/HN
+
+TAI SAN
+
+SO
+
+100
+
+CÔNG TY CỔ PHẦN CREATE CAPITAL VIỆT NAM
+
+Địa chỉ: 104/140 Khuất Duy Tiến, Nhân Chính, Thanh Xuân, Hà Nội
+
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+
+Tại ngày 31/12/2019
+
+A. TAI SAN NGAN HAN
+
+Báo cáo tài chính hợp nhất cho năm tài chính
+
+kết thúc ngày 31 tháng 12 năm 2019
+
+310.297.363.922
+
+Đơn vị tính: VND.
+
+01/01/2019
+
+238.839.703.048
+
+MÃ THUYẾT
+
+31/12/2019
+
+MINH
+
+t. Tiền và các khoản tương đương tiền.
+
+110
+
+V.1
+
+9.571.296.647
+
+19.519.565.823
+
+1.
+
+Tien
+
+111
+
+9.571.296.647
+
+13.249.565.823
+
+2. Các khoản tương đương tiền
+
+II. Đầu tư tài chính ngắn hạn
+
+1. Đầu tư nắm giữ đến ngày đảo hạn
+
+III. Các khoản phải thu ngắn hạn. I. Phải thu ngắn hạn của khách hàng
+
+2. Trả trước cho người bản ngắn hạn
+
+112
+
+6.270.000.000
+
+120
+
+33.000.000.000
+
+35.853.226.849
+
+123
+
+12
+
+V2
+
+33.000.000.000
+
+35.853.226.849
+
+130
+
+164.750.011.378
+
+107.571.125.428
+
+131
+
+V3
+
+69.030.718.528
+
+2.770.415.158
+
+132
+
+V.5
+
+39.613.905.590
+
+84.895.172.780
+
+3. Phải thu nội bộ ngắn hạn
+
+133
+
+4. Phải thu theo tiến độ kế hoạch hợp đồng xây dựng 134
+
+5. Phải thu về cho vay ngắn hạn
+
+135
+
+VAI
+
+2.520.000.000
+
+5.358.879.000
+
+6. Phải thu ngắn hạn khác
+
+136
+
+V.7.1
+
+51.418.294.848
+
+14.639.635.320
+
+7. Dự phòng phải thu ngắn hạn khó đòi (*)
+
+137
+
+V.6
+
+(92.976.830)
+
+(92.976.830)
+
+8. Tài sản thiếu chủ xử lý
+
+139
+
+V.10
+
+2.260.069.242
+
+010
+
+| IV. Hàng tồn kho
+
+140
+
+101.545.379.897
+
+74.873.964.198
+
+CON
+
+I. Hàng tồn kho
+
+141
+
+V.9
+
+101.545.379.897
+
+74.873.964.198 TN
+
+KIEM
+
+V. Tài sản ngắn hạn khác
+
+150
+
+1.430.676.000
+
+1.021.820.750
+
+A VI
+
+1. Chi phí trả trước ngắn hạn
+
+151
+
+V.8.1
+
+3.342.803 || CHI
+
+2. Thuế GTGT được khấu trừ
+
+152
+
+1.430.676.000
+
+1.018.477.947
+
+MIE
+
+| 3. Thuế và các khoản khác phải thu Nhà nước
+
+153
+
+B. TAI SAN DAI HAN
+
+200
+
+94.406.101.726
+
+108.825.957.167
+
+I. Các khoản phải thu dài hạn
+
+210
+
+400.000.000
+
+28.205.000.000
+
+I. Phải thu về cho vay dài hạn
+
+215
+
+V4.2
+
+400.000.000
+
+400.000.000
+
+2. Phải thu dài hạn khác
+
+216
+
+V.7.2
+
+27.805.000.000
+
+11. Tài sản cố định
+
+220
+
+23.121.918.313
+
+19.727.855.785
+
+1. Tài sản cố định hữu hình
+
+221
+
+V.11
+
+23.121.918.313
+
+19.727.855.785
+
+222
+
+32.872.139.938
+
+- Giá trị hao mòn lại kết quy
+
+223
+
+(9.750.221.625)
+
+III. Bất động sản đầu tư
+
+230
+
+IV. Tài sản dở dang dài hạn.
+
+240
+
+1. Chi phí xây dựng cơ bản dở dang
+
+242
+
+V.12
+
+V. Đầu tư tài chính dài hạn
+
+250
+
+V2
+
+68.688.889.440
+
+732.418.022 732.418.022
+
+27.339.3845087 (7.611.528080 CONG
+
+to PHA
+
+3.410,841CHE CA 3.410.8194T NA
+
+56.785.422912
+
+I. Đầu tư vào công ty con
+
+251
+
+2. Đầu tư vào công ty liên kết, liên doanh 3. Đầu tư góp vốn vào đơn vị khác | 4. Dự phòng đầu tư tài chính dài hạn (*) 5. Đầu tư nắm giữ đến ngày đảo hạn
+
+VI. Tài sản dài hạn khác
+
+253
+
+252
+
+59.593.889.440
+
+40.190.422.912
+
+6.625.000.000
+
+14.125.000.000
+
+254
+
+255
+
+2.470.000.000
+
+2.470.000.000
+
+260
+
+1.462.875.951
+
+696.866.524
+
+1. Chi phí trả trước dài hạn
+
+261
+
+V.8.2
+
+1.407.647.652
+
+663.918.551
+
+2. Tài sản thuế thu nhập hoãn lại
+
+262
+
+V.13
+
+55.228.299
+
+32.947.973
+
+3. Thiết bị, vật tư, phụ tùng thay thể dài hạn
+
+263
+
+4. Tài sản dài hạn khác
+
+268
+
+TONG CONG TAI SAN
+
+270
+
+404.703.465.648
+
+347,665.660.215
+
+Báo cáo tài chính này phải được đọc cùng các thuyết minh kèm theo

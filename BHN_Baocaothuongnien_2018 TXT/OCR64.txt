@@ -1,0 +1,47 @@
+- Có khả năng thu được lợi ích kinh tế từ giao dịch cung cấp dịch vụ đó;
+
+- Xác định được phần công việc đã hoàn thành vào ngày lập Bảng cân đối kế toán hợp nhất,
+
+- Xác định được chi phí phát sinh cho giao dịch và chi phi để hoàn thành giao dịch cung cấp dịch vụ
+
+đó
+
+Phần công việc cung cấp dịch vụ đã hoàn thành được xác định theo phương pháp đánh giá công việc
+
+hoàn thành.
+
+Doanh thu hoạt động tài chính
+
+Doanh thu phát sinh từ tiền lãi, tiền bản quyển, cổ tức, lợi nhuận được chia và các khoản doanh thu hoạt động tài chính khác được ghi nhận khi thỏa mãn đồng thời hai (2) điều kiện sau:
+
+- Có khả năng thu được lợi ích kinh tế tử giao dịch đó;
+
+- Doanh thu được xác định tương đối chắc chắn.
+
+Cổ tức, lợi nhuận được chia được ghi nhận khi Tổng Công ty được quyền nhận cổ tức hoặc được quyền nhận lợi nhuận từ việc góp vốn.
+
+Các khoản giảm trừ doanh thu
+
+Khoản mục này dùng để phản ảnh các khoản được điều chỉnh giảm trở vào doanh thu bán hàng, cung cấp dịch vụ phát sinh trong năm, gồm: Chiết khấu thương mại, giảm giá hàng bán và hàng bán bị trả lại. Tài khoản này không phản ảnh các khoản thuế được giảm trở vào doanh thu như thuế GTGT đầu ra phải nộp tinh theo phương pháp trực tiếp.
+
+Việc điều chỉnh giảm doanh thu được thực hiện như sau:
+
+- Khoản chiết khấu thương mại, giảm giả hàng bán, hàng bán bị trả lại phát sinh cùng kỳ tiêu thụ sản phẩm, hàng hóa dịch vụ được điều chỉnh giảm doanh thu của kỳ phát sinh;
+
+- Trường hợp sản phẩm, hàng hoá, dịch vụ đã tiêu thụ từ các kỷ trước, đến kỳ sau mới phát sinh chiết khấu thương mại, giảm giá hàng bán hoặc hàng bán bị trả lại thì doanh nghiệp được ghi giảm doanh thu theo nguyên tắc:
+
++ Nếu sản phẩm, hàng hoá, dịch vụ đã tiêu thụ tử các kỵ trước, đến kỳ sau phải giảm giá, phải chiết khấu thương mại, bị trả lại nhưng phát sinh trước thời điểm phát hành Báo cáo tài chính, kế toán phải coi đây là một sự kiện cần điều chỉnh phát sinh sau ngày lập Bảng cân đối kế toán và ghi giảm doanh thu, trên Báo cáo tài chính của kỷ lập báo cáo (kỳ trước).
+
++ Trường hợp sản phẩm, hàng hoá, dịch vụ phải giảm giả, phải chiết khấu thương mại, bị trả lại sau thời điểm phát hành Báo cáo tài chính thì doanh nghiệp ghi giảm doanh thu của kỳ phát sinh (kỳ
+
+sau).
+
+14. Nguyên tắc ghi nhận giá vốn hàng bản
+
+Giá vốn hàng bản phản ánh trị giá vốn của sản phẩm, hàng hóa, dịch vụ, bất động sản đầu tư; giá thành sản xuất của sản phẩm xây lắp (đối với doanh nghiệp xây lắp) bán trong năm. Ngoài ra, còn phản ánh các chi phí liên quan đến hoạt động kinh doanh bất động sản đầu tư như: Chi phí khấu hao; chi phí sửa chữa chi phí nghiệp vụ cho thuê BĐS đầu tư theo phương thức cho thuê hoạt động (trường hợp phát sinh không lớn), chi phí nhượng bản, thanh lý BĐS đầu tư....
+
+Khoản dự phòng giảm giá hàng tồn kho được tính vào giá vốn hàng bán trên cơ sở số lượng hàng tồn kho và phấn chênh lệch giữa giá trị thuần có thể thực hiện được nhỏ hơn giá gốc hàng tồn kho. Khi xác định khối lượng hàng tồn kho bị giảm giá cần phải trích lập dự phòng, kế toán phải loại trừ khối lượng hàng tồn kho đã ký được hợp đồng tiêu thụ (có giá trị thuần có thể thực hiện được không thấp hơn giá trị ghi sổ) nhưng chưa chuyển giao cho khách hàng nếu có bằng chứng chắc chắn về việc khách hàng sẽ không từ bỏ thực hiện hợp đồng.
+
+15. Nguyên tắc ghi nhận chi phi tài chính
+
+-63-
