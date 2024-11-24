@@ -1,0 +1,305 @@
+OSCO
+
+CÔNG TY CÓ PHẢN VẬN TẢI BIỂN VIỆT NAM
+
+ClassNK
+
+150 9001
+
+Phụ lục 01: Thông tin đội tàu Công ty
+
+Đội tàu hàng khô
+
+TT
+
+Tên tàu
+
+Quốc tịch
+
+Näm
+
+Noi dong
+
+Đăng
+
+DWT
+
+GRT
+
+đóng
+
+kiem
+
+NRT
+
+1
+
+VĨNH HƯNG
+
+VIỆT NAM
+
+2002
+
+VIỆT NAM.
+
+NK-VR
+
+6.500 4.089
+
+2.448
+
+2 LAN HA
+
+VIỆT NAM
+
+2006
+
+VIỆT NAM
+
+NK-VR
+
+13.316
+
+8.216
+
+5.295
+
+3
+
+VEGA STAR
+
+VIỆT NAM
+
+1994
+
+NHẬT BẢN
+
+NK-VR
+
+22.035 13.713
+
+7.721
+
+4
+
+LUCKY STAR
+
+VIỆT NAM
+
+2009
+
+VIỆT NAM.
+
+NK-VR
+
+22.777 14.851
+
+7.158
+
+5
+
+BLUE STAR
+
+VIỆT NAM
+
+2010
+
+VIỆT NAM.
+
+NK-VR
+
+22.704 14.851
+
+7.158
+
+6
+
+NEPTUNE STAR
+
+VIỆT NAM
+
+1996
+
+NHẬT BẢN
+
+NK-VR
+
+25.398
+
+15.073
+
+8.964
+
+7 VOSCOSTAR
+
+VIỆT NAM
+
+1999
+
+NHẬT BẢN
+
+NK-VR
+
+46.671
+
+27.003
+
+15.619
+
+8
+
+VOSCO SKY
+
+VIỆT NAM
+
+2001
+
+NHẬT BẢN
+
+NK-VR
+
+52.520 29.367
+
+17.651
+
+9 VOSCO UNITY
+
+VIỆT NAM
+
+2004
+
+NHẬT BẢN
+
+LR-VR
+
+53.552
+
+29.963
+
+18.486
+
+10
+
+VOSCO SUNRISE
+
+VIỆT NAM
+
+2013
+
+VIỆT NAM
+
+NK-VR
+
+56.472 31.696
+
+18.819
+
+Đội tàu dầu sản phẩm
+
+TT
+
+Tên tàu
+
+Quốc tịch
+
+Năm
+
+Noi dong
+
+đóng
+
+Đăng kiểm
+
+DWT
+
+CBM (M3)
+
+11 DAI NAM
+
+VIỆT NAM
+
+2000
+
+NHẬT BẢN
+
+ABS-VR
+
+47.102
+
+53.617,50
+
+12 | ĐẠI MINH
+
+VIỆT NAM
+
+2004
+
+NHẬT BẢN
+
+LR-VR
+
+47.148
+
+52.536,70
+
+Đội tàu container
+
+TT
+
+Tên tàu
+
+Quốc tịch
+
+Näm
+
+đóng
+
+Noi dong
+
+Dang
+
+DWT
+
+kiễm
+
+Sức chở
+
+FORTUNE
+
+13
+
+VIỆT NAM
+
+1998
+
+NHẬT BẢN
+
+VR
+
+8.515
+
+560 TEUS
+
+NAVIGATOR
+
+FORTUNE
+
+14
+
+VIỆT NAM
+
+1997
+
+NHẬT BẢN
+
+VR
+
+8.937
+
+FREIGHTER
+
+561 TEUS
+
+Báo cáo thường niên năm 2019
+
+Trang 33
