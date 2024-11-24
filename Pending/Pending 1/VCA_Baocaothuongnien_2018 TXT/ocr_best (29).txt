@@ -1,0 +1,247 @@
+2.2
+
+2.3
+
+- Giảm giá hàng hoa
+
+- Hàng bán bị trả lại.
+
+- Thuế tiêu thụ đặc biệt, thuế xuất khẩu phải
+
+2.4 nop
+
+Doanh thu thuần về bán hàng và cung cấp
+
+06
+
+05
+
+2.500.300.000
+
+07
+
+3
+
+dịch vụ (10-01-02)
+
+10
+
+4
+
+Giá vốn hàng bán
+
+11
+
+VIL3
+
+2.512.157.974.249 2.423.070.186.176
+
+1.894.196.501.993
+
+1.766.708.876.142
+
+5
+
+Lợi nhuận gộp về bản hàng và cung cấp dịch
+
+vy (20-10-11)
+
+20
+
+89.087.788.073
+
+127.487.625.851
+
+6
+
+Doanh thu hoạt động tài chính.
+
+21
+
+VILA
+
+1.234.357.459
+
+1.255.043.500
+
+7
+
+Chi phi tài chính
+
+22 VILS
+
+8.471.613.979
+
+2.595.562.916
+
+Trong đó: Chi phí lãi vay
+
+23
+
+8.471.208.657
+
+2.595.508.300
+
+8
+
+Phần lái lỗ trong công ty liên doanh, liên kết
+
+24
+
+9
+
+Chi phí bán hàng
+
+25
+
+VIL8.b
+
+21.313.685.450
+
+18.471.654.298
+
+10
+
+Chi phí quản lý doanh nghiệp
+
+26
+
+VII.8.a
+
+19.605.868.066
+
+26.290.437.225
+
+11
+
+Lợi nhuận thuần từ hoạt động kinh doanh
+
+30
+
+40.930.978.037
+
+81.385.014.912
+
+(30-20+(21-22)-(25+26))
+
+12
+
+Thu nhập khác
+
+31
+
+VIL6
+
+768.900.973
+
+3.022.488.971
+
+13
+
+Chi phí khác
+
+32
+
+VIL7
+
+1.557.400.000
+
+274.871.335
+
+14
+
+Lợi nhuận khác (40-31-32)
+
+40
+
+(788.499.027)
+
+2.747.617.636
+
+15
+
+Tổng lợi nhuận kế toán trước thuế
+
+(50-30+40)
+
+50
+
+40.142.479.010
+
+84.132.632.548
+
+16
+
+Chi phí thuế thu nhập doanh nghiệp hiện hành (20%)
+
+51
+
+VII.10
+
+8.045.405.602
+
+17.389.053.657
+
+17
+
+18
+
+Lợi nhuận sau thuế thu nhập doanh nghiệp
+
+Chi phí thuế thu nhập doanh nghiệp hoãn lại.
+
+52
+
+(60-50-51-52)
+
+60
+
+32.097.073.408
+
+66.743.578.891
+
+19
+
+Lợi nhuận sau thuế công ty mẹ
+
+61
+
+20
+
+Lợi nhuận sau thuế công ty mẹ không kiểm
+
+soát
+
+21
+
+- Lại cơ bản trên cổ phiếu
+
+62 70
+
+2.113
+
+3.000
+
+và địa chỉ
+
+Toàn văn Báo cáo Kiểm toán Báo cáo Tài chính năm 2018 của Công ty Cổ phần thép VICASA-VNSTEEL được lưu trên Website www.vicasasteel.com www.thepbienhoa.com.vn
+
+Trên đây là toàn bộ báo cáo thường niên năm 2018 của Công ty Cổ phần Thép VICASA-
+
+VNSTEEL.
+
+Mã chứng khoán: VCA.
+
+Trân trọng.
+
+Biên Hòa, ngày 15 tháng 02 năm 2019 Thay mặt Ban điều hành Công ty TỔNG GIÁM ĐỐC
+
+CÔNG TY CO PHAIN THÉP VICASA-INSTEEL
+
+ONG NA
+
+CẦN BIẾN HÒA - Huỳnh Công Du
+
+Công ty Cổ phần thép VICASA-VNSTEEL. _ Bảo cáo thường niên năm 2018
+
+Trang 30/30
