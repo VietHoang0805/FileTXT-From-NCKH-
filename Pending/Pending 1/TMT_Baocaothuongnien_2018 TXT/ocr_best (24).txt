@@ -1,0 +1,181 @@
+CÔNG TY CỔ PHẦN Ô TÔ TMT
+
+Số 1998 phố Minh Khai, phường Minh Khai, quận Hai Bà Trưng, thành phố Hà Nội
+
+STT
+
+TÀI SẢN
+
+Mà Thuyết só minh
+
+Số cuối năm
+
+Đơn vị tính: VND
+
+Số đầu năm
+
+B. TAI SAN DAI HAN
+
+200
+
+386.840.704.655
+
+430.341.740.440
+
+1.
+
+Các khoản phải thu dài hạn
+
+210
+
+0
+
+1. Phải thu dài hạn của khách hàng
+
+211
+
+V.03
+
+0
+
+0
+
+6. Phải thu dài hạn khác
+
+216
+
+V.05
+
+0
+
+0
+
+II. Tài sản cố định
+
+220
+
+283.206.246.782
+
+321.171.493.683
+
+1. Tài sản cố định hữu hình
+
+221 V.09
+
+232.722.080.116
+
+270.751.493.683
+
+- Nguyên gốc
+
+222
+
+383.748.410.168
+
+418.040.177.125
+
+- Giá trị hao môn lây kh
+
+223
+
+(151.026.330.052) (147.288.683.442)
+
+Tài sản cố định thuê tài chính
+
+224
+
+- Nguyên giá
+
+225
+
+0
+
+0
+
+0
+
+0
+
+- Giá trị hao màu lông kể nhi
+
+226
+
+3. Tài sản cố định vô hình
+
+227 V.10
+
+50.484.166.666
+
+50.420.000.000
+
+- Nguyên giả
+
+228
+
+50.655.939.000
+
+50.578.939.000
+
+- Giá trị hao môn lũy kế
+
+229
+
+(171.772.334)
+
+(158.939.000)
+
+III. Bất động sản đầu tư
+
+230
+
+V.11
+
+I. Nguyên giá
+
+231
+
+2.
+
+Giá trị hao mòn lũy kế (*)
+
+232
+
+0
+
+4.666.938.836
+
+0
+
+7.938.225.549
+
+0
+
+(3.271.286.713)
+
+IV. | Tài sản dở dang dài hạn
+
+240
+
+V.08
+
+70.657.542.604
+
+69.077.857.182
+
+I. Chi phí sản xuất, kinh doanh dở dang
+
+241
+
+0
+
+dai han
+
+2.
+
+Chi phí xây dựng cơ bản dở dang
+
+242
+
+70.657.542.604
+
+69.077.857.182
