@@ -1,0 +1,43 @@
+Doanh thu cung cấp dịch vụ
+
+Doanh thu của giao dịch cung cấp dịch vụ (điện thoại và internet) được ghi nhận khi kết quả của giao dịch đã được xác định một cách đang tin cậy. Trường hợp dịch vụ được thực hiện trong nhiều kỷ thì doanh thu được ghi nhận trong kỳ được cầu cứ vào kết quả phân công việc đã hoàn thành vào ngày kết thúc kỳ kế toàn. Kết quả của giao dịch cung cấp dịch vụ được xác định khi thỏa muốn tất cả các điều kiện sau:
+
+*
+
+Doanh thu được xác định tương đối chắc chắn
+
+• Có khả năng thu được lợi ích kinh tế từ giao dịch cung cấp dịch vụ đó,
+
+• Xác định được phân công việc đã hoàn thành vào ngày kết thúc kỳ kế toán.
+
+Xác định được chỉ phi phát sinh cho giao dịch và chi phi để hoàn thành giao dịch cung cấp dịch vụ đó
+
+Tin li
+
+Tiểu là được ghi nhận tiêu cơ sở đầu tích, được xác định trên số dư các tài khoản tiền gửi và lãi suất nhạc te ning ky
+
+12. Giá vốn hàng bán
+
+Giá vốn hàng bản là tổng giá vốn của hàng hóa, chủ phủ trực tiếp của khối lượng dịch vụ đã cung cấp, chỉ phi khẩu bao của bất động cán cho thuê, các chi phi khúc được tỉnh vào giá vẫn
+
+13. Chi phi tài chính
+
+Chi phi tài chính là những chi phí liên quan đến hoạt động tài chính gồm chi phí đi vay vốn lỗ chuyển nhưng chứng khoán ngắn hạn, chi phi giao dịch bản chung khoản, dự phòng giảm giả chứng khoán kinh doanh, do phòng tổn thất đầu tư vào đơn vị khác.
+
+14. Chi phí bán hàng và chi phi quản lý doanh nghiệp
+
+Chị phủ bản hàng và chi phi quản lý doanh nghiệp là toàn bộ các chi phí phát sinh đến quá trình bản sân phẩm hàng hóa, cung cấp dịch vụ và các chi phi quản lý chung của Tập đoàn
+
+15. Thuế thu nhập doanh nghiệp
+
+Chi phi thuế thu nhập doanh nghiệp bao gồm thuế thu nhập DN hiện hành và thuế thu nhập DN hoãn lại. Thuế thu nhập liệu hành
+
+Thuế thu nhập hiện hành là khoản thuế được tỉnh chọn tiêu thu nhập tỉnh thuế. Thu nhập tính thuế chênh lệch so với lợi nhuận kế toán là do điều chỉnh các khoản chênh lệch tạm thời giữa thuế và kế toán các chi phi không được trả cũng như điều chỉnh các khoản thu nhập không phải chịu thuế và các khoản lỗ được chuyển
+
+Thuế suất thuế thu nhập doanh nghiệp: 20%.
+
+Thuế thu nhập hoàn lại
+
+Thuế thu nhập hoãn lại là khoán thuế thu nhập doanh nghiệp sẽ phải nộp hoặc sẽ được hoàn lại do chính lệch tạm thời giảm giá trị ghi số của tài sản và nợ phải trả cho mục đích lập Báo cáo tài chính (hợp nhất) và cơ sở tính thuế thu nhập. Thuế thu nhập hoàn lại phải trả được ghi nhận cho tất cả các khoán chênh lệch tạm thời chịu thuế. Tại còn thuế thu nhập hoãn lại chỉ được ghi nhận khi chắc chân trong tương lại về có lợi nhuận tính thuế để sử dụng những chênh lệch tạm thời được khấu trừ này.
+
+38

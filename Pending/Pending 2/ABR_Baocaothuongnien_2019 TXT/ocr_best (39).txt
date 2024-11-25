@@ -1,0 +1,49 @@
+3.
+
+Các khoản đầu tư
+
+Các khoản đầu tư nắm giữ đến ngày đảo hạn.
+
+Khoản đầu tư được phân loại là nắm giữ đến ngày đáo hạn khi Tập đoàn có ý định và khả năng giữ đến ngày đảo hạn. Các khoản đầu tư nắm giữ đến ngày đáo hạn của Tập đoàn là các khoản tiền gửi ngân hàng có kỳ hạn nắm giữ đến ngày đáo hạn với mục đích thu lại hàng kỳ.
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn được ghi nhận ban đầu theo giá gốc bao gồm giá mua và các chi phí liên quan đến giao dịch mua các khoản đầu tư. Sau khi nhận ban đầu, các khoản đầu tư này được ghi nhận theo giá trị có thể thu hồi. Thu nhập lãi từ các khoản đầu tư nắm giữ đến ngày đáo hạn sau ngày mua được ghi nhận trên Báo cáo kết quả hoạt động kinh doanh trên cơ sở dự thu. Lãi được hưởng trước khi Tập đoàn nắm giữ được ghi giảm trừ vào giá gốc tại
+
+thời điểm mua.
+
+Khi có các bằng chứng chắc chắn cho thấy một phần hoặc toàn bộ khoản đầu tư có thể không thu hồi được và số tổn thất được xác định một cách đáng tin cậy thì tổn thất được ghi nhận vào chỉ phí tài chính trong kỳ và giảm trừ trực tiếp giá trị đầu tư.
+
+4. Các khoản phải thu
+
+Các khoản nợ phải thu được trình bày theo giá trị ghi sổ trừ đi các khoản dự phòng phải thu khô
+
+doi.
+
+Việc phân loại các khoản phải thu là phải thu khách hàng và phải thu khác được thực hiện theo nguyên tắc sau:
+
+* Phải thu của khách hàng phản ánh các khoản phải thu mang tính chất thương mại phát sinh tử giao dịch có tính chất mua – bản giữa Tập đoàn và người mua là đơn vị độc lập với Tập đoàn, bao gồm cả các khoản phải thu về tiền bán hàng xuất khẩu ủy thác cho đơn vị khúc. • Phải thu khác phản ánh các khoản phải thu không có tính thương mại, không liên quan đến giao dịch mua – bản.
+
+Dự phòng phải thu khó đòi được lập cho từng khoản nợ phải thu khó đòi căn cứ vào tuổi nợ quá
+
+hạn của các khoản nợ hoặc dự kiến mức tổn thất có thể xảy ra, cụ thể như sau:
+
+• Đối với nợ phải thu quả hạn thanh toán:
+
+a. 30% giá trị đối với khoản nợ phải thu quá hạn từ trên 6 tháng đến dưới 1 năm.
+
+b. 50% giá trị đối với khoản nợ phải thu quá hạn từ 1 năm đến dưới 2 năm.
+
+c. 70% giả trị đối với khoản nợ phải thu quá hạn từ 2 năm đến dưới 3 năm. d. 100% giá trị đối với khoản nợ phải thu quá hạn từ 3 năm trở lên.
+
+• Đối với nợ phải thu chưa quá hạn thanh toán nhưng khó có khả năng thu hồi: căn cứ vào dự kiến mức tổn thất để lập dự phòng.
+
+Tăng, giảm số dư dự phòng nợ phải thu khó đòi cần phải trích lập tại ngày kết thúc kỳ kế toán được ghi nhận vào chi phi quản lý doanh nghiệp.
+
+5.
+
+Hàng tồn kho
+
+Hàng tồn kho được ghi nhận theo giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được. Giá gốc hàng tồn kho được xác định như sau:
+
+Hàng hóa: bao gồm chỉ phi mua và các chi phi liên quan trực tiếp khác phát sinh để có được hàng tồn kho ở địa điểm và trạng thái hiện tại.
+
+38

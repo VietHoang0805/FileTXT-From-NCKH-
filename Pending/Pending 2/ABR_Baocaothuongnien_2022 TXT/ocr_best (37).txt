@@ -1,0 +1,49 @@
+5. Hàng tồn kho
+
+Hàng tồn kho được ghi nhận theo giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được Giá gốc hàng tồn kho được xác định như sau:
+
+Hàng hóa: bao gồm chi phí mua và các chi phí liên quan trực tiếp khác phát tinh để có được hàng tồn kho ở địa điểm và trạng thái hiện tại.
+
+Giá trị thuần có thể thực hiện được là giả bản ước tính của hàng tồn kho trong kỳ sản xuất, kinh doanh bình thường trừ chi phi ước tính cầu thiết cho việc tiên tàu chúng
+
+Giá trị hàng tồn kho được tính theo phương pháp bình quân gia quyền đối với cà phê nhân và cả phê thành phẩm robuuta và được hạch toán theo phương pháp kê khai thường xuyên
+
+Dự phòng giảm giá hàng tồn kho được lập cho trng mặt hàng tồn kho có giá gốc lớn hơn giá trị thuận có thể thực hiện được. Tăng giảm số du do phòng giao giá hàng tồn kho cần phải trích lập thì ngày kết thúc kỳ kế toán được ghi nhận vào giá vốn hàng bản
+
+6. Chi phí trả trước
+
+7.
+
+Chị phi trả nước bao gồm các chi phi thực tế đã phát sinh nhưng có liên quan đến kết quả hoạt động sản xuất kinh doanh của nhiều ký kế toán. Chi phí trả trước của Tập đoàn bao gồm các chi phi san
+
+Công cụ, dụng cụ
+
+Các công cụ, dụng cụ đã đem vào sử dụng được phân bổ vào chi phi theo phương pháp đường thẳng với
+
+thời gian phân bố không quá 36 tháng.
+
+Chi phí trả trước đại hạn
+
+Tiền thuê đất làm nhà xuống được phân bổ vào chi phi theo phương pháp đường thẳng với thời gian phẫu
+
+bo 20
+
+Tài sản cố định hữu hình
+
+Tài sản cố định hình linh được thể hiện theo nguyên giả trừ hao mòn lũy kế. Nguyên gia tài sản cố định hi hinh bao gồm toàn bộ các chi phi mà Tập đoàn phải bỏ ra để có được tài tàu cố định tính đến thời điều đưa tài sản đó vào trạng thái cầu sáng sử dụng. Các chi phí phát sinh san phủ nhận ban đầu chỉ được ghi tăng nguyên gia tài của có định nếu các chi phi này chắc chắn làm tăng lợi ích kinh tế trong tương lai do vì dụng tài sản đó. Các chi phi phát sinh không thỏa mãn điều kiển trên được ghi nhận là chi phí sản xuất, kinh doanh trong kỳ.
+
+Khi thi sáu cố định liều hình được bản hay thanh lý, nguyên giả và giá trị hao mòn lũy kế được xóa số tới lãi, lỗ phát sinh do thanh lý được ghi nhận vào thu nhập hay chỉ phi trong kỳ.
+
+Tài sản cố định hữu hình được khấu hao theo phương pháp đường thẳng dựa trên thời gian hãm dụng ước tinh phù hợp theo Thông tư số 45 2013 TT BTC ngày 25 tháng 4 năm 2013 của Bộ Tài chính và Thông tư số 147/2016 TT-BTC ngày 13 tháng 10 năm 2016 của Bộ Tài chính sửa đổi, bỏ mang một số điều của Thông ne số 45 2013 TT-BTC ngày 25 tháng 4 năm 2013 của Bộ Tài chính hướng đầu chế độ quản lý, và dụng và trích khấu hao Tại sâu cố định. Số năm khẩu bao của các loại tin sản cố định hữu hình nằm sá Loại tài sản cố định
+
+Máy móc và thiết bị
+
+Thiết bị văn phòng
+
+Số năm
+
+03-05
+
+03
+
+36
