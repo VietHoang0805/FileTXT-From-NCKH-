@@ -1,0 +1,63 @@
+-
+
+Doanh nghiệp quản lý rủi ro lãi suất bằng cách phân tích tinh hình cạnh tranh trên thị trường để có được các lãi suất có lợi cho mục đích của doanh nghiệp và vẫn nằm trong giới hạn quản lý rủi ro của mình.
+
+- Độ nhạy đối với lãi suất
+
+- Độ nhạy của các khoản vay và nợ, tiền và các khoản tiền gửi ngắn hạn của Công ty đối với sự thay đổi có thể xảy ra ở mức độ hợp lý trong lãi suất được thể hiện
+
+như sau.
+
+Với giả định là các biến số khác không thay đổi, các biến động trong lãi suất của các khoản vay với lãi suất thả nổi có ảnh hưởng đến lợi nhuận Công ty như sau:
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2017
+
+VND
+
+VND
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2016
+
+VND
+
+VND
+
+Tăng giảm diem co ban
+
++200
+
+-200
+
++100
+
+-100
+
+trước thuế của
+
+Ảnh hưởng đến - lợi nhuận trước thuế
+
+1.158.026.659 (1.158.026.659)
+
+418.053.175
+
+418.053.175)
+
+Mức tăng giảm điểm cơ bản sử dụng để phân tích độ nhạy đối với lãi suất được giả định dựa trên các điều kiện có thể quan sát được của thị trường hiện tại. Các điều kiện này cho thấy mức biến động cao hơn không đáng kể so với các kỳ trước. Rủi ra ngoại tệ
+
+Rủi ro ngoại tệ là rủi ro mà giá trị hợp lý của các luồng tiền trong tương lai của một công cụ tài chính sẽ biến động theo những thay đổi của tỷ giá ngoại tệ. Doanh nghiệp chịu rủi ro do sự thay đổi của tỷ giá hối đoái liên quan trực tiếp đến các hoạt động kinh doanh của công ty bằng các đơn vị tiền tệ khác Đồng Việt Nam. Doanh nghiệp quản lý rủi ro ngoại tệ bằng cách xem xét tinh hình thị trường hiện hành và dự kiến khi doanh nghiệp lập kế hoạch cho các nghiệp vụ trong tương lai bằng ngoại tệ.
+
+- Độ nhạy đối với ngoại tệ
+
+Doanh nghiệp không thực hiện phân tích độ nhạy đối với ngoại tệ vi rủi ro do thay đổi ngoại tệ tại ngày lập báo cáo tài chính là không đáng kể.
+
+Rủi ro về giá cổ phiếu
+
+Các cổ phiếu chưa niêm yết do Doanh nghiệp nắm giữ bị ảnh hưởng bởi các rủi ro thị trường phát sinh từ tỉnh không chắc chắn về giá trị tương lai của cổ phiếu đầu tư. Doanh nghiệp quản lý giá rủi ro về giá cổ phiếu bằng cách thiết lập hạn mức đầu tư. Hội đồng Quản trị của Công ty cũng xem xét và phê duyệt các quyết định đầu tư vào cổ phiếu.
+
+• Rủi ro tín dụng
+
+Rủi ro tín dụng là rủi ro mà một bên tham gia trong một công cụ tài chính hoặc hợp đồng khách hàng không thực hiện các nghĩa vụ của mình, dẫn đến tổn thất về tải chính. Doanh nghiệp có rủi ro tin dụng từ các hoạt động sản xuất kinh doanh của mình chủ yếu đối với các khoản phải thu khách hàng và từ hoạt động tải chính của mình, bao gồm tiền gửi ngân hàng, tiền cho vay.
+
+Báo cáo thường niên năm 2017
+
+Trong 12

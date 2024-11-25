@@ -1,0 +1,61 @@
+Khi tính toán các phân tích độ nhạy, Ban Tổng Giám đốc giả định rằng độ nhạy của các công cụ nợ sẵn sàng để bán trên bảng cân đối kế toán và các khoản mục có liên quan trọng báo cáo kết quả hoạt động kinh doanh bị ảnh hưởng bởi các thay đổi trong giả định về rủi ro thị trường tương ứng. Phép phân tích này được dựa trên các tài sản và nợ phải trả tài chính mà Công ty nắm giữ tại ngày 31 tháng
+
+12 năm 2019 và ngày 31 tháng 12 năm 2018.
+
+Rủi ro lãi suất
+
+Rủi ro lãi suất là rủi ro mà giá trị hợp lý hoặc các luồng tiền trong tương lai của một công cụ tài chính sẽ biến động theo những thay đổi của lãi suất thị trường. Rủi ro thị trường do thay đổi lãi suất của doanh nghiệp chủ yếu liên quan đến khoản vay và nợ, tiền và các khoản tiền gửi ngắn hạn của doanh nghiệp.
+
+Doanh nghiệp quản lý rủi ro lãi suất bằng cách phân tích tinh hình cạnh tranh trên thị trường dễ có được các lãi suất có lợi cho mục đích của doanh nghiệp và vẫn nằm trong giới hạn quản lý rủi ro của mình.
+
+Độ nhạy đối với lãi suất
+
+Độ nhạy của các khoản vay
+
+và nợ, tiền và các khoản tiền gửi ngắn hạn của Công ty đối với sự thay đổi có thể xảy ra ở mức độ hợp lý trong lãi suất được thể hiện như sau.
+
+Với giả định là các biến số khác không thay đổi, các biến động trong lãi suất của các khoản vay với lãi suất thả nổi có ảnh hưởng đến lợi nhuận trước thuế của Công ty như sau:
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2015
+
+VND
+
+VND
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018
+
+VND
+
+VND
+
+điểm cơ bản
+
++100
+
+-100
+
++100
+
+-100
+
+Anh hining đến lợi nhuận trước thuế
+
+297.048.015 (297.048.015)
+
+468.534.559
+
+(468.534.559)
+
+- Mức tăng/giảm điểm cơ bản sử dụng để phân tích độ nhạy đối với lãi suất được giá định dựa trên các điều kiện có thể quan sát được của thị trưởng hiện tại. Các diều kiện này cho thấy mức biến động cao hơn không đáng kể so với các kỳ trước.
+
+Khi ra ngoại tệ
+
+- Rủi ro ngoại tệ là rủi ro mà giá trị hợp lý của các luồng tiền trong tương lai của một công cụ tài chính sẽ biến động theo những thay đổi của tỷ giá ngoại tệ. Doanh nghiệp chịu rủi ro do sự thay đổi của tỷ giá hối doái liên quan trực tiếp đến các hoạt động kinh doanh của công ty bằng các đơn vị tiền tệ khác Đồng Việt Nam. Doanh nghiệp quản lý rủi ro ngoại tệ bằng cách xem xét tình hình thị trường hiện hành và dự kiến khi doanh nghiệp lập kế hoạch cho các nghiệp vụ trong tương lai bằng ngoại tệ.
+
+- Độ nhạy đối với ngoại lệ
+
+Doanh nghiệp không thực hiện phân tích độ nhạy đối với ngoại tệ vì rủi ro do thay dồi ngoại tệ tại ngày lập báo cáo tài chính là không đáng kể.
+
+Báo cáo thường niên năm 2019
+
+Trang 12

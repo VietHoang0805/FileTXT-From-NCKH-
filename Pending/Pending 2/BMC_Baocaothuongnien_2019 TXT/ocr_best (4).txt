@@ -1,0 +1,69 @@
+Sơ đồ bộ máy tổ chức quản lý của Công ty:
+
+ĐẠI HỘI ĐỒNG CỔ ĐÔNG
+
+HỘI ĐỒNG QUẢN TRỊ
+
+TỔNG GIÁM ĐỐC ĐIỀU HÀNH
+
+BAN
+
+KIỂM SOÁT
+
+PHÓ TỔNG
+
+GIÁM ĐỐC
+
+PHÒNG KỸ THUẬT
+
+PHÒNG KẾ TOÁN
+
+PHÓ TỔNG GIÁM ĐỐC
+
+PHÒNG TỔNG HỢP
+
+XÍ NGHIỆP
+
+SA KHOẢNG NAM ĐỀ GÌ
+
+NHÀ MÁY
+
+XỈ TITAN BÌNH ĐỊNH
+
+PHÂN PHÂN XƯỞNG XƯỞNG
+
+PHÂN
+
+PHÂN
+
+XƯỞNG
+
+XƯỞNG
+
+PHÂN XƯỞNG
+
+KHAI THÁC
+
+CHE
+
+CƠ KHÍ
+
+LUYỆN
+
+PHỐI LIỆU
+
+PHÂN XƯỞNG CƠ KHÍ
+
+BIEN
+
+xi
+
+THÀNH PHẨM
+
+Chú thích
+
+Quan hệ trực tuyến
+
+Quan hệ chức năng
+
+Quan hệ kiểm soát
