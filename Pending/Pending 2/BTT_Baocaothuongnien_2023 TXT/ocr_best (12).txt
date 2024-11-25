@@ -1,0 +1,65 @@
+trường do thay đổi lãi suất của Tập đoàn chủ yếu liên quan đến khoản vay và nợ, tiền và các khoản tiền gửi ngắn hạn của Tập đoàn.
+
+- Tập đoàn quản lý rủi ro lãi suất bằng cách phân tích ảnh hình cạnh tranh trên thị trường để có được các lãi suất có lợi cho mục đích của Tập đoàn và vẫn nằm trong giới hạn quản lý rủi ro của mình.
+
+Độ nhạy dổi với lãi suất
+
+Độ nhạy của các khoản cho vay và nợ, tiền và các khoản tiền gửi ngắn hạn của Tập đoàn đối với sự thay đổi có thể xảy ra ở mức độ hợp lý trong khi suất được thể hiện
+
+nhur sau.
+
+Với giả định là các biến số khác không thay đổi, các biến động trong lãi suất của các khoản tiền gửi và khoản cho vay với lãi suất thả nổi có ảnh hưởng đến lợi nhuận trước thuế của Tập đoàn như sau:
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+
+VND VND
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2002
+
+VND
+
+VND
+
+Tăng giảm
+
+dim co bas
+
+Ảnh hưởng đến li nhuận trước thuế
+
++100
+
+-100
+
+Tăng giảm
+
+1.220.500.753
+
+(1.220..509.753)
+
+Ảnh trên diễn
+
+điều cơ bản hoi nhuận trước thuế
+
++100
+
+-100
+
+931.186.762
+
+(931.186.762)
+
+Mức tăng giảm điểm cơ bản sử dụng để phân tích độ nhạy đối với lãi suất được giả định dựa trên các điều kiện có thể quan sát được của thị trường hiện tại. Các điều kiện này cho thấy mức biến động cao hơn không đáng kể so với các kỳ trước.
+
+• Rủi ro ngoại tệ
+
+Rủi ro ngoại lệ là rủi ro mà giá trị hợp lý của các luồng tiền trong tương lai của một công cụ tài chính sẽ biến động theo những thay dổi của tỷ giá ngoại tệ. Tập đoàn chịu rủi ro do sự thay đổi của tỷ giá hối doái liên quan trực tiếp đến các hoạt động kinh doanh của Tập đoàn bằng các đơn vị tiền tệ khác Dồng Việt Nam.
+
+- Tập đoàn quản lý rủi ro ngoại tệ bằng cách xem xét tình hình thị trường hiện hành và dự kiến khi Tập đoàn lập kế hoạch cho các nghiệp vụ trong tương lai bằng ngoại lệ. Tập đoàn không sử dụng bất kỳ công cụ tài chính phái sinh để phòng ngừa rủi ro ngoại tệ của mình.
+
+Độ nhạy đối với ngoại tệ
+
+Tập đoàn không thực hiện phân tích độ nhạy đối với ngoại tệ vì rủi ro do thay đổi ngoại tệ lại ngày lập Báo cáo tài chính hợp nhất là không dáng kể.
+
+Báo cáo thường niên năm 2023
+
+Trang 11
