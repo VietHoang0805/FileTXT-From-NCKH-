@@ -1,0 +1,185 @@
++Gas: phục vụ cho dịch vụ nấu ăn bình quân 100kg/ngày
+
++ Điện: sử dụng bình quân: 136.946 kw/tháng
+
+| Tháng Mức tiêu thụ Tháng Mức tiêu thụ (kw) Tháng Mức
+
+tiêu thụ
+
+(kw)
+
+(kw)
+
+1
+
+142.869
+
+5
+
+145.464
+
+9
+
+129.837
+
+2
+
+148.242
+
+6
+
+164.583
+
+10
+
+88.789
+
+3
+
+123.775
+
+7
+
+155.418
+
+11
+
+129.861
+
+4
+
+137.842
+
+8
+
+155.362
+
+12
+
+121.308
+
+6.2 Tiêu thụ nước:
+
+a) Nguồn cung cấp nước và lượng nước sử dụng:
+
++ Nước ngầm: sử dụng cho việc cung cấp nước cho các hồ bơi, sinh hoạt của khách,
+
+tưới cây, tưới đường, phòng chảy chữa cháy bình quân: 12.369 m3/tháng.
+
+| Tháng Mức tiêu thụ (m3) Tháng Mức tiêu thụ (m3) | Tháng | Mức tiêu thụ (m3)
+
+1
+
+9.514
+
+5
+
+14.409
+
+9
+
+13.337
+
+2
+
+12.514
+
+6
+
+17.461
+
+10
+
+7.353
+
+3
+
+13.304
+
+7
+
+15.671
+
+11
+
+8.994
+
+4
+
+14.649
+
+8
+
+12.529
+
+12
+
+8.691
+
++Nước thuỷ cục: dùng cho chế biến thực phẩm, ăn uống, sinh hoạt bình quân:
+
+750 m3/tháng
+
+| Tháng | Mức tiêu thụ (m3)
+
+Tháng Mức tiêu thụ (m3) | Tháng | Mức tiêu thụ (m3)
+
+1.142
+
+5
+
+499
+
+9
+
+666
+
+2
+
+1.585
+
+6
+
+823
+
+10
+
+399
+
+3
+
+782
+
+7
+
+734
+
+11
+
+550
+
+4
+
+473
+
+8
+
+859
+
+12
+
+485
+
+b) Tỷ lệ và tổng lượng nước tái chế và tái sử dụng: không có.
+
+c) Cải tiến kỹ thuật:
+
++ Sửa chữa toàn bộ kết cấu mảng Boomerang.
+
++ Lắp đặt tăng cường thêm 01 bồn lọc cho hồ thiếu nhi để cải thiện nước vào những ngày đông, bổn lọc này vừa cung cấp nước cho 2 mảng mini slides vừa
+
+tăng cường lọc nước nhằm tiết kiệm điện.
+
+Báo cáo thường niên năm 2019.
+
+Trung 15/33
