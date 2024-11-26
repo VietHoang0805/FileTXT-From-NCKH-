@@ -1,0 +1,21 @@
+Ước tính kế toán
+
+Việc lập báo cáo tài chính tuân thủ theo Chuẩn mực Kế toán, Chế độ Kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính yêu cầu Tổng Giám đốc phải có những ước tính và giả định ảnh hưởng đến số liệu báo cáo về công nợ, tài sản và việc trình bày các khoản công nợ và tài sản tiềm tàng tại ngày lập báo cáo tài chính cũng như các số liệu báo cáo về doanh thu và chi phí trong suốt năm tài chính. Mặc dù các ước tính kể toán được lập bằng tất cả sự hiểu biết của Tổng Giám đốc, số thực tế phát sinh có thể khác với các ước tính, giả định đặt ra.
+
+Đánh giá và ghi nhận theo giá trị hợp lý
+
+Luật Kế toán đã có hiệu lực từ ngày 01/01/2017, trong đó bao gồm quy định về Đánh giá và Ghi nhận theo giá trị hợp lý, tuy nhiên chưa có hướng dẫn cụ thể cho vấn đề này; Theo đó, Ban Tổng Giám đốc đã xem xét và áp dụng như sau:
+
+a) Các khoản mục tiền tệ có gốc ngoại tệ được đánh giá theo tỷ giá giao dịch thực tế;
+
+b) Đối với tài sản và nợ phải trả (ngoài các mục a trên đây) Công ty không có cơ sở để xác định được giá trị một cách đáng tin cậy do đó Công ty đang ghi nhận theo giá gốc.
+
+Công cụ tài chính
+
+Ghi nhận ban đầu
+
+Tài sản tài chính: Tại ngày ghi nhận ban đầu, tài sản tài chính được ghi nhận theo giá gốc cộng các chi phí giao dịch có liên quan trực tiếp đến việc mua sắm tài sản tài chính đó. Tài sản tài chính của Công ty bao gồm tiền, các khoản tương đương tiền, các khoản phải thu khách hàng, phải thu khác, các khoản ký quỹ, các khoản đầu tư tài chính.
+
+Công nợ tài chính: Tại ngày ghi nhận ban đầu, công nợ tài chính được ghi nhận theo giá gốc cộng các chi phí giao dịch có liên quan trực tiếp đến việc phát hành công nợ tài chính đó. Công nợ tài chính của Công ty bao gồm các khoản phải trả người bán, phải trả khác, các khoản chi phí phải trả, các khoản nợ thuê tài chính, các khoản vay.
+
+32

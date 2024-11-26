@@ -1,0 +1,49 @@
+Nguyên giá tài sản cố định hữu hình do các nhà thầu xây dựng bao gồm giá trị công trình hoàn thành bản giao, các chi phi liên quan trực tiếp khác và lệ phí trước bạ, nếu có.
+
+Tài sản cố định hữu hình được khấu hao theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính. Thời gian khấu hao cụ thể như sau:
+
+Nhà cửa, vật kiến trúc
+
+Máy móc, thiết bị
+
+Phương tiện vận tải, truyền dẫn
+
+Thiết bị, dụng cụ quản lý
+
+Thời gian sử dụng (năm)
+
+05-25
+
+03-07
+
+03-06
+
+03-06
+
+Công ty áp dụng tính và trích khấu hao tài sản cố định theo Thông tư số 45/2013/TT-BTC do Bộ Tài chính ban hành ngày 25/04/2013 về việc quản lý, sử dụng và trích khấu hao tài sản cố định và Thông tư số 147/2016/TT-BTC ngày 13/10/2016 sửa đổi, bổ sung một số điều của Thông tư số
+
+45/2013/TT-BTC.
+
+3.6 TÀI SẢN CÓ ĐỊNH VÔ HÌNH VÀ HAO MÒN
+
+Tài sản cố định vô hình là phần mềm máy tính được trình bày theo nguyên giả và giá trị hao mòn lũy kế, được phân bố theo phương pháp đường thẳng trong thời gian là 03 năm.
+
+3.7 CHI PHÍ XÂY DỰNG CƠ BẢN DỞ DANG
+
+Các tài sản đang trong quá trình xây dựng phục vụ mục đích sản xuất, cho thuê, quản trị hoặc cho bất kỳ mục đích nào khác được ghi nhận theo giá gốc. Chi phí này bao gồm chi phi dịch vụ và chỉ phi lãi vay có liên quan phù hợp với chính sách kế toán của Công ty. Việc tính khấu hao của các tài sản này được áp dụng giống như với các tài sản khác, bắt đầu từ khi tài sản ở vào trạng thái sẵn sàng sử dụng.
+
+3.8 CHI PHÍ TRẢ TRƯỚC DÀI HẠN
+
+Các khoản chi phí trả trước dài hạn bao gồm công cụ, dụng cụ, chi phí thuê đất, các chi phi phát sinh được coi là có khả năng đem lại lợi ích kinh tế trong tương lai cho Công ty với thời hạn từ một năm trở lên. Các chi phí này được vốn hóa dưới hình thức các khoản trả trước dài hạn và được phân bổ vào Báo cáo Kết quả hoạt động kinh doanh theo phương pháp đường thẳng.
+
+3.9 GHI NHẬN DOANH THU
+
+Doanh thu được xác định khi Công ty có khả năng nhận được các lợi ích kinh tế có thể xác định một cách chắc chắn. Doanh thu thuần được xác định theo giá trị hợp lý của các khoản đã thu hoặc sẽ thu được sau khi trừ các khoản chiết khấu thương mại, giảm giá hàng bán, hàng bán bị trả lại. Đồng thời doanh thu được ghi nhận khi thoả mãn các điều kiện sau:
+
+Doanh thu cung cấp dịch vụ
+
+Doanh thu của giao dịch cung cấp dịch vụ được ghi nhận khi kết quả của giao dịch đó được xác định một cách đáng tin cậy. Trường hợp dịch vụ được thực hiện trong nhiều kỳ thì doanh thu được ghi nhận trong kỳ được căn cứ vào kết quả phần công việc đã hoàn thành vào ngày kết thúc năm tài chính. Kết quả của giao dịch cung cấp dịch vụ được xác định khi thỏa mãn tất cả các điều kiện
+
+sau:
+
+36

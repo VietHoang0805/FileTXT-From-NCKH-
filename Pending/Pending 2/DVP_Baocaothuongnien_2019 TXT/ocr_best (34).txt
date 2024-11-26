@@ -1,0 +1,33 @@
+3.1
+
+ƯỚC TÍNH KẺ TOÁN
+
+Việc lập Báo cáo tài chính tuân thủ theo các Chuẩn mực Kế toán Việt Nam yêu cầu Ban Tổng Giám đốc phải có những ước tính và giả định ảnh hưởng đến số liệu báo cáo về các công nợ, thi sản và việc trình bày các khoản công nợ và tài sản tiềm tàng tại ngày lập Báo cáo tài chính cũng như các số liệu báo cáo về doanh thu và chi phí trong suốt năm tài chính. Kết quả hoạt động kính doanh thực tế có thể khác với các ước tính, giả định đặt ra.
+
+3.2. TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN
+
+Tiền và các khoản tương đương tiền bao gồm tiền mặt, tiền gửi ngân hàng, tiền đang chuyển, các khoản ký cược, ký quỹ, các khoản đầu tư ngắn hạn hoặc các khoản đầu tư có tính thanh khoản cao. Các khoản đầu tư được gọi là có tính thanh khoản cao khi thời gian thu hồi hoặc đảo hạn không quá 3 tháng, có khả năng chuyển đổi thành các khoản tiền xác định và ít rủi ro liên quan đến việc biến động giá trị chuyển đổi của các khoản này.
+
+3.3 HÀNG TỒN KHO
+
+Hàng tồn kho của Công ty chủ yếu dùng để phục vụ sửa chữa các phương tiện thiết bị dùng cho hoạt động sản xuất kinh doanh tại Công ty. Hàng tồn kho được xác định trên cơ sở giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được. Giả gốc hàng tồn kho bao gồm giả mua, chi phí nguyễn vật liệu trực tiếp, chi phi lao động trực tiếp và chi phí sản xuất chung hoặc chi phí liên quan khác, nếu có, để có được hàng tồn kho ở địa điểm và trạng thái hiện tại. Giá xuất của hàng tồn kho được xác định theo phương pháp nhập trước xuất trước.
+
+3.4 CÁC KHOẢN PHẢI THU VÀ DỰ PHÒNG PHẢI THU KHÓ ĐÒI
+
+Các khoản phải thu gồm: Các khoản phải thu khách hàng, khoản trả trước cho người bán và các khoản phải thu khác tại thời điểm báo cáo.
+
+Các khoản phải thu được trình bày theo giá trị ghi số trừ dự phòng phải thu khó đòi. Dự phòng nợ phải thu khổ đòi được Công ty trích lập đối với các khoản nợ phải thu đã quá hạn thanh toán ghi trong hợp đồng kinh tế, bản cam kết hợp đồng hoặc cam kết nợ, doanh nghiệp đã đòi nhiều lần nhưng vẫn chưa thu hồi được; Hoặc đối với các khoản nợ phải thu chưa đến hạn thanh toán nhưng khách nợ đã lâm vào trình trạng phá sản hoặc đang làm thủ tục giải thể, mất tích, bỏ trốn. Mức trích lập dự phòng các khoản nợ phải thu khó đòi được thực hiện theo Thông tư số 228/2009/TT- BTC ngày 17/12/2009, Thông tư số 89/2013/TT-BTC ngày 28/06/2013 của Bộ Tài chính và Thông từ 48/2019/TT-BTC ngày 08/08/2019 của Bộ Tài chính.
+
+Sự tăng hoặc giảm khoản dự phòng phải thu khó đòi được hạch toán vào chi phí quản lý doanh
+
+nghiệp trong năm.
+
+3.5 TÀI SẢN CÓ ĐỊNH HỮU HÌNH VÀ HAO MÒN
+
+Tài sản cố định hữu hình được trình bày theo nguyên giá trừ giá trị hao môn lũy kế.
+
+Nguyên giá tài sản cố định hữu hình bao gồm giá mua và toàn bộ các chi phi liên quan khác liên quan trực tiếp đến việc đưa tài sản vào trạng thái sẵn sàng sử dụng.
+
+Đối với các tài sản cố định đã đưa vào sử dụng nhưng chưa có quyết toán chính thức sẽ được tạm ghi tăng nguyên giá tài sản cố định và trích khấu hao, khi có quyết toán chính thức sẽ điều chính lại nguyên giả tương ứng, không điều chỉnh lại chi phí khấu hao đã tỉnh mà chỉ điều chỉnh mức khẩu hao tương ứng với thời gian sử dụng còn lại của tài sản cố định.
+
+35

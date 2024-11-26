@@ -1,0 +1,57 @@
+36
+
+Vận tải hành khách ven biển và viễn dương
+
+5011
+
+37
+
+| Vận tải hàng hóa bằng đường bộ
+
+4933
+
+38
+
+Vận tải hàng hóa ven biển và viễn dương
+
+5012
+
+39
+
+Vận tải hàng hóa đường thủy nội địa
+
+5022
+
+Bán buôn kim loại và quặng kim loại:
+
+| - Bán buôn sắt, thép
+
+40
+
+4662
+
+- Bán buôn quặng kim loại
+
+- Bán buôn đồng, chỉ, nhôm, inox
+
+Bán buôn chuyên doanh khác chưa được phân vào đầu:
+
+41
+
+4669
+
+- Bán buôn phế liệu, phế thải kim loại, phi kim loại
+
+Tái chế phế liệu:
+
+42
+
+| - Phá hủy tàu
+
+3830
+
+- Địa bàn kinh doanh: Cảng Đình Vũ, Phường Đông Hải 2, Quận Hải An,
+
+Thành phố Hải Phòng.
+
+9

@@ -1,0 +1,113 @@
+Bán buôn gạch xây, ngói, đá, cát, sỏi - Bán buôn kính xây dựng
+
+- Bán buôn sơn, vécni
+
+- Bán buôn gạch ốp lát và thiết bị vệ sinh
+
+- Bán buôn đồ ngũ kim, hàng kim khí, tôn mạ mầu
+
+11
+
+Khai thác đá, cát, sỏi, đất sét
+
+0810
+
+Chuẩn bị mặt bằng:
+
+12
+
+4312
+
+| - San lấp mặt bằng
+
+13
+
+Phá dỡ
+
+14
+
+Kho bãi và lưu giữ hàng hóa
+
+4311
+
+5210
+
+Dịch vụ lưu trú ngắn ngày:
+
+15
+
+- Khách sạn
+
+5510
+
+- Nhà khách, nhà nghỉ kinh doanh dịch vụ lưu trú ngắn ngày
+
+Nhà hàng và các dịch vụ ăn uống phục vụ lưu động (trừ quầy
+
+16
+
+5610
+
+bar)
+
+17
+
+Đại lý du lịch
+
+7911
+
+1/338
+
+11.
+
+18
+
+Điều hành tua du lịch
+
+7912
+
+19
+
+Xây dựng nhà để ở
+
+4101
+
+20
+
+20
+
+Xây dựng nhà không để ở
+
+4102
+
+Xây dựng công trình điện
+
+21
+
+Chi tiết: Thi công, lắp đặt đường dây và trạm biến áp đến 35KV
+
+4221
+
+Xây dựng công trình cấp, thoát nước
+
+22
+
+4222
+
+Chi tiết: Xây dựng công trình thuỷ lợi
+
+23
+
+Xây dựng công trình viễn thông, thông tin liên lạc
+
+4223
+
+24
+
+Xây dựng công trình chế biến, chế tạo
+
+24
+
+4293
+
+Chi tiết: Xây dựng công trình công nghiệp

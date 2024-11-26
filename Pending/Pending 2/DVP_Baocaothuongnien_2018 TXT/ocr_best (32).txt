@@ -1,0 +1,23 @@
+Đánh giá lại sau lần ghi nhận ban đầu
+
+Hiện tại, chưa có quy định về đánh giá lại công cụ tài chính sau ghi nhận ban đầu.
+
+Tiền
+
+Tiền bao gồm tiền mặt tại quỹ, các khoản tiền gửi không kỳ hạn. Các khoản đầu tư tài chính
+
+Đầu tư vào công ty liên kết
+
+Công ty liên kết là một công ty mà Công ty có ảnh hưởng đáng kể nhưng không phải là công ty con. Ảnh hưởng đáng kể thể hiện ở quyền tham gia vào việc đưa ra các quyết định về chính sách tài chính và hoạt động của bên nhận đầu tư nhưng không có ảnh hưởng về mặt kiểm soát hoặc đồng kiểm soát những chính sách này.
+
+Đầu tư vào công ty liên kết
+
+Công ty ghi nhận ban đầu khoản đầu tư công ty liên doanh, liên kết theo giá gốc. Công ty hạch toán vào thu nhập trên Báo cáo kết quả hoạt động kinh doanh khoản được chia từ lợi nhuận thuần lũy kế của bên nhận đầu tư phát sinh sau ngày đầu tư.
+
+Các khoản đầu tư vào công ty liên doanh, công ty liên kết được trình bày trong Bảng cân đối kế toán theo giá gốc trừ đi các khoản dự phỏng giảm giá (nếu có). Dự phòng giảm giá đầu tư vào công ty con, công ty liên doanh, công ty liên kết được trích lập theo quy định tại Thông tư số 228/2009/TT-BTC ngày 07 tháng 12 năm 2009 của Bộ Tài chính về “Hướng dẫn chế độ trích lập và sử dụng các khoản dự phòng giảm giá hàng tồn kho, tổn thất các khoản đầu tư tài chính, nợ phải thu khó đòi và bảo hành sản phẩm, hàng hóa, công trình xây lắp tại doanh nghiệp”, Thông tư số 89/2013/TT-BTC ngày 28 tháng 6 năm 2013 của Bộ Tài chính về việc sửa đổi bổ sung Thông tư số 228/2009/TT-BTC và các quy định kế toán hiện hành.
+
+Nợ phải thu
+
+Nợ phải thu là số tiền có thể thu hồi của khách hàng hoặc các đối tượng khác. Nợ phải thu được trình bày theo giá trị ghi sổ trừ đi các khoản dự phòng phải thu khó đòi.
+
+33

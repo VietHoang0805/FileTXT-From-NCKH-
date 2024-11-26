@@ -1,0 +1,83 @@
+Hoạt động dịch vụ hỗ trợ khác liên quan đến vận tải: | - Dịch vụ giao nhận hàng hóa, khai thuê hải quan - Dịch vụ nâng cẩu hàng hoa
+
+- Dịch vụ kiểm đếm hàng hóa
+
+- Dịch vụ đóng gói liên quan đến vận tải
+
+8
+
+- Dịch vụ môi giới thuê tàu biển
+
+| - Dịch vụ logistics
+
+- Dịch vụ đại lý tàu biển (bao gồm dịch vụ cung ứng tàu biển)
+
+- Dịch vụ đại lý vận tải đường biển
+
+- Dịch vụ vận tải đa phương thức (không bao gồm dịch vụ vận chuyển hàng không và kinh doanh hàng không chung)
+
+Hoạt động dịch vụ hỗ trợ kinh doanh khác còn lại chưa được phân vào đâu:
+
+5229
+
+9
+
+8299
+
+- Dịch vụ xuất nhập khẩu hàng hoả
+
+Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng:
+
+- Bán buôn tre, nứa, gỗ cây và gỗ chế biến
+
+- Bán buôn xi măng (bao gồm phụ gia xi măng, clinker)
+
+- Bán buôn gạch xây, ngói, đá, cát, sỏi
+
+10
+
+4663
+
+- Bán buôn kính xây dựng
+
+- Bán buôn sơn, vécni
+
+- Bản buôn gạch ốp lát và thiết bị vệ sinh
+
+- Bán buôn đồ ngũ kim, hàng kim khí, tôn mạ mầu
+
+11
+
+Khai thác đá, cát, sỏi, đất sét
+
+0810
+
+Chuẩn bị mặt bằng:
+
+12
+
+4312
+
+- San lấp mặt bằng
+
+13
+
+Phá dỡ
+
+4311
+
+14
+
+Kho bãi và lưu giữ hàng hóa
+
+5210
+
+Dịch vụ lưu trú ngắn ngày:
+
+15
+
+5510
+
+- Khách sạn
+
+3
