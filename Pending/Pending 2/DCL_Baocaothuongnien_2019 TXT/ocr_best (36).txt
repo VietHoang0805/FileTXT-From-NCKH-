@@ -1,0 +1,109 @@
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[1
+
+n
+
+[]
+
+[]
+
+[]
+
+11
+
+n
+
+[]
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+1
+
+CÔNG TY CỔ PHẦN DƯỢC PHẨM CỬU LONG 150 Đường 14/9, Phường 05, Thành phố Vĩnh Long, Tỉnh Vĩnh Long
+
+MẪU SỐ B09-DN/HN
+
+Ban hành theo Thông tư số 202/2014/TT-BTC Ngày 22 tháng 12 năm 2014 của Bộ Tài chính
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+
+3.
+
+TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (Tiếp theo)
+
+Trái phiếu chuyển đổi (Tiếp theo)
+
+Chi phí phát hành trái phiếu chuyển đổi được phân bổ dần phù hợp với kỳ hạn trái phiếu theo phương pháp đường thẳng và ghi nhận vào chi phí tài chính. Tại thời điểm ghi nhận ban đầu, chi phí phát hành trái phiếu chuyển đổi được ghi giảm phần nợ gốc của trái phiếu. Định kỳ, chi phí phát hành trái phiếu chuyển đổi được phân bổ bằng cách ghi tăng giá trị nợ gốc và ghi nhận vào chi phí tài chính phù hợp với việc ghi nhận lãi vay phải trả của trái phiếu.
+
+Tại thời điểm đáo hạn trái phiếu chuyển đổi, giá trị quyền chọn cổ phiếu của trái phiếu chuyển đổi đang phản ánh trong phần vốn chủ sở hữu được chuyển sang ghi nhận là thặng dư vốn cổ phần mà không phụ thuộc vào việc người nắm giữ trái phiếu có thực hiện quyền chọn chuyển đổi thành cổ phiếu hay không. Trường hợp người nắm giữ trái phiếu không thực hiện quyền chọn chuyển đổi trái phiếu thành cổ phiếu, phần nợ gốc của trái phiếu chuyển đổi được ghi giảm tương ứng với số tiền hoàn trả gốc trái phiếu.
+
+Trường hợp người nắm giữ trái phiếu thực hiện quyền chọn chuyển đổi trái phiếu thành cổ phiếu, phần nợ gốc của trái phiếu chuyển đổi được ghi giảm và vốn đầu tư của chủ sở hữu được ghi tăng tương ứng với mệnh giá số cổ phiếu phát hành thêm. Phần chênh lệch giữa giá trị phần nợ gốc của trái phiếu chuyển đổi lớn hơn giá trị cổ phiểu phát hành thêm tính theo mệnh giá được ghi nhận là khoản thặng dư vốn cổ phần.
+
+Ghi nhận vốn chủ sở hữu
+
+Vốn đầu tư của chủ sở hữu được phản ánh là số vốn Điều lệ thực góp của các cổ đông; Vốn bổ sung hàng năm từ lợi nhuận của Công ty.
+
+Phân phối lợi nhuận của Công ty được thực hiện theo Nghị quyết của Đại Hội đồng cổ đông, quy định của Quy chế quản lý tài chính của Công ty.
+
+Ghi nhận doanh thu
+
+Doanh thu bán hàng được ghi nhận khi đồng thời thỏa mãn tất cả năm (5) điều kiện sau:
+
+(a) Công ty đã chuyển giao phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu sản phẩm hoặc hàng hóa cho người mua;
+
+(b) Công ty không còn nắm giữ quyền quản lý hàng hóa như người sở hữu hàng hóa hoặc quyền kiểm soát hàng hóa;
+
+(c) Doanh thu được xác định tương đối chắc chắn;
+
+(d) Công ty sẽ thu được lợi ích kinh tế từ giao dịch bán hàng; và
+
+(e) Xác định được chi phí liên quan đến giao dịch bán hàng.
+
+Lãi tiền gửi được ghi nhận trên cơ sở dồn tích, được xác định trên số dư các tài khoản tiền gửi và lãi suất áp dụng.
+
+-002-
+
+NH
+
+CHIM
+
+TY
+
+HUU
+
+AN
+
+0
+
+PHO
+
+1/5/
+
+[
+
+T
+
+16
