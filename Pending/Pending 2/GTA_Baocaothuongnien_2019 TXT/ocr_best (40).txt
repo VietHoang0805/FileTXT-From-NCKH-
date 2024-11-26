@@ -1,0 +1,125 @@
+Quản lý rủi ro vốn
+
+Hệ số đòn bẩy tài chính
+
+31/12/2019
+
+VND
+
+01/01/2019 VND
+
+Các khoản vay
+
+256.155.956.250
+
+293.817.375.325
+
+Trừ: Tiền và các khoản tương đương tiền
+
+(8.067.323.647)
+
+(35.314.431.830)
+
+Nợ thuần
+
+248.088.632.603
+
+258.502.943.495
+
+Vốn chủ sở hữu
+
+168.526.161.340
+
+166.937.573.702
+
+Tỷ lệ nợ thuần trên vốn chủ sở hữu
+
+1.47
+
+1,55
+
+Các chính sách kế toán chủ yếu
+
+Chi tiết các chính sách kế toán chủ yếu và các phương pháp mà Công ty áp dụng (bao gồm các tiêu chỉ để ghi nhận, cơ sở xác định giá trị và cơ sở ghi nhận các khoản thu nhập và chi phi) đối với từng loại tài sản tài chính, được trình bày tại Thuyết minh số 3.2
+
+Các loại công cụ tài chính
+
+(Giá trị ghi số - Giá gốc - các khoản dự phòng)
+
+Tài sản tài chính
+
+Tiền và các khoản tương đương tiền
+
+Phải thu khách hàng và phải thu khác
+
+Đầu tư tài chính ngắn hạn
+
+Đầu tư tài chính dài hạn
+
+Công nợ tài chính
+
+Các khoản vay, ng
+
+Phải trả người bán và phải trả khác Chi phí phải trản
+
+Giá trị ghi số
+
+31/12/2019
+
+VND
+
+01/01/2019 VND
+
+8.067.323.647
+
+40.869.658.048
+
+35.314.431.830
+
+32.547.635.987
+
+342.888.013.699
+
+351.040.899.346
+
+2.000.000.000 393.824.995.394
+
+2.000.000.000
+
+420.902.967.163
+
+256.155.956.250.
+
+293.817.375.325
+
+37.452.705.835
+
+473.461.852 294.082.123.937
+
+57.303.658.245
+
+511.848.219
+
+351.632.881.789
+
+Công ty chưa đánh giá giá trị hợp lý của tài sản tài chính và công nợ tài chính tại ngày kết thúc năm tài chính do Thông tư số 210/2009/TT-BTC do Bộ Tài chính ban hành ngày 06 tháng 11 năm 2009 ("Thông tư 210") cũng như các quy định hiện hành chưa có hướng dẫn cụ thể về việc xác định giá trị hợp lý của các tài sản tài chính và công nợ tài chính. Thông tư 210 yêu cầu áp dụng Chuẩn mực Báo cáo tài chính Quốc tế về việc trình bày Báo cáo tài chính và thuyết minh thông tin đối với công cụ tài chính nhưng không đưa ra hướng dẫn tương đường cho việc đánh giá và ghi nhận công cụ tài chính bao gồm cả áp dụng giá trị hợp lý, nhằm phù hợp với Chuẩn mực Báo cáo tài chính Quốc tế.
+
+Mục tiêu quản lý rủi ro tài chính
+
+Công ty đã xây dựng hệ thống quản lý rủi ro nhằm phát hiện và đánh giá các rủi ro mà Công ty phải chịu, thiết lập các chính sách và quy trình kiểm soát rủi ro ở mức chấp nhận được. Hệ thống quản lý rủi ro được xem xét lại định kỳ nhằm phản ánh những thay đổi của điều kiện thị trường và hoạt động của Công ty.
+
+Rủi ro tài chính bao gồm rủi ro thị trường (bao gồm rủi ro tỷ giả, rủi ro lãi suất và rủi ro về giá), rủi ro tín dụng
+
+và rủi ro thanh khoản.
+
+Rủi ro thị trường
+
+Hoạt động kinh doanh của Công ty sẽ chủ yếu chịu rủi ro khi có sự thay đổi về tỷ giá hối đoái, lãi suất và giá. Công ty không thực hiện các biện pháp phòng ngừa rủi ro này do thiếu thị trưởng hoạt động giao dịch các công cụ tài chính này. (hoặc: Công ty không thực hiện các biện pháp phòng ngừa rủi ro này sau khi Ban Tổng Giám đốc đánh giá chi phi để thực hiện phòng ngừa rủi ro tỷ giá hay rủi ro lãi suất có thể cao hơn chi phi phát sinh do rủi ro thị trường khi có sự thay đổi về giá của các công cụ tài chính này trong tương lai.
+
+Quản lý rủi ro tỷ giả
+
+Công ty thực hiện một số các giao dịch có gốc ngoại tệ, theo đó, Công ty sẽ chịu rủi ro khi có biến động về tỷ giá.
+
+Quản lý rủi ro lãi suất
+
+40
