@@ -1,0 +1,47 @@
+3.9
+
+3.10
+
+Chi phi xây dựng cơ bản dở dang
+
+Các tài sản đang trong quá trình xây dựng phục vụ mục đích sản xuất, cho thuê, quản trị hoặc cho bất kỳ mục đích nào khác được ghi nhận theo giá gốc. Chi phí này bao gồm chi phí dịch vụ và chi phí lãi vay có liên quan phù hợp với chính sách kế toán của Công ty. Việc tính khấu hao của các tài sản này được áp dụng giống như với các tài sản khác, bắt đầu từ khi tài sản ở vào trạng thái sẵn sàng sử dụng.
+
+Các khoản trả trước.
+
+Chi phí trả trước bao gồm các chi phí thực tế đã phát sinh nhưng có liên quan đến kết quả hoạt động sản xuất kinh doanh của nhiều kỳ kế toán. Chi phí trả trước bao gồm chi phi và các khoản chi phí trả trước khắc.
+
+Các khoản chi phí trả trước khác bao gồm giá trị công cụ, dụng cụ, linh kiện loại nhỏ đã xuất dùng, các chi phi quảng cáo và chi phí đào tạo phát sinh trong giai đoạn trước khi Công ty đi vào hoạt động chính thức và được coi là có khả năng đem lại lợi ích kinh tế trong tương lai cho Công ty. Các chi phi này được vẫn hóa dưới hình thức các khoản trả trước và được phân bổ vào Báo cáo kết quả hoạt động kinh doanh, sử dụng phương pháp đường thẳng theo các quy định kế toán hiện hành.
+
+3.1. Vốn chủ sở hữu
+
+3.12
+
+Vốn đầu tư của chủ sở hữu được ghi nhận theo số vốn thực góp của chủ sở hữu.
+
+Thặng dư vốn cổ phần được ghi nhận theo số chênh lệch lớn hơn/hoặc nhỏ hơn giữa giá thực tế phát hành và mệnh giá cổ phiếu khi phát hành cổ phiếu lần đầu, phát hành bổ sung hoặc tái phát hành cổ phiếu quỹ. Chi phí trực tiếp liên quan đến việc phát hành bổ sung cổ phiếu hoặc tái phát hành cổ phiếu quỹ được ghi giảm Thắng dư vốn cổ phần.
+
+Vốn khác của chủ sở hữu được ghi theo giá trị còn lại giữa giá trị hợp lý của các tài sản mà doanh nghiệp được các tổ chức, cá nhân khác tặng, biểu sau khi trừ (-) các khoản thuế phải nộp (nếu có) liên quan đến cầu tài sản được tặng, biểu này; và khoản bổ sung từ kết quả hoạt động kinh doanh
+
+Cổ phiếu quỹ là cổ phiếu do Công ty phát hành và sau đó mua lại. Cổ phiếu quỹ được ghi nhận theo giá trị thực tế và trình bày trên Đàng Cân đối kế toán là một khoản ghi giản vốn chủ sở hữu. Công ty không ghi nhận các khoản lại (13) khi mua, bắn, phát hành hoặc hủy cổ phiếu quỹ
+
+Lợi nhuận sau thuế chưa phân phối là số lợi nhuận từ các hoạt động của doanh nghiệp sau khi trừ (-) các khoản điều chỉnh do áp dụng hồi tố thay đổi chính sách kế toán và điều chỉnh hồi tố sai sót trong yếu của các năm trước. Lợi nhuận sau thuế chưa phân phối có thể được chia cho các nhà đầu tư dựa trên tỷ lệ góp vốn sau khi được Hội đồng quản trị phê duyệt và sau khi đã trích lập các quỹ dự phỏng theo Điều lệ Công ty và các quy định của pháp luật Việt Nam.
+
+Cổ túc phải trả cho các cổ đông được ghi nhận là khoản phải trả trong Bảng Cân đối kế toán của Công ty sau khi có thông báo chia cổ tức của Hội đồng Quản trị Công ty,
+
+Ghi nhận doanh thu
+
+Doanh thu bản bằng
+
+Doanh thu bán hàng được ghi nhận khi đồng thời thỏa mãn tất cả năm (5) điều kiện sau:
+
+(a). Công ty đã chuyển giao phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu sản phẩm hoặc hàng hóa cho người Hu
+
+(b). Công ty không còn nắm giữ quyền quản lý hàng hóa như người sở hữu hàng hóa hoặc quyền kiểm soát hàng hó
+
+(c) Doanh thu được xác định trong đối chắc chắn,
+
+(d). Công ty sẽ thu dirục lợi ích kinh tế từ giao dịch bản hồng, và
+
+(c). Xác định được chi phí liên quan đến giao dịch bán hàng.
+
+25

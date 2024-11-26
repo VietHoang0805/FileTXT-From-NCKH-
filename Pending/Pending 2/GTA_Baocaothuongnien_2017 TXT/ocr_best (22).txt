@@ -1,0 +1,47 @@
+3.1
+
+3.2
+
+3.3
+
+3.4
+
+Sau đây là các chính sách kế toán chủ yếu được Công ty áp dụng trong việc lập báo cáo tài chính:
+
+Ước tính kế toán.
+
+Việc lập báo cáo tài chính tuân thủ theo chuẩn mực kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính yêu cầu Ban Giám đốc phải có những đối tính và giá định ảnh hưởng đến số liệu báo cáo về công nợ, tài sản và việc trình bày các khoản công nợ và tái sản tiềm tàng tại ngày lập báo cáo tài chính cũng như các số liệu báo cáo về doanh thu và chi phí trong suốt năm tài chính. Mặc dù các ước tính kế toán được lập bằng tất cả sự hiểu biết của Ban Giám đốc, số thực tế phát sinh có thể khác với các ước tính, giả định đặt ra..
+
+Công cụ tài chính
+
+Ghi nhận ban đầu
+
+Tài sản tài chính: Tại ngày ghi nhận ban đầu, tài sản tài chính được ghi nhận theo giá gốc cộng các chi phí giao địch có liên quan trực tiếp đến việc mua sắm tài sản tài chính đó. Tài sản tài chính của Công ty bao gồm tiền, các khoản tương đương tiền, các khoản phải thu khách hàng, phải thu khác, các khoản ký quỹ, các khoản dầu tư tài chính và các công cụ tài chính phải sinh.
+
+Công nợ tài chính. Tại ngày ghi nhận ban đầu, công nợ tài chính được ghi nhận theo giá gốc cộng các chi phí giao dịch có liên quan trực tiếp đến việc phát hành công nợ tài chính đó, Công nợ tài chính của Công ty bảo gồm các khoản phải trả người bán, phải trả khác, các khoản chi phi phải trả, các khoản nợ thuê tài chính, các khoản vay và công cụ tài chính phái sinh.
+
+Đánh giá lại sau lần ghi nhận ban đầu
+
+Hiện tại, chưa có quy định về định giá lại công cụ tài chính sau ghi thận ban đầu.
+
+Tiền và các khoản tương đương tiền
+
+Tiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, các khoản tiền gửi không kỳ hạn, các khoản đầu tư ngắn hạn thời hạn thu hồi không quá 3 tháng kể từ ngày đầu tư có khả năng chuyển đổi dễ dàng thành một lượng tiền xác định và không có rủi ro trong việc chuyển đổi thành tiền tại thời điểm báo cáo.
+
+Các khoản đầu tư tài chính
+
+Các khoản đầu tư nắm giữ đến ngày đảo hạt
+
+Các khoản đầu tư nằm giữ đến ngày đáo hạn bao gồm các khoản đầu tư mà Công ty có ý định và khả năng giữ đến ngày đáo hạn. Các khoản đầu tư nắm giữ đến ngày đáo hạn bao gồm: các khoản tiến gửi ngân hàng có kỳ hạn (bao gồm cả các loại tín phiếu, kỳ phiếu), trái phiếu, cổ phiếu ưu đãi bên phát hành bắt buộc phải mua túi tại một thời điểm nhất định trong tương lai và các khoản cho vay nắm giữ đến ngày đảo bạn với mục đích thu lãi hàng kỳ và các khoản đầu tư nắm giữ đến ngày đáo hạn khác.
+
+Các khoản đầu tư nằm giữ đến ngày đáo hạn được ghi nhận bắt đầu từ ngày mua và được xác định giá trị ban đầu theo giá mua và các chi phi liên quan đến giao dịch mua các khoản đầu tư. Thu nhập lại từ các khoản đầu tư nắm giữ đến ngày đáo hạn sau ngày mua được ghi nhận trên Báo cáo kết quả hoạt động kinh doanh trên cơ số dự thu. Lãi được hướng trước khi Công ty nắm giữ được ghi giảm trừ vào giá gốc tại thời điểm mua.
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn được xác định theo giá gốc trở đi dự phòng phải thu khó đòi.
+
+Dự phòng phải thu khó đòi của các khoản đầu tư nắm giữ đến ngày đáo hạn được trích lập theo các quy định kế tuấn hiện hành.
+
+Đầu tư vào công cụ vốn của đơn vị khác phản lạnh các khoản đầu tư công cụ vẫn những Công ty không với quyền kiểm soát, đồng kiểm soát hoặc có ảnh hưởng đáng kể đối và bên được đầu tư.
+
+Khoản đầu tư vào công cụ vẫn các đơn vị khác được phản ánh theo nguyên giá trừ các khoản dự phòng giảm giá đầu tư.
+
+23

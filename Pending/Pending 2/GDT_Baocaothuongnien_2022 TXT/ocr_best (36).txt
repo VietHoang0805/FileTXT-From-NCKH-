@@ -1,0 +1,129 @@
+70
+
+BÁO CÁO TÀI CHÍNH ( Tiếp theo)
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)
+
+Tăng hoặc giảm số dư tài khoản dự phòng được hạch toán vào chi phí quản lý doanh nghiệp trên báo cáo kết quả hoạt động kinh doanh.
+
+3.6. Hàng tồn kho
+
+Nguyên tắc ghi nhận hàng tồn kho
+
+RSM
+
+Hàng tồn kho được xác định trên cơ sở giả thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện ĐƯỢC
+
+Giá gốc hàng tồn kho bao gồm chi phi mua, chi phi chế biến và các chi phi khác để mang hàng tồn kho đến địa điểm và điều kiện hiện tại của chúng. Trong trường hợp các sản phẩm được sản xuất, giá gốc bao gồm tất cả các chi phí nguyên vật liệu trực tiếp, chi phí nhân công trực tiếp và chi phí sản xuất chung dựa trên tình hình hoạt động bình thường.
+
+Chi phí mua của hàng tồn kho bao gồm giá mua, các loại thuế không được hoàn lại, chi phí vận chuyển, bốc xếp, bảo quản trong quá trình mua hàng và các chi phí khắc có liên quan trực tiếp đến việc mua hàng tồn kho. Các khoản chiết khấu thương mại và giảm giá hãng mua do hàng mua không đúng quy cách, phẩm chất được trừ (-) khỏi chi phí mua
+
+Giá trị thuần có thể thực hiện được được xác định bằng giá bản ước tính trừ các chi phí ước tính để hoàn thành sản phẩm cùng chi phí tiếp thị, bán hàng và phân phối phát sinh,
+
+Phương pháp xác định giá trị hàng tồn kho
+
+Giá gốc của hàng tồn kho được xác định theo phương pháp bình quân gia quyền.
+
+Phương pháp hạch toán hàng tồn kho
+
+Hàng tồn kho được hạch toán theo phương pháp kê khai thường xuyên.
+
+Phương pháp lập dự phòng giảm giá hàng tồn kho
+
+Dự phòng giảm giá hàng tồn kho được trích lập cho hàng tồn kho bị hư hỏng, kém phẩm chất, lỗi thời, chậm luân chuyển và trong trường hợp gia gốc hàng tồn kho cao hơn giá trị thuần có thể thực hiện được tại ngày kết thúc kỳ kế toán phù hợp với hướng dẫn tại Thông tư số 228/2009/TT-BTC ngày 07 tháng 12 năm 2009 của Bộ Tài chính
+
+Số tăng hoặc giảm dự phòng giảm giá hàng tồn kho được hạch toán vào giả vốn hàng bán trên báo cáo kết quả hoạt động kinh doanh.
+
+Dự phòng giảm giá hàng tồn kho được thực hiện trên cơ sở từng mặt hàng tồn kho.
+
+Nguyên liệu, vật liệu và công cụ dụng cụ dự trữ để sử dụng cho mục đích sản xuất ra sản phẩm không được lập dự phòng nếu sản phẩm do chúng góp phần cấu tạo nên sẽ được bán bằng hoặc cao hơn giá thành sản xuất của sản phẩm.
+
+3.7. Tài sản cố định hữu hình
+
+Tài sản cố định hữu hình được thể hiện theo nguyên giá trừ đi giá trị hao mòn lũy kế. Nguyên tắc ghi nhận và xác định giá trị ban đầu
+
+Nguyên giá tài sản cố định hữu hình bao gồm giá mua và toàn bộ các chi phí liên quan trực tiếp đến việc đưa tài sản vào trạng thái sẵn sàng sử dụng. Trường hợp mua tài sản cố định được kèm thêm thiết bị, phụ tùng thay thế thì xác định và ghi nhận riêng thiết bị, phụ tùng thay thế theo giá trị hợp lý và được trừ (-) khỏi nguyên giả tài sản cố định hữu hình.
+
+GDT - Báo Cáo Thường Niên 2017
+
+winwintoys.com
+
+www.goducthanh.com
+
+Phương pháp khấu hao
+
+BỨC TRANH
+
+RSM
+
+Nguyên giá tài sản cố định hữu hình được khấu hao theo phương pháp đường thẳng trong suốt thời
+
+gian hữu dụng dự tính của tài sản.
+
+Thời gian khấu hao ước tính cho một số nhóm tài sản như sau
+
+Nhà cửa, vật kiến trúc
+
+* Máy móc thiết bị
+
+* Phương tiện vận tải truyền dẫn
+
+* Thiết bị, dụng cụ quản lý
+
+3.8. Tài sản cố định vô hình
+
+Tài sản cố định vô hình được thể hiện theo nguyên giá trừ đi giá trị hao mòn lũy kế, Nguyên tắc ghi nhận và xác định giá trị ban đầu
+
+Năm 2017
+
+03 – 28 năm
+
+03 - 15 năm
+
+05 – 10 năm
+
+03 - 10 năm
+
+Nguyễn gia là toàn bộ các chi phí mà doanh nghiệp bỏ ra để có được tài sản cố định vô hình tinh đến thời điểm đưa tài sản đó vào trạng thái sử dụng theo dự tính.
+
+Nguyên tắc kế toán các tài sản cố định vô hình
+
+Quyền sử dụng đất
+
+Quyền sử dụng đất được trình bày theo nguyên giá trừ đi giá trị hao mòn lũy kế. Quyền sử dụng đất được khẩu hao theo phương pháp đường thẳng dựa trên thời gian sử dụng lô đất là 45 năm đến 50 năm. Quyền sử dụng đất vô thời hạn không trích khấu hao. Các quyền sử dụng đất của Công ty được chi tiết như sau:
+
+Dja chi
+
+Thửa đất số 03, tờ bản đồ số 201, 21/8D Phan Huy Ích,
+
+Phường 14, Quận Gò Vấp, Tp. HCM
+
+* Thửa đất số 835, tờ bản đồ số 7, xã Tân Hiệp,
+
+huyện Tân Uyên, tỉnh Bình Dương.
+
+* Thửa đất số 1130, tờ bản đồ số 7, xã Tân Hiệp,
+
+huyện Tân Uyên, tỉnh Bình Dương.
+
+Phần mềm máy vi tính
+
+Thời gian sử dụng Vô thời hạn
+
+45 năm
+
+50 năm
+
+Phần mềm máy vi tinh không phải là cấu phần không thể thiểu của phần cứng thì được ghi nhận như tài sản cố định vô hình và được khấu hao theo thời gian sử dụng hữu ích.
+
+3.9 Thuê tài sản Thuê hoạt động
+
+Các khoản thanh toán tiền thuê hoạt động được ghi nhận là chi phí sản xuất, kinh doanh theo phương pháp đường thẳng cho suốt thời hạn thuê tài sản,
+
+3.10. Chi phi trả trước
+
+Chi phí trả trước được phân loại là chi phi trả trước ngắn hạn và chi phí trả trước dài hạn theo kỳ hạn
+
+GDT - Báo Cáo Thường Niên 2017 71
+
+www.goducthanh.com⚫ winwintoys.com

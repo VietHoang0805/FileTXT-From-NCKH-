@@ -1,0 +1,59 @@
+35
+
+3.6
+
+3.7
+
+Nợ phải thu
+
+Nợ phải thu là số tiền có thể thu hồi của khách hàng hoặc các đối tượng khác. Nợ phải thu được trình bày theo giá trị ghi số trừ đi các khoản dự phòng phải thu khó đòi.
+
+Dự phòng phải thu khó đòi được trích lập cho những khoản nợ phải thu đã quá hạn thanh toán từ sâu thẳng trở lên, hoặc các khoản nợ phải thu mà người nợ khó có khả năng thanh toán do bị thanh lý, phá sản hay các khối khăn tương tự.
+
+Hàng tồn kho
+
+Hàng tồn kho được xác định trên cơ sở giá thấp hơn giữa giả gốc và giá trị thuần có thể thực hiện được. Giả gốc hàng tồn kho bao gồm chi phí nguyên vật liệu trực tiếp, chi phí lao động trực tiếp và chi phí sản xuất chung, nếu có, để có được hàng tồn kho ở địa điểm và trọng thái hiện tại. Giá gốc của hàng tồn kho được xác định theo phương pháp bình quân gia quyền (hoặc nhập trước xuất trước hoặc thực tế đích danh hoặc phương pháp giá bán lẻ trong trường hợp hàng hóa). Giá trị thuần có thể thực hiện được được xác định bằng giá bán ước tính trừ các chi phí ước tính để hoàn thành sản phẩm cùng chi phi tiếp thị, bán hàng và phân phối phát
+
+sinh.
+
+Dự phòng giảm giá hàng tồn kho của Công ty được trích lập theo các quy định kế toán hiện hành. Theo đó, Công ty được phép trích lập dự phòng giảm giá hàng tồn kho lỗi thời, hồng, kém phẩm chất và trong trường hợp giá gốc của hàng tồn kho cao hơn giá trị thuần có thể thực hiện được tại ngày kết thúc niên độ kế toàn Tài sản cố định hữu hình và khẩu hao
+
+Tài sản cố định hữu hình được trình bày theo nguyên giá trả giá trị hao mòn lũy kế.
+
+Nguyên giá tài sản cố định hữu hình bao gồm giả mua và toàn bộ các chi phí khác liên quan trực tiếp đến
+
+việc đua tài sản vào trạng thái sẵn sàng sử dụng.
+
+Nguyên giá tài sản cố định hữu hình do tự làm, tự xây dựng bao gồm chi phi xây dựng, chi phi sản xuất thực tế phát sinh cộng chi phí lắp đặt và chạy thử, (nếu áp dụng)
+
+3.8
+
+Nhà xưởng và vật kiến trúng
+
+Máy móc và thiết bị Thiết bị văn phòng Phương tiện vận tải
+
+Bất động sản đầu tư
+
+2017
+
+Số năm
+
+9
+
+15 năm
+
+5 – 10 năm
+
+1
+
+10 năm
+
+10 năm
+
+Bất động sản đầu tư bao gồm quyền sử dụng đất và nhà xuống, vật kiến trúc do công ty nắm giữ nhằm mục đích thu lợi từ việc cho thuế hoặc chờ tăng giá. Bất động sản đầu tư cho thuê được trình bày theo nguyên giả trả giá trị hao mòn lũy kế. Bất động sản đầu tư chờ tăng giá được trình bày theo nguyên giá trị suy giảm gi Nguyên giá của bất động sản đầu từ được mua bao gồm giá mua và các chi phí liên quan trực tiếp như phi dịch vụ tư vấn về luật pháp liên quan, thuế trước bạ và chi phí giao dịch liên quan khác. Nguyên gia bất động sản đầu tử tự xây là giá trị quyết toán công trình hoặc các chi phi liên quan trực tiếp của bất động sản đầu tư.
+
+Bất động sản đầu tư cho thuê được khấu hao theo phương pháp đường thẳng trên thời gian hữu dụng ước tính trong vòng 60 năm.
+
+Công ty không trích khấu hao đối với bất động sản đầu tư nắm giữ chờ tăng giá..
+
+24

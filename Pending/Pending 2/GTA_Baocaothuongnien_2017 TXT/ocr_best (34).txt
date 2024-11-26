@@ -1,0 +1,93 @@
+Chiên lý rủi ro lãi suất
+
+Công ty chịu rủi ro lãi suất phát sinh từ các khoản vay chịu lãi suất đã được ký kết. Rủi ro này sẽ được Công ty quản lý bằng cách duy trì ở mức độ hợp lý các khoản vay và phân tích tình hình cạnh tranh trên thị trường để có được lãi suất có lợi cho Công ty từ các nguồn cho vay thích hợp.
+
+Rủi ro tín dụng
+
+Rủi ro tín dụng xảy ra khi một khách hàng hoặc đối tác không đáp ứng được các nghĩa vụ trong hợp đồng đầu đến các tổn thất tài chính cho Công ty. Công ty có chính sách tin dụng phù hợp và thường xuyên theo dõi tình hình để đánh giá xend Công ty có chịu rủi ro tín dụng hay không. Công ty không có bất kỳ rủi ro tín dụng trong yếu nào với các khách hàng hoặc đổi tác bởi vì các khoản phải thu đến từ một số lượng lớn khách hàng hoạt động trong nhiều ngành khác nhau và phân bố ở các khu vực địa lý khác nhau.
+
+Quản lý rủi ro thanh khoản
+
+Mục đích quản lý rủi ro thanh khoản nhằm đảm bảo đủ nguồn vốn để đáp ứng các nghĩa vụ tài chính hiện tại và trong tương lai. Tính thanh khoản cũng được Công ty quản lý nhằm đảm bảo mức phụ trội giữa công nợ đến hạn và tài sản đến hạn trong kỳ ở mức có thể được kiểm soát đối với số vốn mà Công ty tin rằng có thể tạo ra trong kỳ đó. Chính sách của Công ty là theo dõi thường xuyên các yêu cầu về thanh khoản hiện tại và dự kiến trong tương lai nhằm đảm bảo Công ty duy trì đủ mức dự phòng tiền mặt, các khoản vay và đủ vốn mà chủ sở hữu [các cổ đôngì cam kết góp nhằm đáp ứng các quy định về tính thanh khoản ngắn hạn và đài hạn hơn.
+
+Các bảng dưới đây trình bày chi tiết các móc đảo hạn theo hợp đồng còn lại đối với tài sản tài chính và công nợ tài chính phủ phái sinh và thời hạn thanh toán như đã được thỏa thuận. Các bảng này được trình bày dựa trên dòng tiền chưa chiết khấu của tài sản tài chính và dòng tiền chưa chiết khấu của công nợ tài chính tỉnh theo ngày sớm nhất mà Công ty phải trả. Việc trình bày thông tin tài sản tài chính phủ phải sinh là cần thiết để hiểu được việc quản lý rủi ro thanh khoản của Công ty khi tỉnh thanh khoản được quản lý trên cơ sở công nợ
+
+và tài sản thuần.
+
+Quản lý rủi ro thanh khoản
+
+Từ 1 năm trở xuống.
+
+Trên 1 năm
+
+đến 5 năm.
+
+Cong
+
+VND
+
+VND
+
+VND
+
+Tại ngày 31/12/2017
+
+Tiền và các khoản tương đương tiền.
+
+18.635.597.371
+
+18.635.597.371
+
+Phải thu khách hàng và phải thu khác
+
+38.788.842.589
+
+38.788.842.589
+
+Đầu tư tài chính ngắn hạn
+
+254.883.466.667
+
+254.883.466.667
+
+Đầu tư tài chính dài hạn
+
+2.000.000.000
+
+2.000.000.000.
+
+312.307.906.627 2.000.000.000
+
+314.307.906.627
+
+Tại ngày 31/12/2017
+
+Các khoản vay
+
+176.415.945.206
+
+176.415.945.206
+
+Phải trả người bản và phải trả khác
+
+51.535.938.327
+
+Chi phi phải trả
+
+418.765.873
+
+228.370.649.406
+
+Chênh lệch thanh khoản thuần
+
+83.937.257.221
+
+2.000.000.000
+
+51.535.938.327
+
+418.765.873 228.370.649.406
+
+85.937.257.221
+
+35
