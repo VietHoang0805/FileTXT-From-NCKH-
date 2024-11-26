@@ -1,0 +1,37 @@
+Công ty Cổ phần Đầu tư Sản xuất và Thương mại HCD Số nhà 122B, phố Quang Trung, phường Quang Trung, thành phố Hải Dương, Tỉnh Hải Dương
+
+Thuyết minh Báo cáo tài chính Cho năm tài chính kết thúc ngày 31/12/2023
+
+Khi ghi nhận nợ phải thu: là tỷ giả mua của ngân hàng thương mại nơi Công ty chỉ định khách hàng thanh toán tại thời điểm giao dịch phát sinh;
+
+Khi ghi nhận nợ phải trả: là tỷ giả bản của ngân hàng thương mại nơi Công ty dự kiến giao dịch tại thời điểm
+
+giao dịch phát sinh;
+
+- Khi mua sắm tài sản hoặc thanh toán ngay bằng ngoại tệ: là tỷ giá mua của ngân hàng thương mại nơi Công ty thực hiện thanh toán.
+
+Nếu Công ty áp dụng tỷ giá giao dịch thực tế là tỷ giá xấp xỉ thì tỷ giá này chênh lệch không quá 1% so với tỷ giả mua bán chuyển khoản trung bình.
+
+Tỷ giá giao dịch thực tế khi đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ tại thời điểm lập Báo cáo tài chính được xác định theo nguyên tắc:
+
+Đối với khoản mục phân loại là tài sản: áp dụng tỷ giá mua ngoại tệ của ngân hàng thương mại nơi Công ty thường xuyên có giao dịch;
+
+- Đối với tiền gửi ngoại tệ: áp dụng tỷ giá mua của chính ngân hàng nơi Công ty mở tài khoản ngoại tệ; Đối với khoản mục phân loại là nợ phải trả: áp dụng tỷ giá bán ngoại tệ của ngân hàng thương mại nơi Công ty thường xuyên có giao dịch.
+
+Tất cả các khoản chênh lệch tỷ giả thực tế phát sinh trong kỷ và chênh lệch do đánh giá lại số dư các khoản mục tiền tệ có gốc ngoại tệ tại thời điểm lập Báo cáo tài chính được hạch toán vào kết quả hoạt động kinh doanh của kỷ kế toán. Trong đó lãi chênh lệch tỷ giá do đánh giá lại số dư cuối kỳ của các khoản mục tiền tệ có gốc ngoại tệ không được sử dụng để phân phối lợi nhuận hoặc chia cổ tức.
+
+2.5. Tiền và các khoản tương đương tiền
+
+Tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng không kỳ hạn, vàng tiền tệ sử dụng với các chức năng cất trữ giá trị không bao gồm các loại vàng được phân loại là hàng tồn kho sử dụng với mục đích là nguyên vật liệu để sản xuất sản phẩm hoặc hàng hóa để bản.
+
+Các khoản tương đương tiền là các khoản đầu tư ngắn hạn có thời gian đáo hạn không quá 03 tháng, có tính thanh khoản cao, có khả năng chuyển đổi dễ dàng thành các lượng tiền xác định và không có nhiều rủi ro trong chuyển đổi thành tiền.
+
+2.6. Các khoản đầu tư tài chính
+
+Các khoản đầu tư nắm giữ đến ngày đảo hạn bao gồm: Các khoản tiền gửi ngân hàng có kỳ hạn (bao gồm cả các loại tin phiếu, kỳ phiếu), trái phiếu, cổ phiếu ưu đãi bên phát hành bắt buộc phải mua lại tại thời điểm nhất định trong tương lai, các khoản cho vay,... được nắm giữ đến ngày đáo hạn với mục đích thu lãi hàng kỳ và các khoản đầu tư nắm giữ đến ngày đảo hạn khác.
+
+Các khoản đầu tư vào các công ty con, công ty liên doanh liên kết được ghi nhận ban đầu trên sổ kế toán theo giá gốc. Sau ghi nhận ban đầu, giá trị của các khoản đầu tư này được xác định theo giá gốc trừ đi dự phòng giảm giá khoản đầu tư.
+
+Cổ tức nhận bằng cổ phiếu chỉ thực hiện ghi nhận số lượng cổ phiếu được nhận, không ghi nhận tăng giá trị khoản đầu tư và doanh thu hoạt động tài chính.
+
+14

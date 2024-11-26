@@ -1,0 +1,95 @@
+BÁO CÁO THƯỜNG NIÊN – HCD
+
+structure Ratio
+
++ Hệ số Nợ Tổng tài sản (DebTotal assets ratio)
+
++ Hệ số Ng/Vốn chủ sở
+
+hiru(Debt/Owners' Equity ratio)
+
+3. Chỉ tiêu về năng lực hoạt động Operation capability Ratio
+
++ Vòng quay hàng tồn kho Inventory
+
+turnover:
+
+Giá vốn hàng bản/Hàng tồn kho binh quân (Cost of goods sold/Average inventory)
+
+Doanh thu thuần Tổng tài sản
+
+(Net revenue/ Total Assets)
+
+4. Chỉ tiêu về khả năng sinh lời/ Target on Profitability
+
+2023
+
+0,45
+
+0,42
+
+0,82
+
+0,72
+
+2,93
+
+2,90
+
+1,17
+
+0,99
+
++ Hệ số Lợi nhuận sau thuế/Doanh thu
+
+0,057
+
+thuan (profit after tax/ Net revenue Ratio)
+
+0,054
+
++ Hệ số Lợi nhuận sau thuế/Vốn chủ sở
+
+hữu (profit after tax/ total capital Ratio)
+
+0,115
+
+0,097
+
++ Hệ số Lợi nhuận sau thuế Tổng tài sản
+
+0,067
+
+0,053
+
+(profit after tax/ Total assets Ratio)
+
++ Hệ số Lợi nhuận từ hoạt động kinh doanh/Doanh thu thuần(Operating profit/
+
+0,070
+
+0,063
+
+Net revenue Ratio)
+
+Đối với tổ chức tín dụng và tổ chức tài chính phủ ngân hàng/For credit institutions and non-bank financial institutions:
+
+Chỉ tiêu/Figures
+
+| 1. Quy mô vốn/ Capital scale
+
+- Vốn điều lệ Charter Capital - Tổng tài sản có/ Total assets - Tỷ lệ an toàn vốn/Capital adequacy ratio
+
+2. Kết quả hoạt động kinh doanh Operating results
+
+- Doanh số huy động tiền gửi/ Cash deposits
+
+Năm/Year X-1
+
+Năm/Year
+
+Ghi chú/Note
+
+X
+
+11
