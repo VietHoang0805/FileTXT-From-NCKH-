@@ -1,0 +1,131 @@
+theo chỉ phi phát sinh thực tế cho từng giai đoạn sản xuất trong dây chuyền.
+
+Dự phòng giảm giá hàng tồn kho được lập vào thời điểm cuối kỳ căn cứ theo
+
+số chênh lệch giữa giá gốc của hàng tồn kho lớn hơn giá trị thuần có thể thực hiện
+
+được.
+
+2.11. Tài sản cố định
+
+Tài sản cố định hữu hình, tài sản cố định vô hình được ghi nhận ban đầu theo giá gốc. Trong quá trình sử dụng, tài sản cố định hữu hình, tài sản cố định vô hình được ghi nhận theo nguyên giá, hao mòn luỹ kế và giá trị còn lại.
+
+Khấu hao tài sản cố định được trích theo phương pháp đường thẳng với thời gian khấu hao được ước tính như sau:
+
+Nhà cửa, vật kiến trúc
+
+- Máy móc, thiết bị
+
+- Phương tiện vận tải, truyền dẫn - Thiết bị, dụng cụ quản lý
+
+- Phần mềm quản lý
+
+05-35 năm
+
+05-10 năm
+
+06-10
+
+năm
+
+03-10
+
+năm
+
+03-05 năm
+
+Riêng khấu hao tài sản cố định với vườn cây cao su được thực hiện theo Công văn số 1937/BTC-TCDN ngày 09/02/2010 của Cục Tài chính doanh nghiệp - Bộ Tài chính về việc trích khấu hao vườn cây cao su và Quyết định số 221/QĐ-CSVN ngày 27/04/2010 của Tập đoàn Công nghiệp Cao su Việt Nam về việc ban hành tỷ lệ trích khấu hao vườn cây cao su theo chu kỳ khai thác 20 năm, cụ thể như sau:
+
+- Năm thứ 11
+
+Tỷ lệ khấu hao theo %
+
+Năm khai thác - Năm thứ 1
+
+Tỷ lệ khấu hao theo %
+
+Năm khai thác
+
+2,50
+
+7,00
+
+- Năm thứ 2
+
+2,80
+
+-
+
+- Năm thứ 12
+
+6,60
+
+- Năm thứ 3
+
+3,50
+
+- Năm thứ 4
+
+4,40
+
+- Năm thứ 13 - Năm thứ 14
+
+6,20
+
+5,90
+
+- Năm thứ 5
+
+4,80
+
+- Năm thứ 15
+
+5,50
+
+- Năm thứ 6
+
+5,40
+
+- Năm thứ 16
+
+5,40
+
+- Năm thứ 7
+
+5,40
+
+- Năm thứ 17
+
+5,00
+
+- Năm thứ 8
+
+5,10
+
+- Năm thứ 18
+
+5,00
+
+- Năm thứ 9
+
+5,10
+
+- Năm thứ 19
+
+5,20
+
+- Năm thứ 10
+
+5,00
+
+- Năm thứ 20
+
+Giá trị còn lại
+
+2.12. Bất động sản đầu tư
+
+Bất động sản đầu tư được ghi nhận ban đầu theo giá gốc.
+
+Đối với bất động sản đầu tư cho thuê hoạt động được ghi nhận theo nguyên giả, hao mòn luỹ kế và giá trị còn lại. Trong đó khấu hao được trích theo phương pháp đường thẳng với thời gian khấu hao được ước tính như sau:
+
+46

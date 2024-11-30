@@ -1,0 +1,133 @@
+chênh lệch giữa giá gốc của hàng tồn kho lớn hơn giá trị thuần có thể thực hiện được.
+
+2.11. Tài sản cố định
+
+Tài sản cố định hữu hình, tài sản cố định vô hình được ghi nhận ban đầu theo giá gốc. Trong quá trình sử dụng, tài sản cố định hữu hình, tài sản cố định vô hình được ghi nhận theo nguyên giả, hao mòn luỹ kế và giá trị còn lại.
+
+Khấu hao tài sản cố định được trích theo phương pháp đường thẳng với thời gian khấu hao được ước tính như sau:
+
+Nhà cửa, vật kiến trúc Máy móc, thiết bị
+
+Phương tiện vận tải, truyền dẫn
+
+Thiết bị, dụng cụ quản lý Phần mềm quản lý
+
+05-35 năm
+
+05-10
+
+năm
+
+06-10
+
+năm
+
+03-10 năm
+
+03-05 nām
+
+Riêng khấu hao tài sản cố định với vườn cây cao su được thực hiện theo Công văn số 1937/BTC-TCDN ngày 09/02/2010 của Cục Tài chính doanh nghiệp - Bộ Tài chính về việc trích khấu hao vườn cây cao su và Quyết định số 221/QĐ-CSVN ngày 27/04/2010 của Tập đoàn Công nghiệp Cao su Việt Nam về việc ban hành tỷ lệ trích khấu hao vườn cây cao su theo chu kỳ khai thác 20 năm, cụ thể như sau:
+
+Năm khai thác Tỷ lệ khấu hao theo
+
+Năm khai thác
+
+- Năm thứ 11 - Năm thứ 12
+
+Tỷ lệ khẩu hao theo
+
+- Năm thứ 1
+
+2,50
+
+7,00
+
+- Năm thứ 2
+
+2,80
+
+6,60
+
+- Năm thứ 3
+
+3,50
+
+- Năm thứ 13
+
+6,20
+
+- Năm thứ 4
+
+4,40
+
+- Năm thứ 14
+
+5,90
+
+- Năm thứ 5
+
+4,80
+
+- Năm thứ 15
+
+5,50
+
+- Năm thứ 6
+
+5,40
+
+- Năm thứ 16
+
+5,40
+
+- Năm thứ 7
+
+5,40
+
+- Năm thứ 17
+
+5,00
+
+- Năm thứ 8
+
+5,10
+
+- Năm thứ 18
+
+5,00
+
+- Năm thứ 9
+
+5,10
+
+- Năm thứ 19
+
+5,20
+
+- Năm thứ 10
+
+5,00
+
+- Năm thứ 20
+
+Giá trị còn lại
+
+2.12. Bất động sản đầu tư
+
+Bất động sản đầu tư được ghi nhận ban đầu theo giá gốc.
+
+Đối với bất động sản đầu tư cho thuê hoạt động được ghi nhận theo nguyên giá, hao mòn luỹ kế và giá trị còn lại. Trong đó khấu hao được trích theo phương pháp đường thẳng với thời gian khấu hao được ước tính như sau:
+
+- Nhà cửa, vật kiến trúc
+
+- Bất động sản đầu tư khác
+
+20 - 30 năm
+
+05 - 20 năm
+
+2.13. Chi phí xây dựng cơ bản dở dang
+
+Chi phí xây dựng cơ bản dở dang bao gồm chi phi vườn cây kiến thiết cơ bản và chi phí xây dựng mà chưa hoàn thành tại ngày kết thúc năm tài chính và được ghi nhận theo giá gốc. Chi phí vườn cây kiến thiết cơ bản bao gồm các chi phí nguyên vật liệu phục vụ công tác trồng và chăm sóc, chi phí nhân công và các khoản chi phí
+
+46

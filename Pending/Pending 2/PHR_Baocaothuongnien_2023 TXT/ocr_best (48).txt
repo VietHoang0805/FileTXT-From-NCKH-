@@ -1,0 +1,41 @@
+- Các chi phí trả trước khác được ghi nhận theo nguyên giả và được phân bổ theo phương pháp đường thẳng trong thời gian hữu dụng.
+
+2.16. Các khoản nợ phải trả
+
+Các khoản nợ phải trả được theo dõi theo kỳ hạn phải trả, đối tượng phải trả, loại nguyên tệ phải trả và các yếu tố khác theo nhu cầu quản lý của Công ty. Các khoản phải trả được phân loại ngắn hạn và dài hạn trên Báo cáo tài chính hợp nhất căn cứ theo kỳ hạn còn lại của các khoản phải trả tại ngày báo cáo.
+
+2.17. Các khoản vay
+
+Các khoản vay được theo dõi theo từng đối tượng cho vay, từng khế ước vay
+
+nợ và kỳ hạn phải trả của các khoản vay, nợ thuê tài chính. Trường hợp vay, nợ bằng
+
+ngoại tệ thì thực hiện theo dõi chi tiết theo nguyên tệ.
+
+2.18. Chi phí đi vay
+
+Chi phi đi vay được ghi nhận vào chi phi sản xuất, kinh doanh trong năm khi phát sinh, trừ chi phí đi vay liên quan trực tiếp đến việc đầu tư xây dựng hoặc sản xuất tài sản dở dang được tính vào giá trị của tài sản đó (được vốn hoá) khi có đủ các điều kiện quy định trong Chuẩn mực Kế toán Việt Nam số 16 “Chi phí đi vay”. Ngoài ra, đối với khoản vay riêng phục vụ việc xây dựng tài sản cố định, bất động sản đầu tư, lãi vay được vốn hóa kể cả khi thời gian xây dựng dưới 12 tháng.
+
+2.19. Chi phí phải trả
+
+Các khoản phải trả cho hàng hóa dịch vụ đã nhận được từ người bán hoặc đã được cung cấp cho người mua trong năm tài chính nhưng thực tế chưa chi trả và các khoản phải trả khác như: chi phí lãi tiền vay phải trả; trích trước giá vốn cho thuê đất và phí sử dụng hạ tầng khu công nghiệp, xử lý nước thải;... được ghi nhận vào chi phí sản xuất, kinh doanh của năm tài chính.
+
+Việc ghi nhận các khoản chi phí phải trả vào chi phí sản xuất, kinh doanh trong năm được thực hiện theo nguyên tắc phù hợp giữa doanh thu và chi phí phát sinh trong năm. Các khoản chi phí phải trả sẽ được quyết toán với số chi phi thực tế phát sinh. Số chênh lệch giữa số trích trước và chi phi thực tế được hoàn nhập.
+
+2.20. Doanh thu chưa thực hiện
+
+Doanh thu chưa thực hiện gồm doanh thu nhận trước như: số tiền của khách hàng đã trả trước cho một hoặc nhiều kỳ kế toán về cho thuê tài sản.
+
+Doanh thu chưa thực hiện được kết chuyển vào Doanh thu bán hàng và cung cấp dịch vụ theo số tiền được xác định phù hợp với từng năm tài chính.
+
+2.21. Vốn chủ sở hữu
+
+hữu.
+
+Vốn đầu tư của chủ sở hữu được ghi nhận theo số vốn thực góp của chủ sở
+
+Thặng dư vốn cổ phần phản ánh chênh lệch giữa mệnh giá, chi phí trực tiếp liên quan đến việc phát hành cổ phiếu và giá phát hành cổ phiếu (kể cả các trưởng
+
+48
+
+370

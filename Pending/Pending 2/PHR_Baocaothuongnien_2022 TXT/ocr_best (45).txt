@@ -1,0 +1,35 @@
+sau:
+
+Dự phòng giảm giá các khoản đầu tư được lập vào thời điểm cuối kỳ cụ thể như
+
+Đối với khoản đầu tư nắm giữ lâu dài (không phân loại là chứng khoán kinh doanh) và không có ảnh hưởng đáng kể đối với bên được đầu tư: nếu khoản đầu tư vào cổ phiếu niêm yết hoặc giá trị hợp lý của khoản đầu tư được xác định tin cậy thì việc lập dự phòng dựa trên giá trị thị trường của cổ phiếu; nếu khoản đầu tư không xác định được giá trị hợp lý tại thời điểm báo cáo thì việc lập dự phòng căn cứ vào báo cáo tài chính tại thời điểm trích lập dự phòng của bên được đầu tư.
+
+Đối với các khoản đầu tư nắm giữ đến ngày đáo hạn: căn cứ khả năng thu hồi để lập dự phòng phải thu khó đòi theo quy định của pháp luật.
+
+2.9. Các khoản nợ phải thu
+
+Các khoản phải thu được theo dõi chi tiết theo kỳ hạn phải thu, đối tượng phải thu, loại nguyên tệ phải thu, và các yếu tố khác theo nhu cầu quản lý của Công ty. Các khoản phải thu được phân loại là ngắn hạn và dài hạn trên Báo cáo tài chính hợp nhất căn cứ kỳ hạn còn lại của các khoản phải thu tại ngày báo cáo.
+
+Dự phòng nợ phải thu khó đòi được trích lập cho các khoản: nợ phải thu quả hạn thanh toán ghi trong hợp đồng kinh tế, các khế ước vay nợ, cam kết hợp đồng hoặc cam kết nợ và nợ phải thu chưa đến hạn thanh toán nhưng khó có khả năng thu hồi. Trong đó, việc trích lập dự phòng nợ phải thu quá hạn thanh toán được căn cứ vào thời gian trả nợ gốc theo hợp đồng mua bản ban đầu, không tính đến việc gia hạn nợ giữa các bên và nợ phải thu chưa đến hạn thanh toán nhưng khách nợ đã lâm vào tình trạng phá sản hoặc đang làm thủ tục giải thể, mất tích, bỏ trốn.
+
+2.10. Hàng tồn kho
+
+Hàng tồn kho được ghi nhận ban đầu theo giá gốc bao gồm: chi phí mua, chi phí chế biến và các chi phí liên quan trực tiếp khác phát sinh để có được hàng tồn kho ở địa điểm và trạng thái tại thời điểm ghi nhận ban đầu. Sau ghi nhận ban đầu, tại thời điểm lập Báo cáo tài chính hợp nhất nếu giá trị thuần có thể thực hiện được của hàng tồn kho thấp hơn giá gốc thì hàng tồn kho được ghi nhận theo giá trị thuần có thể thực hiện được.
+
+Giá trị hàng tồn kho được xác định theo phương pháp bình quân gia quyền. Hàng tồn kho được hạch toán theo phương pháp kê khai thường xuyên.
+
+Phương pháp xác định giá trị sản phẩm dở dang cuối kỳ:
+
+-Đối với hoạt động đầu tư xây dựng khu dân cư: Chi phí sản xuất kinh doanh dở dang được tập hợp theo từng công trình chưa hoàn thành hoặc chưa ghi nhận doanh
+
+thu, tương ứng với khối lượng công việc còn dở dang cuối kỳ.
+
+Đối với hoạt động sản xuất: Chi phí sản xuất kinh doanh dở dang được tập hợp theo chi phí phát sinh thực tế cho từng giai đoạn sản xuất trong dây chuyền.
+
+Dự phòng giảm giá hàng tồn kho được lập vào thời điểm cuối kỳ căn cứ theo số
+
+5
+
+Bisy
+
+45
