@@ -1,0 +1,51 @@
+Π
+
+Π
+
+CÔNG TY CỔ PHẦN CÔNG NGHỆ VIỄN THÔNG SÀI GÒN
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019
+
+2. Các loại tỷ giá hối đoái áp dụng trong kế toán
+
+Mẫu số B 09 - DNN
+
+Đơn vị tính: Đồng Việt Nam
+
+Công ty thực hiện quy đổi đồng ngoại tệ ra đồng Việt Nam căn cứ vào tỷ giá giao dịch thực tế và tỷ giá ghi sổ kế toán. Nguyên tắc xác định tỷ giá giao dịch thực tế
+
+Tất cả các giao dịch bằng ngoại tệ phát sinh trong kỳ (mua bán ngoại tệ, ghi nhận nợ phải thu, nợ phải trả, các giao dịch mua sắm tài sản hoặc các khoản chi phi được thanh toán ngay bằng ngoại tệ) được hạch toán theo tỷ giá thực tế tại thời điểm giao dịch phát sinh.
+
+Số dư cuối kỳ của các khoản mục tiền tệ (tiền, tương đương tiền, các khoản phải thu và phải trả, ngoại trừ các khoản mục khoản trả trước cho người bán, người mua trả tiền trước, chi phí trả trước, các khoản đặt cọc và các khoản doanh thu nhận trước) có gốc ngoại tệ được đánh giá lại theo tỷ giá giao dịch thực tế công bố tại thời điểm lập báo cáo tài chính hợp nhất: - Tỷ giá giao dịch thực tế khi đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ được phân loại là tài sản: áp dụng theo tỷ giá mua ngoại tệ của Ngân hàng TMCP Quân Đội. Tỷ giá mua quy đổi tại ngày 31 tháng 12 năm 2019: 23.105 VND/USD
+
+- Tỷ giá giao dịch thực tế khi đánh ghi lại các khoản mục tiền tệ có gốc ngoại tệ được phân loại là nợ phải trả: áp dụng theo tỷ giả bản ngoại tệ của Ngân hàng TMCP Quân Đội. Tỷ giá bán quy đổi tại ngày 31 tháng 12 năm 2019: 23.235VND/USD. Chênh lệch tỷ giá phát sinh trong năm từ các giao dịch bằng ngoại tệ được ghi nhận vào kết quả hoạt động kinh doanh. Chênh lệch tỷ giá do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ tại ngày kết thúc kỳ kế toán sau khi bà trở chênh lệch tăng và chênh lệch giảm được ghi nhận vào kết quả hoạt động kinh doanh.
+
+Nguyên tắc xác định tỷ giá ghi sổ kế toán
+
+Khi thu hồi các khoản nợ phải thu, các khoản ký cược, ký quỹ hoặc thanh toán các khoản nợ phải trả bằng ngoại tệ, Công ty sử dụng tỷ giá ghi sổ thục tế đích danh.
+
+Khi thanh toán tiền bằng ngoại tệ, Công ty sử dụng tỷ giá ghi số bình quân gia quyền di động.
+
+3. Nguyên tắc xác định lãi suất thực tế dùng để chiết khấu dòng tiền
+
+Lãi suất thực tế dùng để chiết khấu dòng tiền đối với các khoản mục được ghi nhận theo giá trị hiện tại, giá trị phân bố, gi trị thu hồi.... được xác định căn cứ theo lãi suất thị trường,
+
+4. Nguyên tắc ghi nhận các khoản tiền và tương đương tiền
+
+Tiền bao gồm tiền mặt, tiền gửi ngân hàng không kỳ hạn.
+
+Các khoản trong đương tiền bao gồm các khoản tiền gửi có kỳ hạn và các khoản đầu tư ngắn hạn có thời hạn gốc không quá ba tháng kể từ ngày đầu tư, có tinh thanh khoản cao, có khả năng chuyển đổi dễ dàng thành các lượng tiền xác định và không có nhiều rủi ro trong chuyển đổi thành tiền.
+
+5. Nguyên tắc kế toán các khoản đầu tư tài chính
+
+Nguyên tắc kế toán đối với các khoản cho vay
+
+Các khoản cho vay là các khoản cho vay bằng khế ước, hợp đồng, thỏa thuận vay giữa 2 bên với mục đích thu lãi hàng kỳ và được ghi nhận theo giá gốc trừ các khoản dự phòng phải thu khó đòi. Dự phòng phải thu khó đòi của các khoản cho vay được lập căn cứ vào mức ước tính cho phần giá trị bị tổn thất đã quá hạn thanh toán, chưa quá hạn nhưng có thể không đòi được do khách vay không có khả năng thanh toán.
+
+Nguyên tắc kế toán các khoản đầu tư góp vốn vào đơn vị khác
+
+Khoản đầu tư góp vốn vào đơn vị khác là khoản Công ty đầu tư vào công cụ vốn của đơn vị khác nhưng không có quyền kiểm soát hoặc đồng kiểm soát, không có ảnh hưởng đáng kể đối với bên được đầu tư.
+
+Các thuyết minh này là bộ nhận hợp thành các Bảo còn tài chính hợp nhất.
+
+Trang 19
