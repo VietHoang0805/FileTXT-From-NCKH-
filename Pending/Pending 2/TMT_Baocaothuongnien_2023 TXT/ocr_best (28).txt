@@ -1,0 +1,49 @@
+4.5
+
+4.6
+
+Page 29
+
+Trường hợp chứng khoán kinh doanh chưa niêm yết, chưa đăng ký giao dịch hoặc đã niêm yết trên thị trường mà không có giá giao dịch trong vòng 30 ngày trước ngày trích lập dự phỏng hoặc tại ngày trích lập dự phòng, chứng khoán bị hủy niêm yết hoặc bị đình chỉ giao dịch hoặc bị ngừng giao dịch thì việc xác định mức trích lập dự phòng tương tự như trường hợp đầu tư vào các đơn vị kinh tế khác.
+
+Tăng, giảm số dự phỏng giảm giá chứng khoản kinh doanh cần phải trích lập tại ngày khóa sổ lập báo cáo tài chính được ghi nhận vào chi phí tài chính.
+
+Đầu tư nắm giữ đến ngày đảo hạn
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn bao gồm các khoản đầu tư mà Công ty có ý định và khả năng nắm giữ đến ngày đảo hạn. Các khoản đầu tư nắm giữ đến ngày đáo hạn bao gồm: các khoản tiền gửi ngân hàng có kỳ hạn (bao gồm cả các loại tin phiếu, kỳ phiếu), trái phiếu, cổ phiếu ưu đãi bên phát hành bắt buộc phải mua lại tại một thời điểm nhất định trong tương lai và các khoản đầu tư nắm giữ đến ngày đảo hạn khác.
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn được ghi nhận bắt đầu từ ngày mua và được xác định giá trị ban đầu theo giá mua và các chi phí liên quan đến giao dịch mua các khoản đầu tư. Thu nhập lãi từ các khoản đầu tư nắm giữ đến ngày đảo hạn sau ngày mua được ghi nhận trên Báo cáo kết quả hoạt động kinh doanh trên cơ sở dự thu. Lãi được hưởng trước khi Công ty nắm giữ được ghi giảm trừ vào giá gốc tại thời điểm mua.
+
+Các khoản đầu tư nắm giữ đến ngày đảo hạn được xác định theo giá gốc trừ đi dự phòng phải
+
+thu khó đòi.
+
+Khi có các bằng chứng chắc chắn cho thấy một phần hoặc toàn bộ khoản đầu tư có thể không thu hồi được và số tổn thất được xác định một cách đáng tin cậy thì tổn thất được ghi nhận vào chi phí tài chính trong năm/kỳ và giảm trực tiếp giá trị đầu tư.
+
+Các khoản cho vay
+
+Các khoản cho vay được xác định theo giá gốc trừ đi các khoản dự phòng phải thu khó đòi.
+
+Dự phòng phải thu khó đòi của các khoản cho vay được lập căn cứ vào dự kiến mức tổn thất có thể xảy ra.
+
+CÁC KHOẢN PHẢI THU
+
+Các khoản nợ phải thu được trình bày theo giá trị ghi số trừ đi các khoản dự phòng phải thu khó
+
+doi.
+
+Việc phân loại các khoản phải thu được thực hiện theo nguyên tắc sau:
+
+Phải thu của khách hàng phản ánh các khoản phải thu mang tính chất thương mại phát sinh từ giao dịch có tính chất mua - bán giữa Công ty và người mua là đơn vị độc lập với Công
+
+ty.
+
+- Phải thu khác phản ánh các khoản phải thu không có tính thương mại, không liên quan đến giao dịch mua - bản
+
+Dự phòng nợ phải thu khó đòi được Công ty trích lập đối với các khoản nợ phải thu đã quá hạn thanh toán ghi trong hợp đồng kinh tế, bản cam kết hợp đồng hoặc cam kết nợ, doanh nghiệp đã đòi nhiều lần nhưng vẫn chưa thu hồi được, việc xác định thời gian quá hạn của khoản nợ phải thu được xác định căn cứ vào thời gian trả nợ gốc theo hợp đồng mua, bản ban đầu, không tính đến việc gia hạn nợ giữa các bên; hoặc đối với các khoản nợ phải thu chưa đến hạn thanh toán nhưng khách nợ đã lâm vào trình trạng phá sản hoặc đang làm thủ tục giải thể, mất tích, bỏ trốn và được hoàn nhập khi thu hồi được nợ.
+
+Sự tăng hoặc giảm khoản dự phòng phải thu khó đòi tại ngày khóa sổ lập báo cáo tài chính được hạch toán vào chi phí quản lý doanh nghiệp.
+
+HÀNG TỒN KHO
+
+Hàng tồn kho được xác định trên cơ sở giả thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được.

@@ -1,0 +1,53 @@
+4.2
+
+4.3
+
+4.4
+
+Page 28
+
+nợ, tài sản và việc trình bày các khoản công nợ và tài sản tiềm tàng tại ngày lập Báo cáo tài chính hợp nhất cũng như các số liệu báo cáo về doanh thu và chi phí hợp nhất trong suốt năm tài chính. Kết quả hoạt động kinh doanh hợp nhất thực tế có thể khác với các ước tính, giả định
+
+đặt ra.
+
+NGOẠI TỆ
+
+Tỷ giả để quy đổi các giao dịch phát sinh trong kỳ bằng ngoại tệ là tỷ giá giao dịch với Ngân hàng TMCP nơi Công ty có giao dịch đó tại thời điểm phát sinh.
+
+Tỷ giá khi đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ tại thời điểm lập Báo cáo tài chính là tỷ giả công bố của Ngân hàng TMCP nơi mở tài khoản ngoại tệ đỏ tại thời điểm lập báo cáo
+
+tài chính
+
+Trong đó:
+
+- Tỷ giá khi đánh giá lại các khoản mục có gốc ngoại tệ được phân loại là tài sản là tỷ giá mua vào của Ngân hàng TMCP nơi mở tài khoản ngoại tệ đó tại thời điểm lập báo cáo tài chỉnh .
+
+- Tỷ giá khi đánh giá lại các khoản mục có gốc ngoại tệ được phân loại là nợ phải trả là tỷ giá bán ra của Ngân hàng TMCP nơi mở tài khoản ngoại tệ đó tại thời điểm lập báo cáo tài
+
+chính.
+
+TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN
+
+Tiền bao gồm tiền mặt, tiền gửi ngân hàng không có kỳ hạn và có kỳ hạn, tiến đang chuyển, vàng tiền tệ. Các khoản tương đương tiền là các khoản đầu tư ngắn hạn có thời hạn thu hồi hoặc đảo hạn không quá 3 tháng kể từ ngày mua, dễ dàng chuyển đổi thành một lượng tiền xác định cũng như không có nhiều rủi ro trong việc chuyển đổi thành tiền.
+
+CÁC KHOẢN ĐẦU TƯ TÀI CHÍNH
+
+Chứng khoán kinh doanh
+
+Chứng khoán kinh doanh là các loại chứng khoán Công ty nằm giữ vì mục đích kinh doanh tức là được Công ty mua vào, bán ra để kiểm lời. Công ty đang nắm giữ các loại chứng khoán kinh doanh gồm:
+
+- Cổ phiếu, trái phiếu niêm yết trên thị trường chứng khoán;
+
+- Các loại chứng khoán và công cụ tài chính khác.
+
+Chứng khoản kinh doanh được ghi nhận ban đầu theo giá gốc, bao gồm: Giả mua cộng (+) các chi phi liên quan trực tiếp (nếu có) như chi phí môi giới, giao dịch, cung cấp thông tin, thuế, lệ phí và phi ngân hàng... Thời điểm ghi nhận các khoản chứng khoán kinh doanh là thời điểm nhà đầu tư có quyền sở hữu, cụ thể như sau:
+
+- Chứng khoán niêm yết được ghi nhận tại thời điểm khớp lệnh (T+0);
+
+- Chứng khoán chưa niêm yết được ghi nhận tại thời điểm chính thức có quyền sở hữu theo quy định của pháp luật.
+
+Tiền lãi, cổ tức và lợi nhuận của các kỷ trước khi chứng khoán kinh doanh được mua được hạch toán giảm giá trị của chính chứng khoán kinh doanh đỗ. Tiền lãi, cổ tức và lợi nhuận của các kỳ sau khi chứng khoán kinh doanh được mua được ghi nhận doanh thu. Cổ tức được nhận bằng cổ phiếu chỉ được theo dõi số lượng cổ phiếu tăng thêm, không ghi nhận giá trị cổ phiếu nhận
+
+được.
+
+Dự phòng giảm giá chứng khoản kinh doanh được lập cho từng loại chứng khoản được mua bán trên thị trường và có giá trị hợp lý trên thị trường thấp hơn giá gốc. Giá trị hợp lý của chúng khoán kinh doanh niêm yết trên thị trường chứng khoán hoặc được giao dịch trên sàn UPCOM được xác định theo giá đóng cửa tại ngày gần nhất có giao dịch tính đến thời điểm khóa sổ lập báo cáo tài chính .

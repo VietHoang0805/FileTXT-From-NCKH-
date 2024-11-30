@@ -1,0 +1,49 @@
+3.
+
+CƠ SỞ LẬP BÁO CÁO VÀ NĂM TÀI CHÍNH
+
+3.1
+
+CƠ SỞ LẬP BÁO CÁO TÀI CHÍNH
+
+3.2
+
+3.3
+
+Page 27
+
+Báo cáo tài chính hợp nhất kèm theo được trình bảy bằng Đồng Việt Nam (VND) theo nguyên tắc giá gốc và phù hợp với chuẩn mực kế toán, chế độ kế toán doanh nghiệp Việt Nam (Thống tư số 200/2014/TT-BTC ngày 22/12/2014 của Bộ Tài chính hướng dẫn Chế độ kế toán Doanh nghiệp và Thông tư số 53/2016/TT-BTC ngày 21/03/2016 sửa đổi, bổ sung một số điều của Thông tư số 200/2014/TT-BTC), Thông tư số 202/2014/TT-BTC ngày 22/12/2014 về hưởng dẫn phương pháp lập và trình bày Báo cáo tài chính hợp nhất của Bộ Tài chính.
+
+CƠ SỞ HỢP NHẤT
+
+Báo cáo tài chính hợp nhất của Công ty được lập trên cơ sở hợp nhất Báo cáo tài chính Công ty của Công ty và các Công ty do Công ty kiểm soát (Công ty con). Việc kiểm soát này đạt được khi Công ty có khả năng kiểm soát các chính sách tài chính và hoạt động của các Công ty nhận đầu tư nhằm thu được lợi ích từ hoạt động của các Công ty này.
+
+Tất cả các nghiệp vụ và số dư chủ yếu giữa Công ty và các Công ty con và giữa các Công ty con với nhau được loại bỏ khi hợp nhất Báo cáo tài chính.
+
+Lợi ích của cổ đông không kiểm soát nắm giữ tại Công ty con bao gồm lợi ích trực tiếp và giản tiếp có được thông qua Công ty con khác. Việc xác định lợi ích của các bên được căn cứ vào tỷ lệ góp vốn (trực tiếp hoặc gián tiếp) tương ứng của từng bên trong Công ty con, trừ khi có thỏa thuận khác. Trường hợp có sự khác biệt giữa tỷ lệ vốn góp theo giấy đăng ký kinh doanh và tỷ lệ vốn góp thực thì tỷ lệ lợi ích được xác định theo điều lệ doanh nghiệp hoặc theo sự thống nhất giữa các bên.
+
+Lợi ích của cổ đông không kiểm soát trong tài sản thuần của Công ty con hợp nhất được trình bảy trong Bảng cân đối kế toán hợp nhất thành 1 chi tiêu hợp nhất thuộc phần vốn chủ sở hữu.
+
+Phần sở hữu của cổ đông không kiểm soát trong Báo cáo kết quả kinh doanh của Công ty cũng được trình bày thành chỉ tiêu hợp nhất riêng biệt trong Báo cáo kết quả kinh doanh hợp nhất. Lợi thế thương mại
+
+Lợi thế thương mại trên Báo cáo tài chính hợp nhất là phần phụ trội giữa mức giả phí hợp nhất kinh doanh với phần lợi ích của Công ty trong tổng giá trị hợp lý của tài sản, công nợ và công nợ tiềm tảng của Công ty con tại ngày thực hiện nghiệp vụ đầu tư. Lợi thế thương mại được coi là một loại tài sản vô hình, được tính khấu hao theo phương pháp đường thẳng trên thời gian hữu dụng ước tính của lợi thế kinh doanh đô là 10 năm.
+
+Khi bán công ty con giá trị còn lại của khoản lợi thể thương mại chưa khẩu hao hết được tính vào các khoản lãi/lỗ do nghiệp vụ nhượng bản công ty tương ứng.
+
+NĂM TÀI CHÍNH
+
+Năm tài chính của Công ty bắt đầu từ ngày 01 tháng 01 và kết thúc vào ngày 31 tháng 12 năm Dương lịch. Báo cáo tài chính hợp nhất này được lập cho năm tài chính kết thúc ngày 31 tháng
+
+12 năm 2023.
+
+4.
+
+4.1
+
+CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU
+
+Sau đây là những chính sách kế toán quan trọng được Công ty áp dụng trong việc lập Báo cáo tài chính này:
+
+ƯỚC TÍNH KẾ TOÁN
+
+Việc lập Báo cáo tài chính tuân thủ theo các Chuẩn mực Kế toán Việt Nam yêu cầu Ban Tổng Giảm đốc phải có những ước tính và giá định ảnh hưởng đến số liệu báo cáo về các khoản công

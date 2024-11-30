@@ -1,0 +1,61 @@
+Page 30
+
+Giả gốc của hàng tồn kho bao gồm các khoản chi phí để có được hàng tồn kho ở địa điểm và trạng thái hiện tại, bao gồm: Giả mua, các loại thuế không được hoàn lại, chi phí vận chuyển, bốc xếp, bảo quản trong quá trình mua hàng, hao hụt định mức, và các chi phí khác có liên quan trực tiếp đến việc mua hàng tồn kho.
+
+Giá trị thuần có thể thực hiện được là giá bán ước tính của hàng tồn kho trong kỳ sản xuất, kinh doanh bình thường trừ chi phí ước tính để hoàn thành và chi phí ước tính cần thiết cho việc tiêu thụ chúng.
+
+Công ty áp dụng phương pháp kê khai thường xuyên để hạch toán hàng tồn kho. Giá xuất của nguyên vật liệu phụ, phụ tùng thay thể tinh theo phương pháp bình quân gia quyền sau từng lần nhập. Đối với bộ linh kiện nhập khẩu và thành phẩm xe tinh theo phương pháp đích danh.
+
+Dự phòng giảm giá hàng tồn kho được lập cho từng mặt hàng tồn kho có giá gốc lớn hơn giá trị thuần có thể thực hiện được. Đối với dịch vụ cung cấp dở dang, việc lập dự phòng giảm giá được tính theo từng loại dịch vụ có mức giá riêng biệt. Tăng, giảm số dư dự phòng giảm giá hàng tồn kho cần phải trích lập tại ngày kết thúc năm tài chính được ghi nhận vào giả vốn hàng
+
+bán.
+
+4.7 TÀI SẢN CÓ ĐỊNH HỮU HÌNH
+
+Tài sản cố định hữu hình được ghi nhận theo nguyên giá, được phản ánh trên Bảng cân đối kể toán hợp nhất theo các chỉ tiêu nguyên giá, hao mòn luỹ kế và giá trị còn lại.
+
+Nguyên giả tài sản cố định hữu hình mua sắm bao gồm giá mua (trừ các khoản chiết khấu thương mại hoặc giảm giá), các khoản thuế và các chi phí liên quan trực tiếp đến việc đưa tài sản vào trạng thái sẵn sàng sử dụng.
+
+Đối với các tài sản cố định đã đưa vào sử dụng nhưng chưa có quyết toán chính thức sẽ được tạm ghi tăng nguyên giả tài sản cố định và trích khấu hao, khi có quyết toán chính thức sẽ điều chỉnh lại nguyên giả và khấu hao tương ứng.
+
+Các chi phi phát sinh sau ghi nhận ban đầu TSCĐ hữu hình được ghi tăng nguyên giả của tài sản khi các chi phí này chắc chắn làm tăng lợi ích kinh tế trong tương lai. Các chi phí phát sinh không thoả mãn được điều kiện trên được Công ty ghi nhận vào chi phi sản xuất kinh doanh
+
+trong kỳ.
+
+Tài sản cố định hữu hình được khẩu hao theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính. Kế toán TSCĐ hữu hình được phân loại theo nhóm tài sản có cùng tính chất và mục đích sử dụng trong hoạt động sản xuất kinh doanh của công ty. Thời gian khẩu hao cụ thể
+
+như sau:
+
+Loại tài sản
+
+- Nhà cửa, vật kiến trúc
+
+- Máy móc, thiết bị
+
+- Phương tiện vận tải, truyền dẫn
+
+- Thiết bị, dụng cụ quản lý
+
+- Tài sản cố định khác
+
+Thời gian sử dụng (năm)
+
+05-27 03-07
+
+06
+
+03-05
+
+4.8
+
+TÀI SẢN CÓ ĐỊNH VÔ HÌNH
+
+03-08
+
+Tài sản cố định vô hình được ghi nhận theo nguyễn giả, được phản ảnh trên Bảng cân đối kế toán hợp nhất theo các chỉ tiêu nguyên giá, hao mòn luỹ kể và giá trị còn lại.
+
+Nguyên giá tài sản cố định vô hình bao gồm toàn bộ các chi phi mà Công ty phải bỏ ra để có được tài sản cố định tính đến thời điểm đưa tài sản đó vào trạng thái sẵn sàng sử dụng. Chi phí liên quan đến tài sản cố định vô hình phát sinh sau khi ghi nhận ban đầu được ghi nhận là chi phí sản xuất, kinh doanh trong kỳ trừ khi các chi phí này gắn liền với một tài sản cố định vô hình cụ thể và làm tăng lợi ích kinh tế từ các tài sản này.
+
+Khi tài sản cố định vô hình được bản hay thanh lý, nguyên giả và giá trị hao mòn lũy kế được xóa số và lãi, lỗ phát sinh do thanh lý được ghi nhận vào thu nhập hay chi phí trong năm.
+
+Tài sản cố định vô hình của Công ty bao gồm:
