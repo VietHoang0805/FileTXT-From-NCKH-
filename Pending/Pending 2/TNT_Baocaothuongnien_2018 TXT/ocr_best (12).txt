@@ -1,0 +1,33 @@
+b. Cơ cấu bộ máy quản lý
+
+Sơ đồ cơ cấu bộ máy quản lý Công ty
+
+ĐẠI HỘI ĐỒNG CỔ
+
+BAN CỐ VẤN
+
+CÔNG TY CON
+
+BAN TỔNG GIÁM DÓC
+
+BAN KIỂM SOÁT
+
+CÁC PHÒNG BAN
+
+CTY LIÊN KÉT
+
+PHÒNG HÀNH CHÍNH NHÂN SỰ
+
+CTY LUẬT TNHH TÀI NGUYÊN
+
+CTY CP TM DV DT TÀI NGUYÊN
+
+PHÒNG KINH DOANH
+
+TNT – BÁO CÁO THƯỜNG NIÊN
+
+PHÒNG KẾ TOÁN
+
+CTY CP XD TÀI NGUYÊN HÀ NỘI
+
+12
