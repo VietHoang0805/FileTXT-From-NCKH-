@@ -1,0 +1,37 @@
+2.6. Các nghiệp vụ bằng ngoại tệ
+
+Các giao dịch bằng ngoại tệ trong năm tài chính được quy đổi ra đồng Việt Nam theo tỷ giá thực tế tại ngày giao dịch.
+
+Tỷ giá giao dịch thực tế này được xác định theo nguyên tắc sau:
+
+- Khi mua bán ngoại tệ: là tỷ giá được quy định trong hợp đồng mua, bán ngoại tệ giữa Công ty và ngân hàng thương mại;
+
+- Khi ghi nhận nợ phải thu: là tỷ giá mua của ngân hàng thương mại nơi Công ty chỉ định khách hàng thanh toán tại thời điểm giao dịch phát sinh;
+
+- Khi ghi nhận nợ phải trả: là tỷ giá bán của ngân hàng thương mại nơi Công ty dự kiến giao dịch tại thời điểm giao dịch phát sinh.
+
+Tỷ giá giao dịch thực tế khi đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ tại thời điểm lập Báo cáo tài chính hợp nhất được xác định theo nguyên tắc:
+
+- Đối với khoản mục phân loại là tài sản: áp dụng tỷ giá mua ngoại tệ của ngân hàng thương mại nơi Công ty thường xuyên có giao dịch;
+
+- Đối với khoản mục phân loại là nợ phải trả: áp dụng tỷ giá bán ngoại tệ của ngân hàng thương mại nơi Công ty thường xuyên có giao dịch.
+
+Tất cả các khoản chênh lệch tỷ giá thực tế phát sinh trong năm và chênh lệch do đánh giá lại số dư các khoản mục tiền tệ có gốc ngoại tệ tại thời điểm lập Báo cáo tài chính hợp nhất được
+
+hạch toán vào kết quả hoạt động kinh doanh của năm tài chính.
+
+2.7. Tiền và các khoản tương đương tiền
+
+Tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng không kỳ hạn.
+
+Các khoản tương đương tiền là các khoản đầu tư ngắn hạn có thời gian thu hồi không quá 03 tháng kể từ ngày đầu tư, có tính thanh khoản cao, có khả năng chuyển đổi dễ dàng thành các lượng tiền xác định và không có nhiều rủi ro trong chuyển đổi thành tiền.
+
+2.8. Hợp nhất kinh doanh
+
+Hợp nhất kinh doanh được hạch toán theo phương pháp giả mua. Giá phí hợp nhất kinh doanh bao gồm giá trị hợp lý tại ngày diễn ra trao đổi của các tài sản đem trao đổi, các khoản nợ phải trả đã phát sinh hoặc đã thừa nhận và các công cụ vốn do bên mua phát hành để đổi lấy quyền kiểm soát bên bị mua và các chi phí liên quan trực tiếp đến việc hợp nhất kinh doanh. Tài sản, nợ phải trả có thể xác định được và những khoản nợ tiềm tàng phải gánh chịu trong hợp nhất kinh doanh của bên bị mua đều ghi nhận theo giá trị hợp lý tại ngày hợp nhất kinh doanh.
+
+2.9. Các khoản đầu tư tài chính
+
+Chứng khoán kinh doanh được ghi nhận ban đầu trên sổ kế toán theo giá gốc, bao gồm: Giá mua cộng các chi phí mua (nếu có) như chi phí môi giới, giao dịch, cung cấp thông tin, thuế, lệ phí và phí ngân hàng. Sau ghi nhận ban đầu, giá trị của chứng khoán kinh doanh được xác định theo giá gốc trừ đi dự phòng giảm giá chứng khoán kinh doanh. Khi thanh lý hoặc nhượng bán, giả vốn của chứng khoán kinh doanh được xác định theo phương pháp bình quân gia quyền.
+
+42

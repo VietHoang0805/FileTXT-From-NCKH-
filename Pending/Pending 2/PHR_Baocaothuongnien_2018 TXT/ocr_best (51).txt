@@ -1,0 +1,41 @@
+Hàng bán bị trả lại phát sinh cùng năm tiêu thụ sản phẩm, hàng hóa dịch vụ được điều chỉnh giảm doanh thu của năm phát sinh. Trường hợp sản phẩm, hàng hoá, dịch vụ đã tiêu thụ từ các năm trước, đến năm sau mới phát sinh các khoản giảm trừ doanh thu thì Công ty ghi giảm doanh thu theo nguyên tắc: nếu phát sinh trước thời điểm phát hành Báo cáo tài chính thì Công ty ghi giảm doanh thu trên Báo cáo tài chính của năm lập báo cáo (năm trước), và nếu phát sinh sau thời điểm phát hành Báo cáo tài chính thì Công ty ghi giảm doanh thu của năm phát sinh (năm sau).
+
+2.24. Giá vốn hàng bán.
+
+Giá vốn hàng bán trong năm được ghi nhận phù hợp với doanh thu phát sinh trong năm và đảm bảo tuân thủ nguyên tắc thận trọng. Các trường hợp hao hụt vật tư hàng hóa vượt định mức, chi phí vượt định mức bình thường, hàng tồn kho bị mất mát sau khi đã trừ đi phần trách nhiệm của tập thể, cá nhân có liên quan,... được ghi nhận đầy đủ, kịp thời vào giá vốn hàng bán trong năm.
+
+2.25. Chi phí tài chính.
+
+Các khoản chi phí được ghi nhận vào chi phí tài chính gồm:
+
+-
+
+Chi phí hoặc các khoản lỗ liên quan đến các hoạt động đầu tư tài chính;
+
+Chi phí đi vay vốn;
+
+Các khoản lỗ do thanh lý, chuyển nhượng chứng khoán ngắn hạn, chi phí giao dịch bán chứng khoán;
+
+Dự phòng giảm giá chứng khoán kinh doanh, dự phòng tổn thất đầu tư vào đơn vị khác, khoản lỗ phát sinh khi bán ngoại tệ, lỗ tỷ giá hối đoái...
+
+Các khoản trên được ghi nhận theo tổng số phát sinh trong năm, không bù trừ với doanh thu hoạt động tài chính.
+
+2.26. Thuế thu nhập doanh nghiệp
+
+a) Tài sản thuế thu nhập hoãn lại và Thuế thu nhập hoãn lại phải trả
+
+Tài sản thuế thu nhập hoãn lại được xác định dựa trên tổng chênh lệch tạm thời được khấu trừ và giá trị được khấu trừ chuyển sang năm sau của các khoản lỗ tính thuế và ưu đãi thuế chưa sử dụng. Thuế thu nhập hoãn lại phải trả được xác định dựa trên các khoản chênh lệch tạm thời chịu thuế.
+
+Tài sản thuế TNDN hoãn lại và Thuế thu nhập hoãn lại phải trả được xác định theo thuế suất thuế TNDN hiện hành (hoặc thuế suất dự tính thay đổi trong tương lai nếu việc hoàn nhập tài sản thuế thu nhập hoãn lại hoặc thuế thu nhập hoãn lại phải trả nằm trong thời gian thuế suất mới có hiệu lực), dựa trên các mức thuế suất và luật thuế có hiệu lực vào ngày kết thúc năm tài
+
+chính.
+
+b) Ưu đãi thuế
+
+Theo Khoản 5, Điều 11, Thông tư số 96/2015/TT-BTC ngày 22/06/2015 của Bộ Tài chính về thuế Thu nhập doanh nghiệp, thu nhập từ trồng trọt, nuôi trồng, chế biến nông sản (trồng và chế biến mủ cao su) được áp dụng thuế suất thuế TNDN ưu đãi 15% trong suốt thời gian hoạt động.
+
+32-
+
+VH DV
+
+49

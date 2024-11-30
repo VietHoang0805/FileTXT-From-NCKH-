@@ -1,0 +1,109 @@
+Năm thứ 3
+
+3,5
+
+Năm thứ 13
+
+6,2
+
+Năm thứ 4
+
+4,4
+
+Năm thứ 14
+
+5,9
+
+Năm thứ 5
+
+4,8
+
+Năm thứ 15
+
+5,5
+
+Năm thứ 6
+
+5,4
+
+Năm thứ 16
+
+5,4
+
+Năm thứ 7
+
+5,4
+
+Năm thứ 17
+
+5,0
+
+Năm thứ 8
+
+5,1
+
+Năm thứ 18
+
+5,0
+
+Năm thứ 9
+
+5,1
+
+Năm thứ 19
+
+5,2
+
+Năm thứ 10
+
+5,0
+
+Mức khấu hao cho năm cuối cùng (năm thứ 20) được xác định bằng giá trị còn lại của vườn cây của năm khai thác cuối cùng.
+
+2.13. Bất động sản đầu tư
+
+Bất động sản đầu tư được ghi nhận ban đầu theo giá gốc.
+
+Đối với bất động sản đầu tư cho thuê hoạt động được ghi nhận theo nguyên giá, hao mòn luỹ kế và giá trị còn lại. Trong đó khẩu hao được trích theo phương pháp đường thẳng với thời gian khấu hao được ước tính như sau:
+
+Nhà cửa, vật kiến trúc
+
+Phương tiện vận tải, truyền dẫn
+
+Bất động sản đầu tư khác
+
+Vườn cây lâu năm
+
+2.14. Chi phí xây dựng cơ bản dở dang
+
+20 - 30 năm
+
+10 năm
+
+05 - 20 năm
+
+06 - 15 năm
+
+Các tài sản trong quá trình xây dựng phục vụ mục đích sản xuất, cho thuê hoặc quản trị. hoặc cho bất kỳ mục đích nào khác, được ghi nhận theo giá gốc. Chi phí tập hợp bao gồm chi phí cho các chuyên gia và đối với các tài sản đủ điều kiện, chi phí đi vay được ghi nhận phù hợp với chính sách kế toán của Công ty. Khấu hao của những tài sản này, cũng giống như các loại tài sản cố định khác, sẽ bắt đầu được trích khi tài sản đã sẵn sàng cho mục đích sử dụng. 2.15. Chi phí trả trước
+
+Các chi phí đã phát sinh liên quan đến kết quả hoạt động sản xuất kinh doanh của nhiều kỳ kế toán được hạch toán vào chi phí trả trước để phân bổ dần vào kết quả hoạt động kinh doanh
+
+trong các kỳ kế toán sau.
+
+Việc tính và phân bổ chi phí trả trước dài hạn vào chi phí sản xuất kinh doanh từng kỳ kế toán được căn cứ vào tính chất, mức độ từng loại chi phi để lựa chọn phương pháp và tiêu thức phân bổ hợp lý. Chi phi trả trước được phân bổ dần vào chi phí sản xuất kinh doanh theo
+
+phương pháp đường thẳng.
+
+2.16. Các khoản nợ phải trả
+
+Các khoản nợ phải trả được theo dõi theo kỳ hạn phải trả, đối tượng phải trả, loại nguyên tệ phải trả và các yếu tố khác theo nhu cầu quản lý của Công ty.
+
+2.17. Vay
+
+001
+
+CA HUX
+
+IAO
+
+45

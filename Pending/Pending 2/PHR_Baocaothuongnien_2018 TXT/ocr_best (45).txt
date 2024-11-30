@@ -1,0 +1,27 @@
+PHO
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn là các khoản tiền gửi ngân hàng có kỳ hạn được nắm giữ đến ngày đáo hạn với mục đích thu lãi hàng kỳ.
+
+Các khoản đầu tư vào các công ty con, công ty liên kết mua trong năm được bên mua xác định ngày mua, giá phí khoản đầu tư và thực hiện thủ tục kế toán theo đúng quy định của Chuẩn mực kế toán “Hợp nhất kinh doanh" và “Đầu tư vào công ty liên doanh liên kết". Trong Báo cáo tài chính hợp nhất các khoản đầu tư vào công ty liên kết được kế toán theo phương pháp vốn chủ sở hữu. Theo phương pháp vốn chủ sở hữu, khoản đầu tư được ghi nhận ban đầu trên bảng cân đối kế toán hợp nhất theo giá gốc, sau đó được điều chỉnh theo những thay đổi của phần sở hữu của Tập đoàn trong giá trị tài sản thuần của công ty liên kết sau khi mua. Bảo cáo kết quả kinh doanh hợp nhất phản ánh phần sở hữu của Tập đoàn trong báo cáo kết quả hoạt động kinh doanh của công ty liên kết sau khi mua.
+
+Phần sở hữu của nhà đầu tư trong lợi nhuận (lỗ) của công ty liên kết sau khi mua được phản ảnh trên báo cáo kết quả kinh doanh hợp nhất và phần sở hữu của nhà đầu tư trong thay đổi sau khi mua của các quỹ của công ty liên kết được ghi nhận vào các quỹ. Thay đổi lũy kế sau khi mua được điều chỉnh vào giá trị còn lại của khoản đầu tư vào công ty liên kết. Cổ tức nhận được từ công ty liên kết được cấn trừ vào khoản đầu tư vào công ty liên kết,
+
+Báo cáo tài chính của công ty liên kết được lập cùng kỳ với báo cáo tài chính hợp nhất của Tập đoàn và sử dụng các chính sách kế toán nhất quán với Tập đoàn. Các điều chỉnh hợp nhất thích hợp đã được ghi nhận để đảm bảo các chính sách kế toán được áp dụng nhất quán với Tập đoàn trong trường hợp cần thiết.
+
+Các khoản đầu tư góp vốn vào các đơn vị khác bao gồm: các khoản đầu tư vào công cụ vốn của đơn vị khác không có quyền kiểm soát, đồng kiểm soát hoặc có ảnh hưởng đáng kể đối với bên được đầu tư. Giá trị ghi sổ ban đầu của các khoản đầu tư này được xác định theo giá gốc. Sau ghi nhận ban đầu, giá trị của các khoản đầu tư này được xác định theo giá gốc trừ đi dự phòng giảm giá khoản đầu tư.
+
+Dự phòng giảm giá đầu tư được lập vào thời điểm cuối năm cụ thể như sau:
+
+- Đối với các khoản đầu tư chứng khoán kinh doanh: căn cứ trích lập dự phòng là số chênh lệch giữa giả gốc của các khoản đầu tư được hạch toán trên sổ kế toán lớn hơn giá trị thị trường của chúng tại thời điểm lập dự phòng.
+
+- Đối với khoản đầu tư nắm giữ lâu dài (không phân loại là chứng khoán kinh doanh) và không có ảnh hưởng đáng kể đối với bên được đầu tư: nếu khoản đầu tư vào cổ phiếu niêm yết hoặc giá trị hợp lý của khoản đầu tư được xác định tin cậy thì việc lập dự phòng dựa trên giá trị thị trường của cổ phiếu; nếu khoản đầu tư không xác định được giá trị hợp lý tại thời điểm báo cáo thì việc lập dự phòng căn cứ vào Báo cáo tài chính tại thời điểm trích lập dự phòng của bên
+
+được đầu tư.
+
+- Đối với các khoản đầu tư nắm giữ đến ngày đáo hạn: căn cứ khả năng thu hồi để lập dự phòng phải thu khó đòi theo quy định của pháp luật.
+
+2.10. Các khoản nợ phải thu
+
+Các khoản phải thu được theo dõi chi tiết theo kỳ hạn phải thu, đối tượng phải thu, loại nguyên tệ phải thu, và các yếu tố khác theo nhu cầu quản lý của Công ty.
+
+43

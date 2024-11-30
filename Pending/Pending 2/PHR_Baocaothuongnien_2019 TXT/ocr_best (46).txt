@@ -1,0 +1,67 @@
+Dự phòng nợ phải thu khó đòi được trích lập cho các khoản: nợ phải thu quá hạn thanh toán ghi trong hợp đồng kinh tế, các khế ước vay nợ, cam kết hợp đồng hoặc cam kết nợ và nợ phải thu chưa đến hạn thanh toán nhưng khó có khả năng thu hồi. Trong đó, việc trích lập dự phòng nợ phải thu quả hạn thanh toán được căn cứ vào thời gian trả nợ gốc theo hợp đồng mua bán ban đầu, không tính đến việc gia hạn nợ giữa các bên và nợ phải thu chưa đến hạn thanh toán nhưng khách nợ đã lâm vào tình trạng phá sản hoặc đang làm thủ tục giải thể, mất tích, bỏ trốn. 2.11. Hàng tồn kho
+
+Hàng tồn kho được ghi nhận ban đầu theo giá gốc bao gồm: chi phí mua, chi phí chế biến và các chi phí liên quan trực tiếp khác phát sinh để có được hàng tồn kho ở địa điểm và trạng thái tại thời điểm ghi nhận ban đầu. Sau ghi nhận ban đầu, tại thời điểm lập Báo cáo tài chính nếu giá trị thuần có thể thực hiện được của hàng tồn kho thấp hơn giá gốc thì hàng tồn kho được ghi nhận theo giá trị thuần có thể thực hiện được.
+
+Khi xuất kho, giá trị hàng tồn kho được xác định theo phương pháp binh quân gia quyền. Hàng tồn kho được hạch toán theo phương pháp kê khai thường xuyên.
+
+Phương pháp xác định giá trị sản phẩm dở dang cuối năm: Chi phí sản xuất kinh doanh dở dang được tập hợp theo chi phí phát sinh thực tế cho từng loại sản phẩm chưa hoàn thành. Dự phòng giảm giá hàng tồn kho được lập vào thời điểm cuối năm căn cứ theo số chênh lệch giữa giá gốc của hàng tồn kho lớn hơn giá trị thuần có thể thực hiện được.
+
+2.12. Tài sản cố định
+
+Tài sản cố định hữu hình, tải sản cố định vô hình được ghi nhận ban đầu theo giá gốc. Trong quá trình sử dụng, tài sản cố định hữu hình, tài sản cố định vô hình được ghi nhận theo nguyên giả, hao mòn luỹ kế và giá trị còn lại.
+
+Khẩu hao tài sản cố định được trích theo phương pháp đường thẳng với thời gian khấu hao
+
+được ước tính như sau:
+
+Nhà cửa, vật kiến trúc
+
+05-35
+
+năm
+
+Máy móc, thiết bị
+
+05-10
+
+nām
+
+Phương tiện vận tải, truyền dẫn
+
+06-10
+
+năm
+
+Thiết bị, dụng cụ quản lý
+
+03-10
+
+năm
+
+Phần mềm quản lý
+
+03-05
+
+năm
+
+Riêng khấu hao tài sản cố định với vườn cây cao su được thực hiện theo Công văn số 1937/BTC-TCDN ngày 09/02/2010 của Cục Tài chính doanh nghiệp - Bộ Tài chính về việc trích khấu hao vườn cây cao su và Quyết định số 221/QĐ-CSVN ngày 27/04/2010 của Tập đoàn Công nghiệp Cao su Việt Nam về việc ban hành tỷ lệ trích khấu hao vườn cây cao su theo chu kỳ khai thác 20 năm, cụ thể như sau:
+
+Năm khai thác
+
+Tỷ lệ khấu hao theo % Năm khai thác Tỷ lệ khấu hao %
+
+Năm thứ 1
+
+2,5
+
+Năm thứ 2
+
+2,8
+
+44
+
+Năm thứ 11 Năm thứ 12
+
+7,0
+
+6,6
