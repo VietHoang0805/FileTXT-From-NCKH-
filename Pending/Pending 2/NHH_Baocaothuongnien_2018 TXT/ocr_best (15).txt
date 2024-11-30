@@ -1,0 +1,167 @@
+STT
+
+Tên Nguyên vật liệu
+
+Đơn vị tính Số lượng sử dụng năm 2018
+
+1
+
+Hạt nhựa PP
+
+kg
+
+6,048,654
+
+2 Hạt nhựa PE-
+
+kg
+
+60.335
+
+3
+
+Hạt nhựa PS
+
+kg
+
+136,564
+
+4
+
+Hạt nhựa PA
+
+kg
+
+478,101
+
+5 Hạt nhựa POM
+
+kg
+
+52,268
+
+6
+
+Hạt nhựa ABS, AES
+
+kg
+
+1,106,068
+
+7
+
+Hạt nhựa PC
+
+kg
+
+554,109
+
+8
+
+Hạt nhựa PVC
+
+kg
+
+552,986
+
+9
+
+khác
+
+kg
+
+453,634
+
+Tổng cộng
+
+kg
+
+9,442,719
+
+b) Báo cáo tỉ lệ phần trăm nguyên vật liệu được tái chế được sử dụng để sản xuất sản phẩm và dịch vụ chính của tổ chức.
+
+STT
+
+Tên Nguyên vật liệu
+
+Đơn vị tính
+
+Số lượng tái sử dụng năm
+
+2018
+
+1
+
+Hạt nhựa PP
+
+%
+
+7.2%
+
+2
+
+Hạt nhựa PE
+
+%
+
+15,3%
+
+3
+
+Hạt nhựa PS
+
+%
+
+12,6%
+
+4
+
+Hạt nhựa PA
+
+%
+
+12,5%
+
+5
+
+Hạt nhựa POM
+
+%
+
+8.6%
+
+6
+
+Hạt nhựa ABS, AES
+
+%
+
+12.2%
+
+7
+
+Hạt nhựa PC
+
+%
+
+15,3%
+
+8
+
+Hạt nhựa PVC
+
+%
+
+14,8%
+
+9
+
+khác
+
+%
+
+9.0%
+
+6.2. Tiêu thụ năng lượng:
+
+15
