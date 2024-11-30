@@ -1,0 +1,43 @@
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+c. Phương pháp kế toán ghi nhận lãi, lỗ khi có sự thay đổi tỷ lệ sở hữu tại Công ty Con
+
+Nếu sau khi đã kiểm soát công ty con, nếu công ty mẹ tiếp tục đầu tư
+
+vào công ty con để tăng tỷ lệ lợi ích nắm giữ, phần chênh lệch giữa giá phí khoản đầu tư thêm và giá trị ghi số của tài sản thuần của công ty con mua thêm phải được ghi nhận trực tiếp vào lợi nhuận sau thuế chưa phân phối và được coi là các giao dịch vốn chủ sở hữu (không ghi nhận như lợi thế thương mại hoặc lãi từ giao dịch mua giá rẻ). Trong trường hợp này, công ty mẹ không thực hiện việc ghi nhận tài sản
+
+thuần của công ty con theo giá trị hợp lý như tại thời điểm kiểm soát
+
+công ty con.
+
+Trong giao dịch hợp nhất kinh doanh qua nhiều giai đoạn, trước khi thực hiện việc loại trừ khoản đầu tư của công ty mẹ và công ty con, kế toán phải thực hiện một số điều chỉnh đối với giá phí khoản đầu tư của công ty mẹ trên Báo cáo tài chính hợp nhất,
+
+d. Phương pháp loại trừ các giao dịch nội bộ
+
+- Loại trừ ảnh hưởng của giao dịch bán hàng tồn kho
+
+Trong Báo cáo tài chính hợp nhất, doanh thu và giá vốn của hàng tiêu
+
+thụ trong nội bộ tập đoàn phải được loại trừ toàn bộ. Các khoản lãi, lỗ chưa thực hiện từ các giao dịch bán hàng đang phản ánh trong giá trị của hàng tồn kho cũng phải được loại trừ hoàn toàn.
+
+- Điều chỉnh các khoản mục nội bộ khác
+
+Số dư các khoản mục phát sinh từ các giao dịch giữa các đơn vị trong nội bộ tập đoàn, như phải thu, phải trả, doanh thu chưa thực hiện, chi phí trả trước...phải được loại trừ hoàn toàn khi lập Báo cáo tài chính hợp nhất. Các khoản doanh thu, thu nhập, giá vốn, chi phí phát sinh từ các giao dịch khác trong nội bộ tập đoàn, như các khoản doanh thu hoạt động tài chính và chi phí tài chính phát sinh do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ, doanh thu cho thuê, cung cấp dịch vụ... trong nội bộ tập đoàn phải được loại trừ hoàn toàn,
+
+e. Lợi thế thương mại
+
+Lợi thế thương mại phát sinh trong việc mua lại công ty con, công ty liên doanh và liên kết. Lợi thế thương mại được xác định theo giá gốc trừ phân bố luỹ kế. Giá gốc lợi thế thương mại là khoản chênh lệch giữa giá phí khoản đầu tư và giá trị hợp lý của tài sản thuần có thể xác định được của công ty con tại ngày mua do công ty mẹ nắm giữ (thời
+
+điểm công ty mẹ nằm giữ quyền kiểm soát công ty con).
+
+Lợi thế thương mại phát sinh trong việc mua lại công ty con được phân bố theo phương pháp đường thẳng trong vòng 10 năm. Giá trị ghi sổ của lợi thế thương mại trong việc mua lại công ty con được ghi giảm đến giá trị có thể thu hồi khi Ban điều hành xác định rằng khoản này không thể thu hồi đầy đủ.
+
+自
+
+129
+
+TRACODI BẢO Các thương năm 201
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+TRACODI Báo cáo thường niên 2019 130

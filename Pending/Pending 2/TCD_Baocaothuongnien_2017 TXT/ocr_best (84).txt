@@ -1,0 +1,93 @@
+a. Danh sách các Công ty con hợp nhất trong báo cáo
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Tên Công ty
+
+Dia chi
+
+Tỷ lệ kiểm soát Tỷ lệ lợi ích
+
+Công ty TNHH Liên Doanh
+
+Khai Thác Chế Biến VLXD
+
+Ấp Rò Leng, Xã Châu lăng, Huyện Tri Tôn, Tỉnh An Giang
+
+51,00%
+
+51,00%
+
+An Giang
+
+Công ty Cổ phần Xuất khẩu 89 Cách Mạng Tháng 8, Phường lao động Tracodi
+
+Bến Thành, Quận I, TP.HCM
+
+70,00%
+
+70,00%
+
+b. Danh sách Công ty liên kết quan trọng được hợp nhất trong báo cáo này theo phương pháp vốn chủ sở hữu
+
+Tên Công ty
+
+Địa chỉ
+
+Tỷ lệ kiểm soát. Tỷ lệ lợi ích
+
+Công ty Taxi Việt Nam (VinaTaxi)
+
+Lô IV – 15B đường số 4, KCN Tân Bình, P. Tây Thạnh, Quận Tân
+
+30,00%
+
+30,00%
+
+Phú, TP. HCM
+
+Công ty CP Tracodi Invest
+
+89 Cách Mạng Tháng 8, Phường
+
+Bến Thành, Quận I, TP.HCM
+
+44,00%
+
+44,00%
+
+L14-08A Lâu 14, Tòa nhà Vincom,
+
+Công ty CP Dịch Vụ Tracodi 72 Lê Thánh Tôn, Phường Bến
+
+29,00%
+
+29,00%
+
+Nghé, Quận 1, TP. HCM
+
+Công ty CP SXKD Phân Bón Vinacafe
+
+Lô D9-10 Cụm Công nghiệp
+
+EaÐar, Huyện Eakar, Đắc lắk
+
+35,00%
+
+35,00%
+
+c. Danh sách Chi nhánh
+
+Tên Công ty
+
+CN Công ty CP Đầu Tư Phát Triển Công Nghiệp và Vận Tải tại TP Đà Nẵng
+
+Địa chỉ
+
+24 Tôn Đức Thắng, Phường Hòa Minh, Quận Liên Chiều, Tp Đà Nẵng
+
+Chi nhánh Hà Nội chấm dứt hoạt động bắt đầu từ ngày 31/08/2017 theo Quyết định số 37/2017/QĐ - HĐQT ngày 28/08/2017 của Hội Đồng Quản Trị.
+
+TRACCOI| Bảo các thương niên 2017
+
+84

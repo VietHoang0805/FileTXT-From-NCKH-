@@ -1,0 +1,109 @@
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+12. NGUYÊN TẮC GHI NHẬN VỐN CHỦ SỞ HỮU
+
+a. Nguyên tắc ghi nhận vốn góp của chủ sở hữu, thặng dư vốn cổ phần, quyền chọn trái phiếu chuyển đổi, vốn khác của chủ sở hữu
+
+Vốn đầu tư của chủ sở hữu được ghi nhận theo số vốn thực góp của chủ sở hữu và được theo dõi chi
+
+tiết cho từng tổ chức, từng cá nhân tham gia góp vốn.
+
+Khi giấy phép đầu tư quy định vốn điều lệ của công ty được xác định bằng ngoại tệ thì việc xác định phần vốn góp của nhà đầu tư bằng ngoại tệ được căn cứ vào số lượng ngoại tệ đã thực góp.
+
+Đối với công ty cổ phần, vốn góp cổ phần của các cổ đông được ghi theo giá thực tế phát hành cổ phiếu, nhưng được phản ánh tại hai chỉ tiêu riêng:
+
+• Vốn góp của chủ sở hữu được ghi nhận theo mệnh giá của cổ phiếu;
+
+• Thặng dư vốn cổ phần được ghi nhận theo số chênh lệch lớn hơn hoặc nhỏ hơn giữa giá thực tế phát hành cổ phiếu và mệnh giá.
+
+Vốn khác phản ánh vốn kinh doanh được hình thành do bổ sung từ kết quả hoạt động kinh doanh hoặc do được tặng, biểu, tài trợ, đánh giá lại tài sản (theo quy định hiện hành).
+
+b. Nguyên tắc ghi nhận lợi nhuận chưa phân phối
+
+Lợi nhuận sau thuế chưa phân phối là số lợi nhuận từ các hoạt động của công ty sau khi cộng (+) hoặc trừ (-) các khoản điều chỉnh do áp dụng hồi tố thay đổi chính sách kế toán và điều chỉnh hồi tố sai sót trọng yếu của các năm trước.
+
+Việc phân chia lợi nhuận hoạt động kinh doanh của công ty phải đảm bảo theo đúng chính sách tài chính hiện hành.
+
+Công ty mẹ phân phối lợi nhuận cho chủ sở hữu không vượt quá mức lợi nhuận sau thuế chưa phân phối trên Báo cáo tài chính hợp nhất sau khi đã loại trừ ảnh hưởng của các khoản lãi do ghi nhận từ giao dịch mua giá rẻ. Trường hợp lợi nhuận sau thuế chưa phân phối trên Báo cáo tài chính hợp nhất cao hơn lợi nhuận sau thuế chưa phân phối trên Báo cáo tài chính riêng của công ty mẹ và nếu số
+
+lợi nhuận quyết định phân phối vượt quá số lợi nhuận sau thuế chưa phân phối trên Báo cáo tài chính riêng, công ty mẹ chỉ thực hiện phân phối sau khi đã điều chuyển lợi nhuận từ các công ty con về công ty mẹ.
+
+Khi phân phối lợi nhuận cần cần nhắc đến các khoản mục phi tiền tệ nằm trong lợi nhuận sau thuế
+
+chưa phân phối có thể ảnh hưởng đến luồng tiền và khả năng chi trả cổ tức, lợi nhuận của công ty.
+
+13. NGUYÊN TẮC GHI NHẬN DOANH THU
+
+a. Nguyên tắc ghi nhận doanh thu bán hàng
+
+Doanh thu bán hàng được ghi nhận khi đồng thời thỏa mãn các điều kiện sau:
+
+• Phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu sản phẩm hoặc hàng hóa đã được chuyển giao cho người mua;
+
+• Công ty không còn nắm giữ quyền quản lý hàng hóa như người sở hữu hàng hóa hoặc quyền kiểm soát hàng hóa;
+
+• Doanh thu được xác định tương đối chắc chắn;
+
+• Công ty đã thu được hoặc sẽ thu được lợi ích kinh tế từ giao dịch bán hàng;
+
+• Xác định được chi phí liên quan đến giao dịch bán hàng.
+
+b. Nguyên tắc ghi nhận doanh thu cung cấp dịch vụ
+
+Doanh thu cung cấp dịch vụ được ghi nhận khi đồng thời thỏa mãn các điều kiện sau:
+
+* Doanh thu được xác định tương đối chắc chắn;
+
+| 125 TRACODI [Báo cáo thường năm 2019
+
+• Có khả năng thu được lợi ích kinh tế từ giao dịch cung cấp dịch vụ đó; • Xác định được phần công việc đã hoàn thành vào ngày lập Báo cáo;
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+• Xác định được chi phí phát sinh cho giao dịch và chi phí để hoàn thành giao dịch cung cấp dịch
+
+vụ đó.
+
+c. Nguyên tắc ghi nhận doanh thu hoạt động tài chính
+
+Doanh thu hoạt động tài chính bao gồm doanh thu tiền lãi, tiến bản quyền, cổ tức, lợi nhuận được chia và các khoản doanh thu hoạt động tài chính khác. Đối với tiền lãi thu từ các khoản cho vay, bản hàng trả chậm, trả góp: doanh thu được ghi nhận khi chắc chắn thu được và khoản gốc cho vay, nợ gốc phải thu không bị phân loại là quá hạn cần phải lập dự phòng. Doanh thu từ cổ tức được ghi nhận khi quyền nhận cổ tức được xác lập.
+
+d. Nguyên tắc ghi nhận doanh thu hợp đồng xây dựng
+
+Doanh thu hợp đồng xây dựng được ghi nhận theo một trong hai trường hợp sau:
+
+• Hợp đồng xây dựng quy định nhà thầu được thanh toán theo tiến độ kế hoạch: khi kết quả thực hiện hợp đồng được ước tính một cách đáng tin cậy thì doanh thu được ghi nhận tương ứng với phần công việc đã hoàn thành do nhà thầu tự xác định tại ngày lập Báo cáo;
+
+• Hợp đồng xây dựng quy định nhà thầu được thanh toán theo giá trị khối lượng thực hiện: khi kết
+
+quả thực hiện hợp đồng được ước tính một cách đáng tin cậy và được khách hàng xác nhận thì doanh thu được ghi nhận tương ứng với phần công việc đã hoàn thành được khách hàng xác nhận.
+
+Khi kết quả thực hiện hợp đồng không thể ước tính một cách đáng tin cậy thì doanh thu ghi nhận tương đương chi phí đã phát sinh mà việc được hoàn trả là tương đối chắc chắn.
+
+e. Nguyên tắc ghi nhận thu nhập khác
+
+Thu nhập khác bao gồm các khoản thu nhập khác ngoài hoạt động sản xuất, kinh doanh của công
+
+ty: nhượng bán, thanh lý TSCĐ; tiền phạt do khách hàng vi phạm hợp đồng; tiền bồi thường của bên thứ ba để bù đắp cho tài sản bị tổn thất; khoản thu từ nợ khó đòi đã xử lý xóa sổ; nợ phải trả không xác định được chủ; thu nhập từ quà biếu, tặng bằng tiền, hiện vật ...
+
+14. NGUYÊN TẮC GHI NHẬN CÁC KHOẢN GIẢM TRỪ DOANH THU
+
+Việc điều chỉnh giảm doanh thu được thực hiện như sau:
+
+• Điều chỉnh giảm doanh thu của kỳ phát sinh nếu các khoản giảm trừ doanh thu phát sinh cùng kỳ tiêu thụ sản phẩm, hàng hóa, dịch vụ;
+
+• Điều chỉnh giảm doanh thu như sau nếu các khoản giảm trừ doanh thu phát sinh sau kỳ tiêu thụ sản phẩm, hàng hóa, dịch vụ:
+
++ Điều chỉnh giảm doanh thu trên Báo cáo tài chính của kỳ lập báo cáo nếu phát sinh các khoản giảm trừ doanh thu trước thời điểm phát hành Báo cáo tài chính;
+
++ Điều chỉnh giảm doanh thu trên Báo cáo tài chính của kỳ sau kỳ lập báo cáo nếu phát sinh các khoản giảm trừ doanh thu sau thời điểm phát hành Báo cáo tài chính.
+
+Chiết khấu thương mại phải trả là khoản công ty bản giảm giá niêm yết cho khách hàng mua hàng với khối lượng lớn.
+
+Giảm giá hàng bán là khoản giảm trừ cho người mua do sản phẩm, hàng hóa kém, mất phẩm chất hay không đúng quy cách theo quy định trong hợp đồng kinh tế.
+
+Hàng bán trả lại phản ánh giá trị của số sản phẩm, hàng hóa bị khách hàng trả lại do các nguyên nhân như vi phạm cam kết, vi phạm hợp đồng kinh tế, hàng bị kém, mất phẩm chất, không đúng
+
+chủng loại, quy cách.
+
+TRACDD: 530 cáo thường niên 2019, 126

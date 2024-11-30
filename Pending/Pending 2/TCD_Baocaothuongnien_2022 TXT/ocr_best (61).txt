@@ -1,0 +1,105 @@
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+c. Danh sách Chi nhánh
+
+Tên Công ty
+
+CN Công ty CP Đầu Tư Phát Triển Công Nghiệp và Vận Tải tại TP Đà Nẵng
+
+Dia chi
+
+24 Tôn Đức Thắng, Phường Hòa Minh, Quận Liên Chiều, Tp Đà Nẵng
+
+II. KỲ KẾ TOÁN, ĐƠN VỊ TIỀN TỆ SỬ DỤNG TRONG KẾ TOÁN
+
+1. KỲ KẾ TOÁN
+
+Niên độ kế toán của Công ty bắt đầu từ ngày 01/01 và kết thúc vào ngày 31/12 hàng năm. 2. ĐƠN VỊ TIỀN TỆ
+
+Đơn vị tiền tệ sử dụng trong ghi chép kế toán là đồng Việt Nam (VND).
+
+III. CHUẨN MỰC VÀ CHẾ ĐỘ KẾ TOÁN
+
+1. CHẾ ĐỘ KẾ TOÁN
+
+Công ty áp dụng Chế độ kế toán doanh nghiệp ban hành theo Thông tư số 200/2014/TT-BTC ngày 22/12/2014 và Thông tư 202/2014/TT-BTC ngày 22/12/2014 hướng dẫn lập và trình bày Báo cáo tài chính hợp nhất của Bộ Tài chính và các Thông tư hướng dẫn, bổ sung, sửa đổi.
+
+2. TUYÊN BỐ VỀ VIỆC TUÂN THỦ CHUẨN MỰC KẾ TOÁN VÀ CHẾ ĐỘ KẾ TOÁN
+
+Công ty đã áp dụng các Chuẩn mực kế toán Việt Nam và các văn bản hướng dẫn Chuẩn mực do Nhà nước đã ban hành. Các báo cáo tài chính được lập và trình bày theo đúng quy định của chuẩn mực,
+
+thông tư hướng dẫn thực hiện chuẩn mực và Chế độ kế toán Doanh nghiệp Việt Nam hiện hành đang áp dụng.
+
+IV. CÁC CHÍNH SÁCH KẾ TOÁN ÁP DỤNG
+
+1. NGUYÊN TẮC GHI NHẬN CÁC KHOẢN TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN
+
+a. Nguyên tắc ghi nhận các khoản tiền
+
+Các khoản tiền là toàn bộ số tiền hiện có của Công ty tại thời điểm báo cáo, gồm: tiền mặt tại quỹ,
+
+tiền gửi ngân hàng không kỳ hạn và tiền đang chuyển.
+
+b. Nguyên tắc ghi nhận các khoản tương đương tiền
+
+Các khoản tương đương tiền là các khoản đầu tư có thời gian thu hồi còn lại không quá 3 tháng kể từ ngày báo cáo, có khả năng chuyển đổi dễ dàng thành một lượng tiền xác định và không có rủi ro trong chuyển đổi thành tiền kể từ ngày mua khoản đầu tư đó tại thời điểm lập Báo cáo tài chính.
+
+| 119 TRACDD [Báo cáo thường niên 2019
+
+c. Nguyên tắc, phương pháp chuyển đổi các đồng tiền khác
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT,
+
+Các nghiệp vụ kinh tế phát sinh bằng ngoại tệ phải theo dõi chi tiết theo nguyên tệ và phải được quy đổi ra đồng Việt Nam theo nguyên tắc:
+
+* Bên Nợ các tài khoản tiến áp dụng tỷ giả tỷ giá giao dịch thực tế;
+
+* Bên Có các tài khoản tiền áp dụng tỷ giá ghi số bình quân gia quyền.
+
+Khoản thấu chi ngân hàng được phản ánh tương tự như khoản vay ngân hàng.
+
+Tại thời điểm lập Báo cáo tài chính theo quy định của pháp luật, Công ty đánh giá lại số dư ngoại tệ và vàng tiền tệ theo nguyên tắc:
+
+• Tỷ giá giao dịch thực tế khi đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ được phân loại là tài sản: Là tỷ giá mua ngoại tệ của ngân hàng thương mại nơi doanh nghiệp thường xuyên có giao dịch tại thời điểm lập Báo cáo tài chính. Đối với các khoản ngoại tệ gửi ngân hàng thì tỷ giá thực tế khi đánh giá lại là tỷ giá mua của ngân hàng nơi doanh nghiệp mở tài khoản ngoại tệ.
+
+• Tỷ giá giao dịch thực tế khi đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ được phân loại là
+
+nợ phải trả: là tỷ giá bán ngoại tệ của ngân hàng thương mại nơi doanh nghiệp thường xuyên có giao dịch tại thời điểm lập Báo cáo tài chính.
+
+2. NGUYÊN TẮC GHI NHẬN CÁC KHOẢN ĐẦU TƯ TÀI CHÍNH
+
+Là các khoản đầu tư ra bên ngoài doanh nghiệp nhằm mục đích sử dụng hợp lý vốn nâng cao hiệu
+
+quả hoạt động của doanh nghiệp như: Đầu tư góp vốn vào công ty con, công ty liên doanh, liên kết, đầu tư chứng khoán và các khoản đầu tư tài chính khác...
+
+Phân loại các khoản đầu tư khi lập Báo cáo tài chính theo nguyên tác như sau:
+
+• Các khoản đầu tư có kỳ hạn thu hồi còn lại không quá 12 tháng hoặc trong 1 chu kỳ sản xuất kinh
+
+doanh được phân loại là ngắn hạn.
+
+* Các khoản đầu tư có kỳ hạn thu hồi còn lại từ 12 tháng trở lên hoặc trên 1 chu kỳ sản xuất kinh doanh được phân loại là dài hạn.
+
+a. Chứng khoán kinh doanh
+
+Là khoản đầu tư mua chứng khoán và công cụ tài chính khác vì mục đích kinh doanh (nắm giữ với mục đích chờ tăng giá để bắn ra kiếm lời). Chứng khoán kinh doanh bao gồm:
+
+* Cổ phiếu, trái phiếu niêm yết trên thị trường chứng khoán;
+
+• Các loại chứng khoán và công cụ tài chính khác như thương phiếu, hợp đồng kỳ hạn, hợp đồng hoán đổi .....
+
+Chứng khoán kinh doanh được ghi số theo giá gốc. Thời điểm ghi nhận các khoản chứng khoán kinh
+
+doanh là thời điểm nhà đầu tư có quyền sở hữu.
+
+Khoản cổ tức được chia cho giai đoạn trước ngày đầu tư được ghi giảm giá trị khoản đầu tư. Khi nhà đầu tư được nhận thêm cổ phiếu mà không phải trả tiền do Công ty cổ phần phát hành thêm cổ
+
+phiếu từ thặng dư vốn cổ phần, quỹ khác thuộc vốn chủ sở hữu hoặc chia cổ tức bằng cổ phiếu, nhà đầu tư chỉ theo dõi số lượng cổ phiếu tăng thêm.
+
+Trường hợp hoán đối cổ phiếu phải xác định giá trị cổ phiếu theo giá trị hợp lý tại ngày trao đổi.
+
+Khi thanh lý, nhượng bán chứng khoán kinh doanh, giá vốn được xác định theo phương pháp bình quân gia quyền di động cho từng loại chứng khoán.
+
+Dự phòng giảm giá chứng khoán kinh doanh: phần giá trị tổn thất có thể xảy ra khi có bằng chứng chắc chắn cho thấy giá trị thị trường của các loại chứng khoán Công ty đang nắm giữ vì mục đích kinh doanh bị giảm so với giá trị ghi số. Việc trích lập hoặc hoàn nhập khoản dự phòng này được thực hiện ở thời điểm lập Báo cáo tài chính và được ghi nhận vào chi phí tài chính trong kỳ.
+
+TRACOE | BAO CÁo thung năm 2019 120

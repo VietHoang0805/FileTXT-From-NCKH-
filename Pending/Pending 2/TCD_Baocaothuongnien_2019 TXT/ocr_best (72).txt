@@ -1,0 +1,131 @@
+141
+
+11. TĂNG, GIẢM TÀI SẢN CỐ ĐỊNH VÔ HÌNH
+
+Quyền sử dụng đất có thời hạn
+
+Chỉ tiêu
+
+I. Nguyên giá TSCĐ vô hình
+
+1. Số dư đầu kỳ
+
+2. Số tăng trong kỳ
+
+- Mua trong kỳ
+
+- Tăng khác
+
+Phần mềm máy tính
+
+TSCĐ khác
+
+513.520.000
+
+538.871.500
+
+Đơn vị tính: VND
+
+Tổng cộng
+
+1.052.391.500
+
+3. Số giảm trong kỳ
+
+179.622.500
+
+179.622.500
+
+4. Số dư cuối kỳ
+
+513.520.000
+
+359.249.000
+
+872.769.000
+
+II. Giá trị hao mòn luỹ kế
+
+1. Số dư đầu kỳ
+
+15.237.783
+
+380.983.044
+
+396.220.827
+
+2. Số tăng trong kỳ
+
+- Khấu hao tăng trong kỳ
+
+12.167.272 12.167.272
+
+103.749.664
+
+103.749.664
+
+115.916.936
+
+115.916.936
+
+3. Giảm trong kỳ
+
+179.622.500
+
+179.622.500
+
+4. Số dư cuối kỳ
+
+27.405.055
+
+305.110.208
+
+332.515.263
+
+III. GIÁ TRỊ CÒN LẠI CỦA TSCĐ VÔ HÌNH
+
+1. Tại ngày đầu kỳ
+
+498.282.217
+
+2. Tại ngày cuối kỳ
+
+486.114.945
+
+157.888.456 54.138.792
+
+656.170.673
+
+540.253.737
+
+Ghi chú:
+
+- Nguyên giá TSCĐ hữu hình cuối kỳ đã khấu hao hết nhưng vẫn còn sử dụng:
+
+12. TÀI SẢN DỞ DANG DÀI HẠN
+
+a. Chi phí sản xuất kinh doanh dở dang dài hạn
+
+b. Xây dựng cơ bản dở dang
+
+- Dự án Trung tâm thương mại Củ Chi
+
+- Khác
+
+Tổng cộng
+
+Số cuối năm
+
+434.884.500 1.685.751.682
+
+2.120.636.182
+
+Đơn vị tính: VND
+
+Số cuối năm
+
+434.884.500 1.232.543.238
+
+1.667.427.738
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT

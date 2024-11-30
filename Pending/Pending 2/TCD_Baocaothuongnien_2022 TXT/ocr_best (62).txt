@@ -1,0 +1,89 @@
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+b. Đầu tư nắm giữ đến ngày đáo hạn
+
+Khoản đầu tư này không phản ánh các loại trái phiếu và công cụ nợ nắm giữ vì mục đích mua bán để kiếm lời. Các khoản đầu tư nắm giữ đến ngày đáo hạn bao gồm các khoản tiền gửi ngân hàng có kỳ hạn (thời gian thu hồi còn lại từ 3 tháng trở lên), tín phiếu, kỳ phiếu, trái phiếu, cổ phiếu ưu đãi bến phát hành bắt buộc phải mua lại tại một thời điểm nhất định trong tương lai và các khoản cho vay nắm giữ đến ngày đáo hạn với mục đích thu lãi hàng kỳ và các khoản đầu tư nắm giữ đến ngày
+
+đáo hạn khác.
+
+Dự phòng khoản đầu tư nắm giữ: các khoản đầu tư nắm giữ đến ngày đáo hạn có bản chất tương
+
+tự các khoản phải thu khó có khả năng thu hồi cần được trích lập dự phòng phải thu khó đòi khi lập Báo cáo tài chính. Việc trích lập hoặc hoàn nhập khoản dự phòng này được thực hiện ở thời điểm lập Báo cáo tài chính và được ghi nhận vào chi phí quản lý doanh nghiệp trong kỳ.
+
+Đối với các khoản đầu tư nắm giữ đến ngày đáo hạn nếu chưa được lập dự phòng phải thu khó đòi theo quy định của pháp luật, Công ty phải đánh giá khả năng thu hồi. Trường hợp có bằng chứng chắc chắn cho thấy một phần hay toàn bộ khoản đầu tư có thể không thể thu hồi được, số tổn thất phải ghi nhận vào chi phí tài chính trong kỳ. Trường hợp số tổn thất không thể xác định được một cách đáng tin cậy thì không ghi giảm khoản đầu tư và được thuyết minh về khả năng thu hồi của khoản đầu tư trên Thuyết minh Báo cáo tài chính,
+
+c. Các khoản đầu tư vào công ty con, liên doanh, liên kết
+
+Khoản đầu tư vào công ty con được kế toán theo phương pháp giá gốc. Khoản đầu tư vào công ty liên kết được hạch toán theo phương pháp vốn chủ sở hữu và được ghi nhận ban đầu theo giá gốc. Lợi nhuận thuần được chia từ công ty con, công ty liên kết phát sinh sau ngày đầu tư được ghi nhận vào doanh thu tài chính trong kỳ. Các khoản được chia khác (ngoài lợi nhuận thuần) được coi là phần thu hồi các khoản đầu tư và được ghi nhận là khoản giảm trừ giá gốc đầu tư.
+
+Hoạt động liên doanh theo hình thức Hoạt động kinh doanh đồng kiểm soát và Tài sản đồng kiếm soát được Công ty áp dụng nguyên tắc kế toán chung như với các hoạt động kinh doanh thông
+
+thường khác. Trong đó:
+
+• Công ty theo dõi riêng các khoản thu nhập, chi phí liên quan đến hoạt động liên doanh và thực hiện phân bố cho các bên trong liên doanh theo hợp đồng liên doanh;
+
+• Công ty theo dõi riêng tài sản góp vốn liên doanh, phần vốn góp vào tài sản đồng kiểm soát và các khoản công nợ chung, công nợ riêng phát sinh từ hoạt động liên doanh.
+
+Các khoản chi phí liên quan trực tiếp đến hoạt động đầu tư vào công ty liên doanh, liên kết được ghi
+
+nhận là chi phí tài chính trong kỳ.
+
+Dự phòng tổn thất đầu tư vào đơn vị khác: khoản tổn thất do công ty con, liên doanh, liên kết bị lỗ dẫn đến nhà đầu tư có khả năng mất vốn hoặc khoản dự phòng do suy giảm giá trị các khoản đầu tư này.Việc trích lập hoặc hoàn nhập khoản dự phòng này được thực hiện ở thời điểm lập Báo cáo tài chính cho từng khoản đầu tư và được ghi nhận vào chi phí tài chính trong kỳ.
+
+d. Các khoản đầu tư vào công cụ vốn của đơn vị khác
+
+Là các khoản đầu tư vào công cụ vốn của đơn vị khác nhưng không có quyền kiểm soát hoặc đồng kiểm soát, không có ảnh hưởng đáng kể đối với bên được đầu tư.
+
+3. NGUYÊN TẮC GHI NHẬN CÁC KHOẢN PHẢI THU
+
+Các khoản phải thu được theo dõi chi tiết theo kỳ hạn phải thu, đối tượng phải thu, loại nguyên tệ phải thu và các yếu tố khác theo nhu cầu quản lý của Công ty.
+
+Phân loại các khoản phải thu khi lập Báo cáo tài chính theo nguyên tắc như sau:
+
+• Các khoản phải thu có kỳ hạn thu hồi còn lại không quá 12 tháng hoặc trong 1 chu kỳ sản xuất kinh doanh được phân loại là ngắn hạn.
+
+| 121 THACODI BÁO CÁO thường năm 2019
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+• Các khoản phải thu có kỳ hạn thu hồi còn lại từ 12 tháng trở lên hoặc trên 1 chu kỳ sản xuất kinh doanh được phân loại là dài hạn.
+
+Tại thời điểm lập Báo cáo tài chính theo quy định của pháp luật, Công ty đánh giá lại số dư của các khoản nợ phải thu có gốc ngoại tệ (trừ các khoản trả trước cho người bán; nếu tại thời điểm lập báo cáo có bằng chứng chắc chắn về việc người bán không thể cung cấp hàng hóa, dịch vụ và Công ty sẽ phải nhận lại các khoản trả trước bằng ngoại tệ thì các khoản này được coi là các khoản mục tiến tệ có gốc ngoại tệ) theo tỷ giá mua ngoại tệ của ngân hàng thương mại nơi Công ty thường xuyên có giao dịch tại thời điểm lập Báo cáo tài chính.
+
+Dự phòng nợ phải thu khó đòi: các khoản nợ phải thu khó đòi được trích lập dự phòng phải thu khó đòi khi lập Báo cáo tài chính. Việc trích lập hoặc hoàn nhập khoản dự phòng này được thực hiện ở thời điểm lập Báo cáo tài chính và được ghi nhận vào chi phí quản lý doanh nghiệp trong kỳ. Đối với những khoản phải thu khó đòi kéo dài trong nhiều năm mà Công ty đã cố gắng dùng mọi biện pháp để thu nợ nhưng vẫn không thu được nợ và xác định khách nợ thực sự không có khả năng thanh toán thì Công ty có thể phải làm các thủ tục bán nợ cho Công ty mua, bán nợ hoặc xóa những khoản
+
+nợ phải thu khó đòi trên số kế toán (thực hiện theo quy định của Pháp luật và Điều lệ Công ty).
+
+4. NGUYÊN TẮC GHI NHẬN HÀNG TỒN KHO
+
+a. Nguyên tắc ghi nhận
+
+Hàng tồn kho được ghi nhận theo giá gốc. Trường hợp giá trị thuần có thể thực hiện được thấp hơn giá gốc thì phải tính theo giá trị thuần có thể thực hiện được. Giá gốc hàng tồn kho bao gồm chi phí mua, chi phí chế biến và các chi phí liên quan trực tiếp khác phát sinh để có được hàng tồn kho ở địa điểm và trạng thái hiện tại.
+
+Các tài sản được Công ty mua về để sản xuất, sử dụng hoặc để bán không được trình bày là hàng tồn kho trên Bảng cân đối kế toán mà được trình bày là tài sản dài hạn, bao gồm:
+
+• Sản phẩm dở dang có thời gian sản xuất, luân chuyển vượt quá một chu kỳ kinh doanh thông thường
+
+• Vật tư, thiết bị, phụ tùng thay thế có thời gian dự trữ trên 12 tháng hoặc hơn một chu kỳ sản
+
+xuất, kinh doanh thông thường.
+
+b. Phương tính giá trị hàng tồn kho
+
+Giá trị hàng tồn kho cuối kỳ được xác định theo một trong các phương pháp: bình quân gia quyền, Đối với hàng hóa nhập bán sĩ theo lỗ, công ty ghi nhận giá trị hàng xuất theo phương pháp thực tế
+
+đích danh.
+
+c. Phương pháp hạch toán hàng tồn kho
+
+Hàng tồn kho được hạch toán theo phương pháp kê khai thường xuyên.
+
+d. Phương pháp lập dự phòng giảm giá hàng tồn kho
+
+Cuối niên độ kế toán, nếu giá trị hàng tồn kho không thu hồi đủ do bị hư hỏng, lỗi thời, giá bán bị giảm hoặc chi phí hoàn thiện, chi phí bán hàng tăng lên thì Công ty lập dự phòng giảm giá hàng tồn kho. Số dự phòng giảm giá hàng tồn kho được lập là chênh lệch giữa giá gốc của hàng tồn kho lớn hơn giá trị thuần có thể thực hiện được của chúng,
+
+5. NGUYÊN TẮC GHI NHẬN VÀ KHẤU HAO TSCĐ, TSCĐ THUÊ TÀI CHÍNH, BẤT ĐỘNG SẢN ĐẦU TƯ
+
+Tài sản cố định được ghi nhận theo nguyên giá. Trong quá trình sử dụng, tài sản cố định được theo dõi chi tiết nguyên giả, hao mòn luỹ kế và giá trị còn lại.
+
+TRACUDI BAO CAO PHU NĂM 2019 122

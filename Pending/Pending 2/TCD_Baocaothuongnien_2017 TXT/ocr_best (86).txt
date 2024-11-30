@@ -1,0 +1,39 @@
+BAO CAO TẠI CHÍNH HỢP NHẬT
+
+Tại thời điểm lập Báo cáo tài chính theo quy định của pháp luật, Công ty đánh giá lại số dư ngoại tệ và vàng tiền tệ theo nguyên tắc:
+
+• Tỷ giá giao dịch thực tế khi đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ được phân loại là tài sản: Là tỷ giá mua ngoại tệ của ngân hàng thương mại nơi doanh nghiệp thường xuyên có giao dịch tại thời điểm lập Báo cáo tài chính. Đối với các khoản ngoại tệ gửi ngân hàng thì tỷ giá thực tế khi đánh giá lại là tỷ giá mua của ngân hàng nơi doanh nghiệp mở tài khoản ngoại tệ.
+
+• Tỷ giá giao dịch thực tế khi đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ được phân loại là nợ phải trả: là tỷ giá bán ngoại tệ của ngân hàng thương mại nơi doanh nghiệp thường xuyên có giao dịch tại thời điểm lập Báo cáo tài chính.
+
+2. NGUYÊN TẮC GHI NHẬN CÁC KHOẢN ĐẦU TƯ TÀI CHÍNH
+
+Là các khoản đầu tư ra bên ngoài doanh nghiệp nhằm mục đích sử dụng hợp lý vốn nâng cao hiệu quả hoạt động của doanh nghiệp như: Đầu tư góp vốn vào công ty con, công ty liên doanh, liên kết, đầu tư chứng khoán và các khoản đầu tư tài chính khác...
+
+Phân loại các khoản đầu tư khi lập Báo cáo tài chính theo nguyên tắc như sau:
+
+• Các khoản đầu tư có kỳ hạn thu hồi còn lại không quá 12 tháng hoặc trong 1 chu kỳ sản xuất kinh doanh được phân loại là ngắn hạn.
+
+• Các khoản đầu tư có kỳ hạn thu hồi còn lại từ 12 tháng trở lên hoặc trên 1 chu kỳ sản xuất kinh doanh được phân loại là dài hạn.
+
+a. Chứng khoán kinh doanh
+
+Là khoản đầu tư mua chứng khoán và công cụ tài chính khác vì mục đích kinh doanh (nắm giữ với mục đích chờ tăng giá để bán ra kiếm lời). Chứng khoán kinh doanh bao gồm:
+
+* Cổ phiếu, trái phiếu niêm yết trên thị trường chứng khoán;
+
+• Các loại chứng khoán và công cụ tài chính khác như thương phiếu, hợp đồng kỳ hạn, hợp đồng hoán đổi ...
+
+Chứng khoán kinh doanh được ghi sổ theo giá gốc. Thời điểm ghi nhận các khoản chứng khoán kinh doanh là thời điểm nhà đầu tư có quyền sở hữu.
+
+Khoản cổ tức được chia cho giai đoạn trước ngày đầu tư được ghi giảm giá trị khoản đầu tư. Khi nhà đầu tư được nhận thêm cổ phiếu mà không phải trả tiền do Công ty cổ phần phát hành thêm cổ phiếu từ thặng dư vốn cổ phần, quỹ khác thuộc vốn chủ sở hữu hoặc chia cổ tức bằng cổ phiếu, nhà đầu tư chỉ theo dõi số lượng cổ phiếu tăng thêm.
+
+Trường hợp hoán đổi cổ phiếu phải xác định giá trị cổ phiếu theo giá trị hợp lý tại ngày trao đổi. Khi thanh lý, nhượng bán chứng khoán kinh doanh, giá vốn được xác định theo phương pháp bình quân gia quyền di động cho từng loại chứng khoán.
+
+Dự phòng giảm giá chứng khoán kinh doanh: phần giá trị tổn thất có thể xảy ra khi có bằng chứng chắc chắn cho thấy giá trị thị trường của các loại chứng khoán Công ty đang nắm giữ vì mục đích kinh doanh bị giảm so với giá trị ghi số. Việc trích lập hoặc hoàn nhập khoản dự phòng này được thực hiện ở thời điểm lập Bảo cáo tài chính và được ghi nhận vào chi phí tài chính trong kỳ.
+
+b. Đầu tư nằm giữ đến ngày đáo hạn
+
+Khoản đầu tư này không phản ánh các loại trái phiếu và công cụ nợ nắm giữ vì mục đích mua bán để kiếm lời. Các khoản đầu tư nắm giữ đến ngày đáo hạn bao gồm các khoản tiền gửi ngân hàng có kỳ hạn (thời gian thu hồi còn lại từ 3 tháng trở lên), tín phiếu, kỳ phiếu, trái phiếu, cổ phiếu ưu đãi bên phát hành bắt buộc phải mua lại tại một thời điểm nhất định trong tương lai và các khoản cho vay nắm giữ đến ngày đáo hạn với mục đích thu lãi hàng kỳ và các khoản đầu tư nắm giữ đến ngày đáo hạn khác.
+
+TRACCOI HÀo cáo thường niên 2017 86
