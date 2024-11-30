@@ -1,0 +1,49 @@
+toán Việt Nam số 03 – Tài sản cố định hữu hình. Thông tư số 200/2014/TT-BTC ngày 22/12/2014 của Bộ Tài chính hướng dẫn chế độ kế toán doanh nghiệp, Thông tư số 45/2013/TT-BTC ngày 25/4/2013 hướng dẫn Chế độ quản lý, sử dụng và trích khấu hao tài sản cố định và Thông tư số 147/2016/TT-BTC ngày 13/10/2016 về sửa đổi, bổ sung một số điều của Thông tư số 45/2013/TT- BTC và Thông tư số 28/2017/TT-BTC ngày 12/04/2017 về sửa đổi, bổ sung một số điều của Thông tư số 45/2013/TT-BTC và Thông tư số 147/2016 TT-BTC của Bộ Tài chính.
+
+Nguyễn giã tài sản cố định hữu hình mua sắm bao gồm giả mua (trừ các khoản chiết khấu thương mại hoặc giảm giá), các khoản thuế và các chi phi liên quan trực tiếp đến việc đưa tài sản vào trạng thái sẵn sàng sử dụng.
+
+Đối với các tài sản cố định đã đưa vào sử dụng nhưng chưa có quyết toán chính thức sẽ được tạm ghi tăng nguyên giá tài sản cố định và trích khấu hao, khi có quyết toán chính thức sẽ điều chỉnh lại nguyên giả và khấu hao tương ứng.
+
+Các chi phí phát sinh sau ghi nhận ban đầu TSCĐ hữu hình được ghi tăng nguyên giả của tài sản khi các chi phi này chắc chắn làm tăng lợi ích kinh tế trong tương lai. Các chi phí phát sinh không thoả mãn được điều kiện trên được Công ty ghi nhận vào chi phí sản xuất kinh doanh trong kỳ.
+
+Tài sản cố định hữu hình được khấu hao theo phương pháp dường thẳng dựa trên thời gian hữu dụng ước tính. Kể toán TSCĐ hữu hình được phân loại theo nhóm tài sản có cùng tính chất và mục đích sử dụng trong hoạt động sản xuất kinh doanh của công ty. Thời gian khấu hao cụ thể như sau:
+
+Loại tài sản
+
+- Nhà cửa, vật kiến trúc
+
+- Máy móc, thiết bị
+
+- Phương tiện vận tải, truyền dẫn
+
+- Thiết bị, dụng cụ quản lý
+
+- Tài sản cố định khác
+
+Thời gian sử dụng (năm)
+
+05-27
+
+03-07
+
+06
+
+03-05
+
+03-08
+
+3.8
+
+TÀI SẢN CÓ ĐỊNH VÔ HÌNH
+
+Tài sản cố định vô hình được ghi nhận theo nguyên giả, được phản ảnh trên Bảng cân đối kế toán hợp nhất theo các chỉ tiêu nguyên giá, hao mòn luỹ kế và giá trị còn lại.
+
+Việc ghi nhận Tài sản cố định vô hình và khấu hao tài sản cố định thực hiện theo Chuẩn mực kế toán Việt Nam số 04 - Tài sản cố định vô hình, Thông tư số 200/2014/TT-BTC ngày 22/12/2014 của Bộ Tài chỉnh hướng dẫn chế độ kế toán doanh nghiệp, Thông tư số 45/2013/TT-BTC ngày 25/4/2013 hướng dẫn Chế độ quản lý, sử dụng và trích khấu hao tài sản cố định và Thông tư số 147/2016/TT-BTC ngày 13/10/2016 về sửa đổi, bổ sung một số điều của Thông tư số 45/2013/TT-BTC và Thông tư số 28/2017/TT-BTC ngày 12/04/2017 về sửa đổi, bổ sung một số điều của Thông tư số 45/2013/TT-BTC và Thông tư số 147/2016/TT-BTC của Bộ Tài chính.
+
+Nguyên giá tài sản cố định vô hình bao gồm toàn bộ các chi phí mà Công ty phải bỏ ra để có được tải sản cố định tính đến thời điểm đưa tài sản đó vào trạng thái sẵn sàng sử dụng. Chi phí liên quan đến tải sản cố định vô hình phát sinh sau khi ghi nhận ban đầu được ghi nhận là chi phí sản xuất, kinh doanh trong kỳ trừ khi các chi phí này gắn liền với một tài sản cố định vô hình cụ thể và làm tăng lợi ích kinh tế từ các tài sản này.
+
+Khi tài sản cố định vô hình được bản hay thanh lý, nguyên giả và giá trị hao mòn lũy kế được xóa sổ và lãi, lỗ phát sinh do thanh lý được ghi nhận vào thu nhập hay chỉ phí trong năm.
+
+Tài sản cố định vô hình của Công ty bao gồm phần mềm máy vi tính, bằng sáng chế, bản quyền, ... Quyền sử dụng chất
+
+29

@@ -1,0 +1,317 @@
+STT
+
+NGUỒN VỐN
+
+số
+
+C. NỢ PHẢI TRẢ
+
+Mã | Thuyết Số cuối năm
+
+300
+
+minh
+
+Đơn vị tính: VND
+
+Số đầu năm
+
+2.285.843.019.279 1.592.202.799.571
+
+L
+
+Nợ ngắn hạn
+
+310
+
+2.178.345.098.413
+
+1.511.036.649.569
+
+1.
+
+Phải trả người bán ngắn hạn
+
+311
+
+V.16
+
+415.510.194.275
+
+207.152.178.906
+
+2.
+
+Người mua trả tiền trước ngắn hạn
+
+312
+
+132.712.161.276
+
+96.843.146.704
+
+3.
+
+Thuế và các khoản phải nộp Nhà nước
+
+313
+
+V.17
+
+12.926.492.544
+
+17.089.859.052
+
+4.
+
+Phải trả người lao động
+
+314
+
+8.379.154.350
+
+4.895.471.370
+
+5.
+
+Chi phí phải trả ngắn
+
+hạn
+
+315 V.18
+
+9.073.334.269
+
+8.040.746.143
+
+6.
+
+Phải trả nội bộ ngắn hạn
+
+316
+
+0
+
+0
+
+7.
+
+Phải trả theo tiến độ kế hoạch hợp
+
+317
+
+0
+
+0
+
+đồng xây dựng.
+
+8.
+
+Doanh thu chưa thực hiện ngắn hạn
+
+318
+
+0
+
+9.
+
+Phải trả ngắn hạn khác
+
+319
+
+V.19
+
+11.641.405.181
+
+8.697.509.291
+
+10.
+
+Vay và nợ thuê tài chính ngắn hạn
+
+320
+
+V.15
+
+1.584.889.079.488 1.160.818.126.291
+
+11.
+
+Dự phòng phải trả ngắn hạn
+
+321
+
+0
+
+0
+
+12.
+
+Quỹ khen thưởng, phúc
+
+lợi
+
+322
+
+3.213.277.030
+
+7.499.611.812
+
+13. Quỹ bình ổn giá
+
+323
+
+0
+
+0
+
+14. Giao dịch mua bán lại trái phiếu Chính
+
+324
+
+0
+
+0
+
+phù
+
+II.
+
+Nợ dài hạn
+
+330
+
+107.497.920.866
+
+81.166.150.002
+
+1.
+
+Phải trả người bán dài hạn
+
+331
+
+V.16
+
+0
+
+2.
+
+Người mua trả tiền trước dài hạn
+
+332
+
+0
+
+3.
+
+Chi phí phải trả dài hạn
+
+333
+
+V.18
+
+0
+
+0
+
+0
+
+0
+
+4.
+
+Phải trả nội bộ về vốn kinh doanh
+
+334
+
+0
+
+5.
+
+Phải trả nội bộ dài hạn
+
+335
+
+0
+
+6.
+
+Doanh thu chưa thực hiện dài hạn
+
+336
+
+0
+
+0
+
+7.
+
+Phải trả dài hạn khác
+
+337
+
+V.19
+
+17.545.934.500
+
+17.349.400.000
+
+8.
+
+Vay và nợ thuê tài chính dài hạn
+
+338 V.15
+
+89.951.986.366
+
+63.816.750.002
+
+9.
+
+Trái phiếu chuyển đổi
+
+339
+
+0
+
+0
+
+10. Cổ phiếu ưu đãi
+
+340
+
+0
+
+0
+
+11.
+
+Thuế thu nhập hoãn lại phải trả
+
+341
+
+0
+
+0
+
+12. Dự phòng phải trả dài hạn
+
+342
+
+0
+
+13.
+
+Quỹ phát triển khoa học công nghệ
+
+343
+
+0
+
+0
+
+22
+
+22

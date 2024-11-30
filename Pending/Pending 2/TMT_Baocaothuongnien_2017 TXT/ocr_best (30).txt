@@ -1,0 +1,43 @@
+Đối với khoản mục phân loại là nợ phải trả áp dụng tỷ giá bán ngoại tệ của ngân hàng thương mại nơi Công ty thường xuyên có giao dịch.
+
+Tất cả các khoán chênh lệch tỷ giá thực tế phát sinh trong năm và chênh lệch do đánh giá lại số dư các khoản mục tiền tệ có gốc ngoại tệ cuối năm được hạch toán vào kết quả hoạt động kinh doanh hợp nhất của năm tài chính.
+
+02. Nguyên tắc ghi nhận các khoản tiền và các khoản tương đương tiền
+
+Các khoản tiền bao gồm tiền mặt, tiền gửi ngân hàng, tiền đang chuyển.
+
+Các khoản tương đương tiền là các khoản đầu tư ngắn hạn không quá 03 tháng có khả năng chuyển đối dễ dàng thành tiền và không có nhiều rủi ro trong chuyển đổi thành tiền kể từ ngày mua khoản
+
+đầu tư đó.
+
+03. Các khoản đầu tư tài chính
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn là khoản tiền gửi ngân hàng có kỳ hạn.
+
+Khi có các bằng chứng chắc chắn cho thấy một phần hoặc toàn bộ khoản đầu tư có thể không thu hồi được và số tổn thất được xác định một cách đáng tin cậy thì tổn thất được ghi nhận vào chi phí tài chính trong năm và giảm trừ trực tiếp giá trị đầu tư.
+
+Đầu tư góp vốn vào đơn vị khác
+
+Đầu tư vào công cụ vốn của đơn vị khác bao gồm các khoản đầu tư công cụ vốn nhưng Công ty không có quyền kiểm soát, đồng kiểm soát hoặc có ảnh hưởng đáng kể đối với bên được đầu tư. Khoản đầu tư này được ghi nhận ban đầu theo giá gốc bao gồm giá mua và các chi phí mua có liên quan trực tiếp.
+
+Cổ tức và lợi nhuận của các năm trước khi khoản đầu tư được mua được hạch toán giảm giá trị của chính khoản đầu tư đó. Cổ tức và lợi nhuận của các năm sau khi khoản đầu tư được mua được ghi nhận doanh thu. Cổ tức nhận bằng cổ phiếu chi thực hiện ghi nhận số lượng cổ phiếu được nhận, không ghi nhận tăng giá trị khoản đầu tư và doanh thu hoạt động tài chính.
+
+Dự phòng tổn thất cho các khoản đầu tư vào công cụ vốn của đơn vị khác được trích lập như sau:
+
+Đối với khoản đầu tư vào cổ phiếu niêm yết hoặc giá trị hợp lý khoản đầu tư được xác định tin cậy, việc lập dự phòng dựa trên giá trị thị trường của cổ phiếu.
+
+Đối với khoản đầu tư không xác định được giá trị hợp lý tại thời điểm báo cáo, việc lập dự phòng được thực hiện căn cứ vào khoản lỗ của bên được đầu tư với mức trích lập bằng chênh lệch giữa vốn góp thực tế của các bên tại đơn vị khác và vốn chủ sở hữu thực có nhân với tỷ lệ góp vốn của Công ty so với tổng số vốn góp thực tế của các bên tại đơn vị khác.
+
+04. Các khoản cho vay
+
+Các khoản cho vay được xác định theo giá gốc trừ các khoản dự phòng phải thu khó đòi. Dự phòng phải thu khó đòi của các khoản cho vay được lập căn cứ vào dự kiến mức tổn thất có thể xảy ra.
+
+05. Các khoản nợ phải thu
+
+Nợ phải thu là số tiền có thể thu hồi của khách hàng hoặc của các đối tượng khác. Nợ phải thu được trình bày theo giá trị ghi số trừ đi các khoản dự phòng phải thu khó đòi.
+
+Dự phòng nợ phải thu khó đòi được trích lập cho những khoản phải thu đã quá hạn thanh toán từ sáu tháng trở lên hoặc cho các khoản mà tại ngày kết thúc kỳ kế toán Công ty dự kiến không có khả năng thu hồi như đối tượng nợ khó có khả năng thanh toán do bị thanh lý, phá sản hay các khó khăn tương tự.
+
+29

@@ -1,0 +1,37 @@
+này gồm cả các khoản phải trả khi nhập khẩu thông qua người nhận ủy thác (trong giao dịch nhập khẩu ủy thác);
+
+Phải trả khác gồm các khoản phải trả không có tính thương mại, không liên quan đến giao dịch mua, bán, cung cấp hàng hóa dịch vụ.
+
+Các khoản phải trả được theo dõi chi tiết theo từng đối tượng và kỳ hạn phải trả. Nợ phải trả có gốc ngoại tệ được Công ty đánh giá lại theo tỷ giả bán ra của Ngân hàng TMCP xxx (ghi theo chính sách cụ thể của Công ty).
+
+3.12 CHI PHÍ PHẢI TRẢ
+
+3.
+
+Chi phi phải trả của Công ty bao gồm các khoản .... là các chi phí thực tế đã phát sinh trong kỳ báo cáo nhưng chưa chỉ trả do chưa có hóa đơn hoặc chưa đủ hồ sơ, tài liệu kể toán, được ghi nhận vào chi phi sản xuất, kinh doanh của kỳ báo cáo
+
+Việc trích trước vào chi phí sản xuất, kinh doanh trong kỳ được tính toán một cách chặt chẽ và phải có bằng chứng hợp lý, tin cậy về các khoản chi phí phải trích trước trong kỳ, để đảm bảo số chi phi phải trả hạch toán vào tài khoản này phù hợp với số chi phí thực tế phát sinh.
+
+CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP)
+
+3.13 VAY VÀ NỢ THUÊ TÀI CHÍNH
+
+Các khoản vay và nợ thuê tài chính được ghi nhận trên cơ sở các phiếu thu, chứng từ ngân hàng, các khế ước và các hợp đồng vay, nợ thuê tài chính.
+
+314 CHI PHÍ ĐI VAY
+
+Chi phi đi vay bao gồm lãi tiền vay và các chi phí khác phát sinh liên quan trực tiếp đến các khoản vay.
+
+Chi phí đi vay được ghi nhận vào chi phí sản xuất, kinh doanh trong năm khi phát sinh, trừ khi được vốn hoa theo quy định của Chuẩn mực kế toán “Chi phí đi vay”. Theo đó, chi phí đi vay liên quan trực tiếp đến việc mua, đầu tư xây dựng hoặc sản xuất những tài sản cần một thời gian tương đối dài để hoàn thành đưa vào sử dụng hoặc kinh doanh được cộng vào nguyên giá tài sản cho đến khi tài sản đó được đưa vào sử dụng hoặc kinh doanh. Các khoản thu nhập phát sinh từ việc dầu tư tạm thời các khoản vay được ghi giảm nguyên giá tài sản có liên quan. Đối với khoản vay hợp nhất phục vụ việc xây dựng tài sản cố định, bất động sản đầu tư, lãi vay được vốn hóa kể cả khi thời gian xây dựng dưới 12 tháng
+
+Đối với các khoản vốn vay chung trong đó sử dụng cho mục đích đầu tư xây dựng hoặc sản xuất tài sản dở dang thì chỉ phí đi vay vốn hóa được xác định theo tỷ lệ vốn hóa đối với chi phí lũy kế binh quân gia quyền phát sinh cho việc đầu tư xây dựng cơ bản hoặc sản xuất tài sản đó. Tỷ lệ vốn hóa được tĩnh theo tỷ lệ lãi suất bình quân gia quyền của các khoản vay chưa trả trong kỳ, ngoại trừ các khoản vay họp nhất biệt phục vụ cho mục dích hình thành một tài sản cụ thể.
+
+3.15 VỐN CHỦ SỞ HỮU
+
+Vốn góp của chủ sở hữu được ghi nhận theo số vốn thực tế đã góp của các cổ đông thành viên chủ
+
+sở hữu.
+
+Thặng dư vốn cổ phần được ghi nhận theo số chênh lệch giữa giả phát hành và mệnh giá cổ phiếu khi phát hành lần đầu, phát hành bổ sung, chênh lệch giữa giả tái phát hành và giá trị số sách của cổ phiếu quỹ và cấu phần vốn của trái phiếu chuyển đổi khi đảo hạn. Chi phí trực tiếp liên quan đến việc phát hành bổ sung cổ phiếu và tái phát hành cổ phiếu quỹ được ghi giảm thặng dư vốn cổ phần.
+
+31

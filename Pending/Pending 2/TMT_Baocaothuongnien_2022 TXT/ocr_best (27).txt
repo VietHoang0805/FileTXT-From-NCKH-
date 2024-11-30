@@ -1,0 +1,37 @@
+toán giảm giá trị của chính chứng khoán kinh doanh đó. Tiền lãi, cổ tức và lợi nhuận của các kỳ sau khi chứng khoán kinh doanh được mua được ghi nhận doanh thu. Cổ tức được nhận bằng cố phiếu chỉ được theo dõi số lượng cổ phiếu tăng thêm, không ghi nhận giá trị cổ phiếu nhận được (hợp nhất công ty nhà nước thực hiện theo quy định hiện hành của pháp luật, cụ thể: Cổ tức được nhận được ghi nhận vào doanh thu hoạt động tài chính theo mệnh giá).
+
+Cổ phiếu hoán đổi được xác định theo giá trị hợp lý tại ngày trao đổi. Giá trị hợp lý của cổ phiếu được xác định như sau:
+
+Đối với cổ phiếu của công ty niêm yết, giá trị hợp lý của cổ phiếu là giả đóng cửa niêm yết trên thị trường chứng khoán tại ngày trao đổi hoặc ngày gần nhất có giao dịch tính đến thời điểm trao đổi nếu tại ngày trao đổi thị trường chứng khoán không giao dịch.
+
+Đối với cổ phiếu chưa niêm yết được giao dịch trên sản UPCOM, giá trị hợp lý của cổ phiếu là giá giao dịch đóng cửa trên sàn UPCOM tại ngày trao đổi hoặc ngày gần nhất có giao dịch tính đến thời điểm trao đổi nếu tại ngày trao đổi sàn UPCOM không giao dịch.
+
+- Đối với cổ phiếu chưa niêm yết khác, giá trị hợp lý của cổ phiếu là giá do các bên thỏa thuận theo hợp đồng hoặc giá trị số sách tại thời điểm trao đổi.
+
+Dự phòng giảm giá chứng khoán kinh doanh được lập cho từng loại chứng khoản được mua bán trên thị trường và có giá trị hợp lý trên thị trường thấp hơn giá gốc. Giá trị hợp lý của chứng khoản kinh doanh niêm yết trên thị trường chứng khoán hoặc được giao dịch trên sàn UPCOM được xác định theo giá đóng cửa tại ngày gần nhất có giao dịch tinh đền thời điểm khóa số lập báo cáo tài
+
+chính .
+
+Trường hợp chứng khoán kinh doanh chưa niêm yết, chưa đăng ký giao dịch hoặc đã niêm yết trên thị trường mà không có giá giao dịch trong vòng 30 ngày trước ngày trích lập dự phòng hoặc tại ngày trích lập dự phòng, chứng khoán bị hủy niêm yết hoặc bị đinh chỉ giao dịch hoặc bị ngừng giao dịch thì việc xác định mức trích lập dự phòng tương tự như trường hợp đầu tư vào các đơn vị kinh tế khác.
+
+Tăng, giảm số dự phòng giảm giá chứng khoán kinh doanh cần phải trích lập tại ngày khóa số lập báo cáo tài chính được ghi nhận vào chi phí tài chính.
+
+Đầu tư nắm giữ đến ngày đáo hạn
+
+Các khoản đầu tư nắm giữ đến ngày đảo hạn bao gồm các khoản đầu tư mà Công ty có ý định và khả năng nắm giữ đến ngày đáo hạn. Các khoản đầu tư nắm giữ đến ngày đáo hạn bao gồm: các khoản tiền gửi ngân hàng có kỳ hạn (bao gồm cả các loại tin phiếu, kỳ phiếu), trái phiếu, cổ phiếu ưu đãi bên phát hành bắt buộc phải mua lại tại một thời điểm nhất định trong tương lai và các khoản đầu tư nắm giữ đến ngày đảo hạn khác.
+
+Các khoản đầu tư nắm giữ đến ngày đảo hạn được ghi nhận bắt đầu từ ngày mua và được xác định giá trị ban đầu theo giá mua và các chi phí liên quan đến giao dịch mua các khoản đầu tư. Thu nhập lãi từ các khoản đầu tư nắm giữ đến ngày đáo hạn sau ngày mua được ghi nhận trên Báo cáo kết quả hoạt động kinh doanh trên cơ sở dự thu. Lãi được hưởng trước khi Công ty nắm giữ được ghi giảm trừ vào giá gốc tại thời điểm mua
+
+Các khoản đầu tư nắm giữ đến ngày đảo hạn được xác định theo giá gốc trả đi dự phòng phải thu
+
+khó đòi.
+
+Khi có các bằng chứng chắc chắn cho thấy một phần hoặc toàn bộ khoản đầu tư có thể không thu hồi được và số tổn thất được xác định một cách đáng tin cậy thì tổn thất được ghi nhận vào chỉ phi tài chính trong năm/kỳ và giảm trực tiếp giá trị đầu tư.
+
+Các khoản cho vay
+
+Các khoản cho vay được xác định theo giả gốc trừ đi các khoản dự phòng phải thu khó đòi. Dự phòng phải thu khó đòi của các khoản cho vay được lập căn cứ vào dự kiến mức tổn thất có
+
+thể xảy ra.
+
+27

@@ -1,0 +1,53 @@
+V.
+
+Lãi hoặc lỗ chưa thực hiện trong giá trị hàng tồn kho cuối kỳ phải được loại trừ khỏi giá trị hàng tồn kho cuối năm, đồng thời lãi hoặc lỗ chưa thực hiện trong giá trị hàng tồn kho đầu năm cũng phải được loại trừ khỏi giá vốn hàng bán trong năm.
+
+Nếu đến cuối năm kế toán bên mua hàng vẫn chưa trả hết tiền thi khoản mục phải thu của khách hàng và khoản mục phải trả cho người bán trên Bảng cân đối kế toán hợp nhất cũng phải loại trừ số tiền còn nợ giữa các đơn vị trong hệ thống.
+
+Việc loại trừ lài chưa thực hiện trong giá trị hàng tồn kho cuối năm phát sinh từ giao dịch bán hàng giữa các đơn vị trong nội bộ hệ thống sẽ làm cho giá trị ghi sổ của hàng tồn kho cuối năm trong Bảo cáo tài chính hợp nhất nhỏ hơn cơ sở tỉnh thuế của nó. Trường hợp này sẽ phát sinh một khoản chênh lệch tạm thời được khấu trừ theo quy định của Chuẩn mực kế toán “Thuế thu nhập doanh nghiệp". Khoản chênh lệch tạm thời được khấu trừ này sẽ làm phát sinh tài sản thuế thu nhập hoãn lại, đồng thời làm giảm chi phí thuế thu nhập doanh nghiệp hoãn lại trong năm của cả hệ thống. Do đó, kế toán phải phản ánh tài sản thuế thu nhập hoãn lại trong Bảng cân đối kế toán hợp nhất. Loại trả cổ tức công ty mẹ được chia từ lợi nhuận sau ngày mua của công ty con:
+
+Toàn bộ cổ tức được chia từ lợi nhuận sau ngày mua từ các công ty con trong hệ thống phải được loại trừ hoàn toàn trong Báo cáo tài chính hợp nhất. Nếu công ty mẹ chưa nhận được số cổ tức hoặc lợi nhuận được chia này do công ty con chưa chuyển tiền thì khi lập Báo cáo tài chính hợp nhất phải loại trừ số phải thu, phải trả về số cổ tức lợi nhuận được chia đang phản ánh trong khoản mục phải thu khác trong Báo cáo tài chính riêng của công ty mẹ và khoản mục phải trả khác trong Báo cáo tài
+
+chính của các công ty con.
+
+THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRONG BẢNG CÂN ĐỐI
+
+KẾ TOÁN HỢP NHẤT
+
+Đơn vị tính: VND
+
+01. Tiền và các khoản tương đương tiền
+
+Số cuối năm
+
+Số đầu năm
+
+- Tiền mặt
+
+370.355.866
+
+309.845.553
+
+- Tiền gửi ngân hàng không kỳ hạn
+
+38.554.702.699
+
+10.575.091.381
+
+- Tiền đang chuyển
+
+0
+
+- Các khoản tương đương tiền
+
+4.000.000.000
+
+3.620.000.000
+
+Công
+
+42.925.058.565
+
+14.504.936.934
+
+34

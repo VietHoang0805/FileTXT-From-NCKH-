@@ -1,0 +1,119 @@
+STT
+
+CHỈ TIÊU
+
+Mã Thuyết
+
+Năm nay
+
+minh
+
+II. Lưu chuyển tiền từ hoạt động tài
+
+chính
+
+1. Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu
+
+2. Tiền trả lại vốn góp của chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành
+
+Đơn vị tính: VND
+
+Năm trước
+
+31
+
+0
+
+19.459.860.000
+
+32
+
+32
+
+0
+
+3. Tiền thu từ đi vay.
+
+33
+
+2.530.302.053.516
+
+2.453.323.131.102
+
+4.
+
+Tiền trả nợ gốc vay
+
+34
+
+(2.080.095.863.955) (2.386.749.727.095)
+
+5.
+
+Tiền trả nợ gốc thuê tài chính
+
+35
+
+0
+
+6.
+
+Cổ tức, lợi nhuận đã trả cho chủ sở hữu
+
+36
+
+(444.379,400)
+
+Lưu chuyển tiền thuần từ hoạt động 40
+
+449.761.810.161
+
+0
+
+0
+
+86.033.264.007
+
+tài chính
+
+Lưu chuyển tiền thuần trong năm
+
+(50-20+30+40)
+
+Tiền và tương đương tiền đầu năm
+
+50
+
+28.381.155.819
+
+(11.328.282.320)
+
+69
+
+59
+
+60
+
+14.504.936.934
+
+25.832.591.284
+
+Ảnh hưởng của thay đổi tỷ giá hối đoái 61 quy đổi ngoại tệ
+
+38.965.812
+
+627.970
+
+Tiền và tương đương tiền cuối năm
+
+70
+
+42.925.058.565
+
+14.504.936.934
+
+(70=50+60+61)
+
+26
+
+26

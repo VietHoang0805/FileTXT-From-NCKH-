@@ -1,0 +1,205 @@
+Đơn vị tính: VND
+
+Ма
+
+Thuyết
+
+STT
+
+NGUỒN VỐN
+
+Số cuối năm
+
+Số đầu năm
+
+só
+
+minh
+
+D. VỐN CHỦ SỞ HỮU
+
+400
+
+438.824.173.067
+
+429.694.579.634
+
+I. Vốn chủ sở hữu
+
+410
+
+V.20
+
+438.824.173.067 429.694.579.634
+
+1. Vốn góp của chủ sở hữu
+
+411
+
+372.876.800.000 372.876.800.000
+
+- Cổ phiếu phổ thông có quyền biểu
+
+411a
+
+372.876.800.000 372.876.800.000
+
+quyết
+
+- Cổ phiếu ưu đãi
+
+411b
+
+0
+
+2.
+
+Thặng dư vốn cổ phần
+
+412
+
+956.560.833
+
+956.560.833
+
+3. Quyền chọn chuyển đổi trái phiếu
+
+413
+
+0
+
+0
+
+4.
+
+Vốn khác của chủ sở hữu
+
+414
+
+483.226.387
+
+5.
+
+Cổ phiếu quỹ (*)
+
+415
+
+(8.680.989.647)
+
+483.226.387 (8.680.989.647)
+
+6.
+
+Chênh lệch đánh giá lại tài sản
+
+416
+
+0
+
+0
+
+7. Chênh lệch tỷ giá hối đoái
+
+417
+
+0
+
+8.
+
+Quỹ đầu tư phát triển
+
+418
+
+16.935.954.539
+
+15.467.214.755
+
+9. Quỹ hỗ trợ sắp xếp doanh nghiệp
+
+419
+
+0
+
+0
+
+10. Quý khác thuộc vốn chủ sở hữu
+
+11. Lợi nhuận sau thuế chưa phân phối
+
+420
+
+0
+
+0
+
+421
+
+18.075.495.786
+
+12.323.852.956
+
+Lợi nhuận sau thuế chưa phân phối lêy 42 la
+
+9.237.876.876
+
+0
+
+kể đến cuối kỳ trước
+
+Lợi nhuận sau thuế chưa phân phối kỳ này
+
+4216
+
+8.837.618.910
+
+12.323.852.956
+
+12. Nguồn vốn đầu tư xây dựng cơ bản
+
+13. Lợi ích của số đông không kiểm soát
+
+422 429
+
+0
+
+0
+
+38.177.125.170
+
+36.267.914.350
+
+II. Nguồn kinh phí và quỹ khác
+
+430
+
+1.
+
+Nguồn kinh phí
+
+431
+
+2.
+
+Nguồn kinh phủ đã hình thành TSCĐ
+
+432
+
+TỔNG CỘNG NGUỒN VỐN
+
+440
+
+2.724.667.192.346
+
+23
+
+0
+
+0
+
+0
+
+0
+
+0
+
+2.021.897.379.205

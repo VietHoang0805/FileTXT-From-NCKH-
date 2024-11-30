@@ -1,0 +1,47 @@
+3.5
+
+t
+
+3.6
+
+3.7
+
+CÁC KHOẢN PHẢI THU
+
+Các khoản nợ phải thu được trình bày theo giá trị ghi số trừ đi các khoản dự phòng phải thu khó
+
+doi.
+
+Việc phân loại các khoản phải thu được thực hiện theo nguyên tắc sau:
+
+Phải thu của khách hàng phản ánh các khoản phải thu mang tính chất thương mại phát sinh từ giao dịch có tính chất mua - bán giữa Công ty và người mua là đơn vị độc lập với Công ty, bao gồm cả các khoản phải thu về tiễn bản hàng xuất khẩu ủy thác cho đơn vị khác.
+
+Phải thu khác phản ánh các khoản phải thu không có tính thương mại, không liên quan đến giao dịch mua - bán.
+
+Dự phòng nợ phải thu khó đòi được Công ty trích lập đối với các khoản nợ phải thu đã quá hạn thanh toán ghi trong hợp đồng kinh tế, bản cam kết hợp đồng hoặc cam kết nợ, doanh nghiệp đã đòi nhiều lần nhưng vẫn chưa thu hồi được, việc xác định thời gian quá hạn của khoản nợ phải thu được xác định căn cứ vào thời gian trả nợ gốc theo hợp đồng mua, bán ban đầu, không tính đến việc gia hạn nợ giữa các bên; hoặc đối với các khoản nợ phải thu chưa đến hạn thanh toán nhưng khách nợ đã lâm vào trình trạng phá sản hoặc đang làm thủ tục giải thể, mất tích, bỏ trốn và được hoàn nhập khi thu hồi được nợ.
+
+Sự tăng hoặc giảm khoản dự phòng phải thu khó đòi tại ngày khóa số lập báo cáo tài chính được hạch toán vào chi phí quản lý doanh nghiệp.
+
+HÀNG TỒN KHO
+
+Hàng tồn kho được xác định trên cơ sở giả thấp hơn giữa giá gốc và giá trị thuẫn có thể thực hiện được.
+
+Giả gốc của hàng tồn kho bao gồm các khoản chi phí để có được hàng tồn kho ở địa điểm và trọng thái hiện tại, bao gồm: Giả mua, các loại thuể không được hoàn lại, chi phí vận chuyển, bốc xếp, bảo quản trong quá trình mua hàng, hao hụt định mức, và các chi phí khác có liên quan trực tiếp đến việc mua hàng tồn kho.
+
+Giá trị thuẫn có thể thực hiện được là giá bản ước tính của hàng tồn kho trong kỳ sản xuất, kinh doanh binh thưởng trừ chi phí ước tính để hoàn thành và chi phí ước tính cần thiết cho việc tiêu
+
+thụ chúng.
+
+Công ty áp dụng phương pháp kê khai thường xuyên để hạch toán hàng tồn kho. Giá xuất của hàng tồn kho được tính theo phương pháp binh quân gia quyền sau từng lẫn nhập. Giá xuất của nguyên vật liệu được tinh theo phương pháp nhập trước - xuất trước, giả xuất của hàng hóa được tính theo phương pháp binh quân gia quyền, giá xuất của hàng hóa miễn thuế được tính theo phương pháp giá thực tế đích danh.
+
+Phương pháp lập dự phòng giảm giá hàng tồn kho: Dự phòng giảm giá hàng tồn kho được lập cho từng mặt hàng tồn kho có sự suy giảm giá trị (giá gốc lớn hơn giá trị thuần có thể thực hiện được). Đối với dịch vụ cung cấp đa dang, việc lập dự phòng giảm giả được tính theo từng loại dịch vụ có mức giả hợp nhất biết. Đối với hàng tồn kho là bất động sản, dự phòng giảm giá hàng tồn kho được trích lập cho phần giá trị dự kiến bị tổn thất do các khoản suy giảm trong giá trị (do giảm giả, kém phẩm chất, lỗi thời... có thể xảy ra. Tăng, giảm số dư dự phòng giảm giá hàng tồn kho cần phải trích lập tại ngày khóa số lập báo cáo tài chính được ghi nhận vào giá vốn hàng bán trong
+
+năm.
+
+TÀI SẢN CÓ ĐỊNH HỮU HÌNH
+
+Tài sản cố định hữu hình được ghi nhận theo nguyên giả, được phản ảnh trên Bảng cân đối kế toán hợp nhất theo các chỉ tiêu nguyên giá, hao mòn luỹ kế và giá trị còn lại.
+
+Việc ghi nhận Tài sản cố định hữu hình và khấu hao tài sản cố định thực hiện theo Chuẩn mực kế
+
+28

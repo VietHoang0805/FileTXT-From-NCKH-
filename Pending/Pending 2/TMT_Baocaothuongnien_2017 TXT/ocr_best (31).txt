@@ -1,0 +1,63 @@
+06. Nguyên tắc ghi nhận hàng tồn kho
+
+Hàng tồn kho được ghi nhận theo giá gốc. Trường hợp giá trị thuần có thể thực hiện được thấp hơn giả gốc thì phải tính theo giá trị thuần có thể thực hiện được. Giả gốc hàng tồn kho bao gồm chi phí mua, chỉ phi chế biến và các chi phí liên quan trực tiếp khác phát sinh để có được hàng tồn kho ở địa điểm và trạng thái hiện tại. Giá trị thuần có thể thực hiện được được xác định bằng giá bán ước tính trừ các chi phí ước tính để hoàn thành sản phẩm cùng chi phi tiếp thị, bán hàng và phân phối phát sinh.
+
+Giá trị hàng tồn kho được xác định theo phương pháp binh quân gia quyền.
+
+Hàng tồn kho được hạch toán theo phương pháp kê khai thường xuyên.
+
+Dự phòng giảm giả hàng tồn kho được lập vào thời điểm cuối năm căn cứ theo số chênh lệch giữa giá gốc của hàng tồn kho lớn hơn giá trị thuần có thể thực hiện được.
+
+07. Nguyên tắc ghi nhận và khấu hao tài sản cố định
+
+Nguyên tắc ghi nhận TSCĐ hữu hình, TSCĐ vô hình
+
+Tài sản cố định hữu hình, vô hình được ghi nhận theo giá gốc. Trong quá trình sử dụng, tài sản cố định hữu hình, tài sản cố định vô hình được ghi nhận theo nguyên giá, giá trị hao mòn luỹ kế và giá trị còn lại.
+
+Phương pháp khấu hao TSCĐ hữu hình, TSCĐ vô hình
+
+Tài sản cố định được khấu hao theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tinh. Cụ thể như sau:
+
+- Nhà cửa, vật kiến trúc
+
+- Máy móc, thiết bị
+
+- Phương tiện vận tải, truyền dẫn
+
+- Thiết bị, dụng cụ quản lý
+
+- TSCĐ hữu hình khác
+
+- Phần mềm máy tính
+
+Riêng quyền sử dụng đất lâu dài không tỉnh khẩu hao.
+
+08. Nguyên tắc ghi nhận và khấu hao bất động sản đầu tư
+
+Nguyên giả
+
+05 - 27 năm
+
+03 . 07 năm
+
+Đ6 năm 03 - 05 năm
+
+03 - 08 năm
+
+03 năm
+
+Bất động sản đầu tư được ghi nhận theo giả gốc. Trong quá trình nắm giữ chờ tăng giả, hoặc cho thuê hoạt động, bất động sản đầu tư được ghi nhận theo nguyên giá, giá trị hao mòn luỷ kế và giá trị còn lại. Các chi phí phát sinh sau khi đưa bất động sản đầu tư vào sử dụng được ghi nhận vào bảo cáo kết quả hoạt động kinh doanh trong năm mà các chi phí này phát sinh. Trong các trường hợp cổ thể chứng minh một cách rõ ràng rằng các khoản chi phí này làm lợi ích kinh tế trong tương lai dự tính thu được từ việc sử dụng bất động sản đầu tư vượt mức hoạt động tiêu chuẩn được đánh giá ban đầu thì các khoản chi phí này được ghi tăng nguyên giá bất động sản đầu tư.
+
+Khấu hao
+
+Khấu hao được tính theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính của bất động sản đầu tư. Thời gian hữu dụng ước tính như sau:
+
+- Nhà cửa
+
+09. Nguyên tắc ghi nhận chi phí trả trước
+
+04 - 15 năm
+
+Các chi phí đã phát sinh liên quan đến kết quả hoạt động sản xuất kinh doanh của nhiều kỳ kế toán được hạch toán vào chi phí trả trước để phân bổ dần vào kết quả hoạt động kinh doanh hợp nhất trong các kỳ kế toán sau.
+
+30

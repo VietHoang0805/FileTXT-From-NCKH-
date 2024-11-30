@@ -1,0 +1,37 @@
+Việc tỉnh và phân bổ chi phí trả trước dài hạn vào chi phí sản xuất kinh doanh từng kỳ kế toán được căn cứ vào tính chất, mức độ từng loại chi phi để lựa chọn phương pháp và tiêu thức phân bố hợp lý. Chi phi trả trước được phân bổ dần vào chi phí sản xuất kinh doanh theo phương pháp đường thẳng
+
+10. Nguyên tắc ghi nhận nợ phải trả và chi phí phải trả
+
+Các khoản nợ phải trả và chi phi phải trả được ghi nhận cho số tiền phải trả trong tương lai liên quan đến hàng hóa và dịch vụ đã nhận được. Chi phí phải trả được ghi nhận dựa trên các ước tính hợp lý về số tiền phải trả.
+
+Việc phân loại các khoản nợ phải trả là phải trả người bán, chi phí phải trả và phải trả khác được thực hiện theo nguyên tắc sau:
+
+Phải trả người bản phản ảnh các khoản phải trả mang tính chất thương mại phát sinh từ giao dịch mua hàng hóa, dịch vụ, tài sản và người bán là đơn vị độc lập với Công ty, bao gồm cả các khoản phải trả khi nhập khẩu thông qua người nhận ủy thác.
+
+Chi phí phải trả phản ảnh các khoản phải trả cho hàng hóa, dịch vụ đã nhận được từ người bán hoặc đã cung cấp cho người mua nhưng chưa chỉ trả do chưa có hóa đơn hoặc chưa đủ hồ sơ, tài liệu kế toán và các khoản phải trả cho người lao động về tiền lương nghỉ phép, các khoản chỉ phi sản xuất, kinh doanh phải trích trước.
+
+Phải trả khác phản ánh các khoản phải trả không có tính thương mại, không liên quan đến giao dịch mua, bán, cung cấp hàng hóa dịch vụ.
+
+11. Nguyên tắc ghi nhận vay và nợ phải trả thuê tài chính
+
+Các khoản vay được theo dõi theo từng đối tượng cho vay, từng khế ước vay nợ và kỳ hạn phải trả của các khoản vay. Trường hợp vay, nợ bằng ngoại tệ thì thực hiện theo dõi chi tiết theo nguyên tệ.
+
+12. Nguyên tắc ghi nhận và vốn hóa các khoản chi phí đi vay
+
+Chi phi đi vay được ghi nhận vào chi phí sản xuất kinh doanh trong năm khi phát sinh, trừ chi phí đi vay liên quan trực tiếp đến việc đầu tư xây dựng hoặc sản xuất tài sản dở dang được tính vào giá trị của tài sản đó (được vốn hoá) khi có đủ các điều kiện quy định trong Chuẩn mực Kế toán Việt Nam số 16 “Chi phí đi vay”. Ngoài ra, đối với khoản vay riêng phục vụ việc xây dựng tài sản cố định, bắt động sản đầu tư, lãi vay được vốn hóa kể cả khi thời gian xây dựng dưới 12 tháng
+
+13. Nguyên tắc ghi nhận vốn chủ sở hữu
+
+Vốn góp của chủ sở hữu được ghi nhận theo số vốn thực góp của chủ sở hữu.
+
+Thặng dư vốn cổ phần được ghi nhận theo số chênh lệch lớn hơn hoặc nhỏ hơn giữa giả thực tế phát hành và mệnh giá cổ phiếu khi phát hành cổ phiếu lần đầu, phát hành bổ sung hoặc tái phát hành cổ phiếu quỹ.
+
+Vốn khác của chủ sở hữu được ghi theo giá trị còn lại giữa giá trị hợp lý của các tài sản mà doanh nghiệp được các tổ chức, cá nhân khác tặng, biểu sau khi trừ (-) các khoản thuế phải nộp (nếu có) liên quan đến các tài sản được tặng, biểu này và khoản bổ sung từ kết quả hoạt động kinh doanh hợp nhất.
+
+Cổ phiếu quỹ là cổ phiếu do Công ty phát hành và sau đó mua lại. Cổ phiếu quỹ được ghi nhận theo giá trị thực tế và trình bày trên Bảng cân đối kế toán hợp nhất là một khoản ghi giảm vốn chủ sở
+
+hữu.
+
+Lợi nhuận sau thuế chưa phân phối phản ánh kết quả kinh doanh (lãi, lỗ) sau thuế thu nhập doanh nghiệp và tình hình phân chia lợi nhuận hoặc xử lý lỗ của Công ty. Việc phân phổi lợi nhuận được thực hiện khi Công ty có lợi nhuận sau thuế chưa phân phối không vượt quá mức lợi nhuận sau thuế chưa phân phối trên Báo cáo tài chính hợp nhất sau khi đã loại trừ ảnh hưởng của các khoản lại do ghi nhận từ giao dịch mua giá rẻ. Trường hợp trả cổ tức, lợi nhuận cho chủ sở hữu quá mức số lợi nhuận sau thuế chưa phân phối được ghi nhận như trường hợp giảm vốn góp. Lợi nhuận sau thuế
+
+31

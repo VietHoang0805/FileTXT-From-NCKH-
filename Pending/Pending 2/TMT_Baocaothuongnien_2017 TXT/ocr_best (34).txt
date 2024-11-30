@@ -1,0 +1,49 @@
+Các khoản chiết khấu thương mại, giảm giá hàng bán, hàng bán bị trả lại phát sinh cùng kỳ tiêu thụ sản phẩm, hàng hóa dịch vụ được điều chỉnh giảm doanh thu của kỳ phát sinh. Trường hợp sản phẩm, hàng hoá, dịch vụ đã tiêu thụ từ các kỳ trước, đến kỳ sau mới phát sinh các khoản giảm trừ doanh thu thì được ghi giảm doanh thu theo nguyên tắc: nếu phát sinh trước thời điểm phát hành Báo cáo tài chính hợp nhất thì ghi giảm doanh thu trên Báo cáo tài chính hợp nhất của kỷ lập báo cáo (kỳ trước), và nếu phát sinh sau thời điểm phát hành Báo cáo tài chính hợp nhất thì ghi giảm doanh thu của kỳ phát sinh (kỷ sau).
+
+16. Nguyên tắc ghi nhận giá vốn hàng bán
+
+Giả vốn hàng bán phản ánh trị giá vốn của sản phẩm, hàng hóa; giá thành sản xuất của sản phẩm xây lắp bán trong năm.
+
+Giá vốn hàng bán được ghi nhận phù hợp với doanh thu đã phát sinh bao gồm cả việc trích trước chỉ phi vào giá vốn hàng bán.
+
+17. Nguyên tắc và phương pháp ghi nhận chi phí tài chính
+
+Các khoản chi phi được ghi nhận vào chi phí tài chính gồm:
+
+- Chi phí đi vay vốn;
+
+- Chiết khấu thanh toán cho người mua, lãi mua hàng trả chậm;
+
+- Các khoản lỗ do thay đổi tỷ giá hối đoái của các nghiệp vụ phát sinh liên quan đến ngoại tệ:
+
+- Dự phòng giảm giá đầu tư chứng khoán;
+
+- Các chi phí khác.
+
+Các khoản trên được ghi nhận theo tổng số phát sinh trong năm, không bù trừ với doanh thu hoạt động tài chính.
+
+18. Nguyên tắc và phương pháp ghi nhận chi phí thuế thu nhập doanh nghiệp (TNDN) hiện hành và chi phí thuế thu nhập doanh nghiệp hoãn lại
+
+Chi phí thuế thu nhập doanh nghiệp hiện hành được xác định trên cơ sở thu nhập chịu thuế và thuế suất thuế TNDN trong năm hiện hành.
+
+Chi phi thuế thu nhập doanh nghiệp hoãn lại được xác định trên cơ sở số chênh lệch tạm thời được khấu trừ, số chênh lệch tạm thời chịu thuế và thuế suất thuế TNDN.
+
+19. Các nguyên tắc và phương pháp lập Báo cáo tài chính hợp nhất Phương pháp ghi nhận lợi ích cổ đông không kiểm soát:
+
+Trong Bảng cân đối kế toán hợp nhất, lợi ích cổ đông không kiểm soát trong giá trị hợp lý của tài sản thuần của các Công ty con được xác định và trình bày thành một chi tiêu riêng biệt thuộc phần
+
+vốn chủ sở hữu.
+
+Các khoản lỗ phát sinh tại công ty con phải được phân bổ tương ứng với phần sở hữu của cổ đông không kiểm soát, kể cả trường hợp số lỗ đó lớn hơn phần sở hữu của cổ đông không kiểm soát trong tài sản thuần của công ty con.
+
+Trên Báo cáo kết quả hoạt động kinh doanh hợp nhất, lợi ích cổ đông không kiểm soát được xác định căn cứ vào tỷ lệ lợi ích cổ đông không kiểm soát và lợi nhuận sau thuế thu nhập doanh nghiệp
+
+của các công ty con.
+
+Phương pháp loại tri các giao dịch nội bộ:
+
+Loại trừ ảnh hưởng của giao dịch bán hàng tồn khỏi
+
+Doanh thu và giả vốn của hàng tiêu thụ trong nội bộ hệ thống phải được loại trừ toàn bộ Các khoản lãi, lỗ chưa thực hiện từ các giao dịch bán hàng đang phản ánh trong giá trị của hàng tồn kho cũng phải được loại trừ hoàn toàn.
+
+33
