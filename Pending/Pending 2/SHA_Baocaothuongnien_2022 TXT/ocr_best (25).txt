@@ -1,0 +1,311 @@
+SONHA
+
+QUỐC GIA
+
+CÔNG TY CỔ PHẦN SƠN HÀ SÀI GÒN Báo cáo thường niên năm 2022. Thông số quan trắc nước thải
+
+STT
+
+Loại mẫu
+
+Ký hiệu
+
+Thông số
+
+Toa do lay mau
+
+X
+
+Y
+
+1
+
+Nước thải
+
+NT
+
+pH, TSS, COD, BODs, Tổng N, Tổng P, Coliform
+
+594811,5
+
+1203503,1
+
+Phương pháp lấy mẫu và phân tích:
+
+Phương pháp lấy mẫu và phân tích nước thải
+
+Giới hạn phát hiện
+
+Don vi
+
+(MDL) /Phạm vi đo
+
+STT
+
+Chi tiêu
+
+Lấy và bảo quản mẫu
+
+1
+
+pH
+
+2+12,5
+
+2
+
+TSS
+
+mg/L
+
+5,0
+
+3
+
+COD
+
+mg/L
+
+2,0
+
+4
+
+BODS
+
+mg/L
+
+1,0
+
+5
+
+Tổng N
+
+mg/L
+
+1,56
+
+6
+
+Tổng P
+
+mp/L
+
+0,017
+
+7
+
+Coliform
+
+MPN/ 100mL
+
+2
+
+Phương pháp phân tích
+
+TCVN 6663-1:2011 TCVN 5999:1995 TCVN6663-3:2016
+
+TCVN 6492:2011 SMEWW 2540.D: 2017 SMEWW 5220.C: 2017
+
+TCVN 6001-1:2008
+
+TCVN 6638:2000 TCVN 6202:2008
+
+TCVN 6187-2:1996
+
+Nhận xét, đánh giá kết quả quan trắc:
+
+TT
+
+Tên diễm
+
+Thời gian quan trắc
+
+Kết quả đợt 1
+
+Kết quả đợt 2
+
+Chi tiêu
+
+Don vi
+
+Không
+
+Dat
+
+Dat
+
+Không đạt
+
+dat
+
+QCVN 40:2011/BT NMT Cot B
+
+521
+
+ANG
+
+pH
+
+6,72
+
+6,77
+
+5,5-9
+
+TSS
+
+mg/L
+
+28
+
+22
+
+100
+
+·TE
+
+Dot 1:
+
+BOD
+
+mg/L.
+
+56
+
+13,81
+
+150
+
+8/6/2022
+
+COD
+
+mg/L.
+
+25
+
+60,9
+
+50
+
+01 NT
+
+Dot 2:
+
+Tong N
+
+mg/L
+
+8,14
+
+10,4
+
+40
+
+27/12/2022
+
+Tổng P
+
+mg/L
+
+2,16
+
+5,19
+
+6
+
+MPN/
+
+Coliform
+
+2.000
+
+3.100
+
+5.000
+
+100mL
+
+Kết luận: Qua kết quả đo dục, phân tích mẫu nước thải tại hố ga trước khi đấu nối với KCN tất cả các chỉ tiêu đều nằm trong giới hạn tiếp nhận nước thải của QCVN 40:2011/BTNMT CỘT B
+
+Đánh giá kết quả quan trắc, Kết quả quan trắc vi khí hậu, tiếng ổn, không khi xung quanh, năng lượng.
+
+QCVN
+
+Kết quả Đợt 1
+
+Kết quả Đợt 2.
+
+Thời gian
+
+quan trắc.
+
+Tên điểm
+
+Chi tiêu
+
+Don vi
+
+Không
+
+Không
+
+Dat
+
+Dat
+
+dat
+
+dat
+
+|QCVN 05.06.201 26:2010/ |BTNMT BTNMT
+
+3/
+
+Dot 1:
+
+Tiếng ồn
+
+dBA
+
+58
+
+58
+
+70
+
+08/06/2022 | Khu vực
+
+Bui
+
+mg/m3
+
+0,12
+
+0,253
+
+0,3
+
+Đợt 2:
+
+27/12/2022
+
+Công ty
+
+CO
+
+mg/m3
+
+1,75
+
+KPH
+
+SO
+
+mg/m3 0,045
+
+0,041
+
+30 0,35
+
+26

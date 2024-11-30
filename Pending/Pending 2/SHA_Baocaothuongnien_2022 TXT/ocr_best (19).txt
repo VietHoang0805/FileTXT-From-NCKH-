@@ -1,0 +1,277 @@
+SONHA
+
+6.1. Tác động lên môi trường:
+
+CÔNG TY CỔ PHẦN SƠN HÀ SÀI GÒN
+
+Báo cáo thường niên năm 2022
+
+Tổng phát thải khí nhà kính (GHG) trực tiếp và gián tiếp,
+
+Ý Định kỳ hàng năm, Công ty thực hiện đánh giá tác động môi trường 2 lần/ năm, các chi tiêu và kết quả thực hiện các chỉ tiêu về khí thải nhà kính Công ty điều thực hiện đúng theo quy định.
+
+Loại mẫu
+
+Thông số, tọa độ quan trắc không khí
+
+Thông số
+
+Tiếng ổn, nhiệt độ, độ ẩm, tốc độ
+
+Toa do lay mẫu
+
+X
+
+Y
+
+Vi khí hậu, tiếng ồn
+
+gió, ánh sáng, VOCs
+
+Chất lượng không khí
+
+Bui, CO, SO2, NO, VOCs
+
+Phương pháp lấy mẫu và phân tích không khí
+
+Tiếng ổn
+
+Nhiệt độ Độ ẩm
+
+Vận tốc gió Ánh sáng
+
+Tong bui lo lung (TSP)
+
+STT
+
+Chi tiêu
+
+01
+
+02
+
+03
+
+04
+
+05
+
+06
+
+07
+
+08
+
+09
+
+10
+
+CO
+
+SO2
+
+NO2
+
+VOCs
+
+Giới hạn phát hiện (MDL) /Pham vi do
+
+30+120 dBA
+
+0+50 °C 0+100%RH
+
+0,6+40 m/s
+
+0:400.000 Lux
+
+Phương pháp phân tích
+
+TCVN 7878-2: 2018 QCVN 46: 2012/BTNMT
+
+QCVN 46: 2012/BTNMT
+
+QCVN 46: 2012/BTNMT Máy đo ánh sáng TES 1335
+
+TCVN 5067:1995.
+
+SOP K01-PT
+
+0,010 mg/m3
+
+0,044 mg/m
+
+0,0085 mg/m3
+
+TCVN 5971: 1995
+
+0,0046 mg/m3
+
+0,005 mg/m3
+
+TCVN 6137:2009. NIOSH Method 1501
+
+Kết quả quan trắc vi khí hậu, tiếng ồn, không khí khu vực sản xuất
+
+Thời gian
+
+Kết quả Đợt 1
+
+Kết quả Đợt 2
+
+QCVN
+
+QCVN
+
+quan trắc
+
+Chi tiêu
+
+Đơn vị
+
+Không
+
+Không
+
+24,26:2016/ 02,03/2019/
+
+Dat
+
+Dat
+
+BYT
+
+BYT
+
+dat
+
+dat
+
+Tiếng ồn
+
+dBA
+
+77
+
+83
+
+<85
+
+Nhiệt độ
+
+°C
+
+31,6
+
+30
+
+18-32
+
+Do ȧm
+
+%
+
+68,2
+
+60
+
+40-48
+
+Dot 1:
+
+Tốc độ gió.
+
+m/s
+
+0,6
+
+0,34
+
+0,2-1,5
+
+08/06/2022
+
+Ánh sáng
+
+Lux
+
+660
+
+≥300
+
+Dot 2:
+
+Bui
+
+mg/m
+
+0,48
+
+0,76
+
+3,125
+
+27/12/2022
+
+CO
+
+mg/m
+
+3,34
+
+KPH
+
+15,625
+
+SO
+
+mg/m 0,076
+
+0,08
+
+3,90625
+
+NO2
+
+mg/m
+
+0,041
+
+0,04
+
+3,90625
+
+VOCS
+
+mg/m3
+
+6,72
+
+5,42
+
+78,125
+
+Các sáng kiến và biện pháp giảm thiểu phát thải khí nhà kính.
+
++ Trong năm 2022 Công ty chưa có các sáng kiến và biện pháp giảm thiểu phát thải khí nhà kính
+
+6.2. Quản lý nguồn nguyên vật liệu:
+
+a) Tổng lượng nguyên vật liệu được sử dụng để sản xuất và đóng gói các sản phẩm và dịch vụ chính của tổ chức
+
+trong năm.
+
+Khối lượng sản phẩm của năm 2021 và năm 2022 được thể hiện theo bảng sau:
+
+STT
+
+Tên sản phẩm
+
+Đơn vị
+
+Khối lượng năm
+
+Khối lượng năm 2022
+
+2021
+
+20
