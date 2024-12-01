@@ -1,0 +1,135 @@
+4
+
+Than
+
+Công
+
+tán
+
+tin
+
+48.042,5 270.049,96
+
+b. Tỷ lệ % nguyên vật liệu được tái chế được sử dụng để sản xuất sản phẩm và dịch vụ chính của Công ty trong năm 2023: Đóng bánh quặng mịn được 49.830 tấn, triệt tiêu hoàn toàn chất thải rắn. Đưa vào sử dụng 44.346,31 tấn, chiếm 16,42% tổng lượng nguyên liệu đưa vào sản xuất.
+
+6.3. Tiêu thụ năng lượng trong năm 2023:
+
+a. Năng lượng tiêu thụ trực tiếp và gián tiếp:
+
+- Các loại nhiên liệu tiêu thụ:
+
+287,95
+
+Mục đích sử dụng
+
+Sản xuất phân lân nung chảy
+
+Sử dụng để chạy các phương tiện vận tải. các máy phục vụ, máy phát điện
+
+TT
+
+Loại nhiên liệu
+
+DV
+
+Khối lượng
+
+1
+
+Than
+
+tán
+
+48.042,5
+
+2
+
+Dầu diezel
+
+lit
+
+3
+
+Xang
+
+lit
+
+6,44
+
+Sử dụng để chạy ô tô
+
+4
+
+Khi đốt (gae)
+
+kg
+
+6,15
+
+Điện năng tiêu thụ:
+
+Sử dụng để hàn, cắt kim loại, nấu ăn
+
+Đơn giá (đồng)
+
+9.823.000
+
+Cao điểm: 3.314
+
+TT
+
+1
+
+Nội dung
+
+Điện
+
+Đơn vị kWh
+
+2
+
+Giả điện (ghi rõ 3 giả)
+
+đồng/kWh
+
+Thấp điểm: 1.184
+
+Trung bình: 1.809
+
+3
+
+Chi phí điện
+
+đồng
+
+19.329.265.850
+
+b. Năng lượng tiết kiệm được thông qua các sáng kiến sử dụng năng lượng hiệu quả: Các giải pháp tiết kiệm năng lượng đã thực hiện:
+
+TT
+
+Bộ phận
+
+1
+
+2
+
+Khu vực văn phòng, các đơn Vì sản xuất.
+
+Các dây chuyền sản xuất
+
+Giải pháp sử dụng năng lượng tiết kiệm, hiệu quả Kết quả thực hiện
+
+Nội dung giải pháp
+
+Giải pháp thay thế Bóng đèn compac . Đã thay 50 bóng đèn LED 50W hỏng bằng bóng LED 30W, 30W. Mức tiết kiệm điện 10 duy trì việc sửa chữa, thay thế loại kWh/ngày, Tiết kiệm chi phi bóng đèn tiết kiệm điện | 7,0 Tr. đồng/năm
+
+Tăng cường công tác quản lý, tổ
+
+chức sản xuất hợp lý; thay đổi công Tiết kiệm năng lượng điện suất một số động cơ, thiết bị có công 2,05 kWh/tấn SP (so với suất phù hợp với tính năng, thay đổi định mức), tương đương 890 kết cấu giảm tốc, giảm tổn thất điện triệu đồng/năm.
+
+năng do chạy non tải
+
+12
+
+M

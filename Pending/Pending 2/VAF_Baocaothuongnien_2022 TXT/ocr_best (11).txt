@@ -1,0 +1,139 @@
+- Lắp các tụ bù cosp gần phụ tải để nâng hệ số công suất, giảm tổn thất đường dây, tiết kiệm điện
+
+6.2. Quản lý nguồn nguyên vật liệu:
+
+a. Tổng lượng nguyên vật liệu được sử dụng để sản xuất và đóng gói các sản phẩm và dịch
+
+vụ chính của Công ty trong năm:
+
+TT 1
+
+Loại nguyên liệu
+
+DV
+
+Tiêu thụ năm 2022
+
+Quặng Apatit
+
+tán
+
+131.366,76
+
+2
+
+Quặng sà vẫn
+
+tán
+
+62.623,32
+
+3
+
+Quặng sa thạch
+
+tán
+
+16.420,11
+
+4
+
+Than
+
+tán
+
+44.345,87
+
+Công
+
+tán
+
+254.756,06
+
+b. Tỷ lệ % nguyên vật liệu được tái chế được sử dụng để sản xuất sản phẩm và dịch vụ chính của Công ty trong năm 2022: Đóng bánh quặng mịn được 52.680 tấn, triệt tiêu hoàn toàn chất thải rắn. Đưa vào sử dụng 39.042,38 tấn, chiếm 18,55% tổng lượng nguyên liệu đưa vào sản xuất.
+
+6.3. Tiêu thụ năng lượng trong năm 2022:
+
+a. Năng lượng tiêu thụ trực tiếp và gián tiếp: - Các loại nhiên liệu tiêu thụ:
+
+TT
+
+Loại nhiên liệu
+
+DV
+
+Khối lượng
+
+Mục đích sử dụng
+
+1
+
+Than
+
+tán
+
+2
+
+Dầu diezel
+
+1000 lit
+
+3
+
+Xăng
+
+1000 lit
+
+4
+
+Khí đốt (gaz)
+
+tán
+
+- Điện năng tiêu thụ
+
+TT
+
+Nội dung
+
+1
+
+Điện
+
+Don vi kWh
+
+44.345,87 | Sản xuất phân lân nung chảy
+
+252,45
+
+Sử dụng để chạy các phương tiện vận tải, các máy phục vụ, máy phát điện 4,56 | Sử dụng để chạy ô tô
+
+5,08 | Sử dụng để cắt kim loại, nấu ăn
+
+Đơn giá (đồng)
+
+9.189.000
+
+Cao điểm: 3.076
+
+2
+
+Giá điện (ghi rõ 3 giá)
+
+đồng/kWh
+
+Thấp điểm: 1.100
+
+Trung bình: 1.685
+
+3
+
+Chi phí điện
+
+dồng
+
+17.945.943.000
+
+b. Năng lượng tiết kiệm được thông qua các sáng kiến sử dụng năng lượng hiệu quả: Các giải pháp tiết kiệm năng lượng đã thực hiện:
+
+11
