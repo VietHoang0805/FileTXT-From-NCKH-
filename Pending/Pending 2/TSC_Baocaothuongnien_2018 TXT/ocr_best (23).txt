@@ -1,0 +1,159 @@
+STT
+
+Tên tổ chức cá nhân
+
+Mối Quan hệ với thành viên chủ chốt
+
+1
+
+| Lương Thị Sen
+
+Mẹ ruột
+
+Số cổ phiếu sở hữu (cổ phiếu)
+
+0
+
+2
+
+Trần Thị Lan Hương
+
+Vo
+
+3
+
+Phan Hà Chi
+
+Con
+
+4
+
+Phan Trần Minh Khôi
+
+Con
+
+in
+
+5
+
+Phan Thị Lan
+
+Chị ruột
+
+60
+
+Phan Thị Soa
+
+Chị ruột
+
+0
+
+0
+
+0
+
+0
+
+0
+
+7
+
+Công ty CP Tập đoàn F.I.T
+
+Thành viên HĐQT
+
+83.700.523 (56,69%)
+
+8
+
+Công ty CP Chế biến Thực phẩm Xuất khẩu Miền Tây Công ty CP Westfood Hậu
+
+Thành viên HĐQT
+
+0
+
+9
+
+Thành viên HĐQT
+
+0
+
+Giang
+
+10
+
+Công ty CP Hạt giống TSC
+
+Thành viên HĐQT
+
+0
+
+Công ty CP Giống Cây trồng
+
+Giám đốc kiêm Thành
+
+11
+
+0
+
+Nông Tin
+
+viên HĐQT
+
+Công ty Cổ phần FIT
+
+12
+
+Chủ tịch HĐQT
+
+0
+
+Cosmetics
+
+Thành viên HĐQT:
+
+Họ và tên
+
+Giới tính
+
+Ngày tháng năm sinh Nơi sinh CMND
+
+Quốc tịch
+
+Dân tộc
+
+Địa chỉ thường trú
+
+Số điện thoại Dja chi email
+
+Trình độ chuyên môn Quá trình công tác 1994-1996 1996-2000
+
+2000-2002
+
+24
+
+: Lê Xuân Vũ
+
+: Nam
+
+: 11/04/1973
+
+: Hà Nội
+
+: 001073006719
+
+: Việt nam
+
+: Kinh
+
+: 1102, CTI, Skylight, Ngõ Hòa Bình 6, 125D Minh Khai, Hà nội
+
+: 0904389535
+
+:vu.lx@fitgroup.com.vn
+
+: Kế toán
+
+Coca-Cola Ngọc Hồi :Sakura Hà nội Plaza
+
+:Opera Business Centre
