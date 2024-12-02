@@ -1,0 +1,71 @@
+- Tỷ lệ nợ khó đòi/Tổng dư nợ (Bad debt/Total debt Ratio)
+
+3. Khả năng thanh khoản/ Solvency
+
+- Khả năng thanh toán ngay/Short term solvency
+
+- Khả năng thanh toán chung/ General solvency
+
+5. Cơ cấu cổ đông, thay đổi vốn đầu tư của chủ sở hữu/ Shareholders structure, change in the owner's equity.
+
+a) Cổ phẩn/Shares: Nêu tổng số cổ phần và loại cổ phần đang lưu hành, số lượng cổ phần chuyển nhượng tự do và số lượng cổ phần bị hạn chế chuyển nhượng theo quy định pháp luật, Điều lệ công ty hay cam kết của người sở hữu. Trường hợp công ty có chứng khoán giao dịch tại nước ngoài hay bảo trợ việc phát hành và niêm yết chứng khoán tại nước ngoài, cần nêu rõ thị trường giao dịch, số lượng chứng khoán được giao dịch hay được bảo trợ và các thông tin quan trọng liên quan đến quyền, nghĩa vụ của công ty liên quan đến chứng khoản giao dịch hoặc được bảo trợ tại nước ngoài/Specify total number and types of floating shares, number of freely transferable shares and number of preferred shares in accordance with the law, Company Charter and commitments of the owner. Where the company has securities traded in foreign countries or underwrited the issuance and listing of securities in foreign countries, it is required to specify the foreign markets, the number of securities to be traded or underwritten and important information concerning the rights and obligations of the company related to the securities traded or underwritten in foreign countries.
+
+L
+
+Đối tượng
+
+Subject
+
+Người nội bộ Internal
+
+persons
+
+1. Hội đồng quản trị Managing Board
+
+2. Ban Giám đốc/ Board of
+
+Directors
+
+3. Ban kiểm soát Control
+
+Board
+
+4. Giám đốc tài chính/ Chief financial officer
+
+Số lượng CP hạn chế chuyển
+
+nhưng Number of transfer restriction shares
+
+Số lượng CP chuyển nhường tự do
+
+Number of free transfer shares
+
+5.003.451
+
+Tổng cộng
+
+Tỷ lệ sở hữu (%)
+
+Total
+
+ownership (%)
+
+5.003.451
+
+20,45%
+
+Proportional
+
+4.988.869
+
+4.988.869
+
+20,40%
+
+8.310
+
+8.310
+
+0,03%
+
+23
