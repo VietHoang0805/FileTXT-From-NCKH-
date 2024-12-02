@@ -1,0 +1,31 @@
+- Thẩm định những đề xuất, sáng kiến, điều hành các kế hoạch triển khai và quản lý hệ thống CNTT hiện tại và tương lai của nhà máy
+
+- Xây dựng và duy trì hoạt động của hệ thống CNTT đảm bảo hoạt động liên tục, an toàn.
+
+- Thiết lập, xây dựng hệ thống chính sách và quy trình hoạt động của Phòng CNTT. - Xây dựng kế hoạch và ngân sách hoạt động hàng năm cho Phòng CNTT hàng năm, theo dõi và kiểm soát ngân sách hoạt động CNTT hàng năm.
+
+- Quản lý, đánh giá và quản trị rủi ro của hệ thống CNTT. Đánh giá và đưa ra khuyến nghị về cải thiện hoặc tái kỹ thuật của các tổ chức CNTT
+
+- Đảm bảo vận hành hệ thống CNTT tuân thủ pháp luật và các quy định hiện hành. - Đảm bảo tính liên tục trong việc cung cấp các dịch vụ CNTT.
+
+- Đảm bảo tính toàn vẹn dữ liệu của hệ thống CNTT.
+
+- Xây dựng hệ thống tài liệu, văn bản, hỗ trợ cho hoạt động CNTT và phối hợp hoạt động giữa các bộ phận.
+
+- Thực hiện việc đánh giá, phân tích định kỳ về hiệu quả các hệ thống phần cứng, phần mềm; đề xuất các giải pháp để cải tiến, tối ưu hoả hiệu quả hoạt động của hệ thống CNTT, - Xây dựng các quy trình, quy chế, quy định, quản lý thiết bị, nghiệp vụ thuộc lĩnh vực CNTT. Giám sát thực hiện, đánh giá hiệu quả các quy trình, quy định trong thực tế để liên tục cải tiến, giúp nâng cao hoạt động của nhân máy.
+
+- Xây dựng tài liệu sử dụng, đào tạo hướng dẫn sử dụng các phẩm mềm ứng dụng cho cán bộ, nhân viên trong nhà máy.
+
+- Thực hiện xây dựng chiến lược, kế hoạch ngân sách hàng năm, đề xuất mua sắm, quản lý các tài sản về CNTT của toán nhà máy.
+
+- Giám sát việc tuyển dụng, phát triển, duy trì, và tổ chức của tất cả các nhân viên IT phù hợp với doanh nghiệp mục tiêu ngân sách và chính sách nhân sự.
+
+- Tiếp nhận yêu cầu và xử lý các sự cố trong quá trình sử dụng hệ thống CNTT. Thống kể, tổng hợp các loại rủi ro, các trường hợp lỗi trong hệ thống CNTT; đề xuất hướng phòng ngừa, xử lý và khắc phục
+
+- Nghiên cứu xác lập chiến lược marketing; Xác lập chiến lược marketing và marketing hỗn hợp, lập kế hoạch marketing và chương trinh hoạt động marketing của doanh nghiệp.
+
+- Nghiên cứu dự báo thị trường: Thu thập thông tin thị trường để xác định nhu cầu thị trường, thị trường mục tiêu, thị trường mới. Xác định phạm vi thị trường cho những sản phẩm hiện tại và dự báo nhu cầu của sản phẩm hàng hoá mới, hướng tiêu thụ sản phẩm, bán hàng. nghiên cứu xu hướng phát triển của khối lượng và cơ cấu nhu cầu, xác định những đặc thù của các khu vực và các đoạn của thị trường.
+
+- Nghiên cứu sản phẩm và tổ chức triển khai chương trình phát triển sản phẩm mới: Phân tích mức độ chấp nhận của thị trưởng đối với sản phẩm hiện tại của doanh nghiệp, lập chương trình nghiên cứu phát triển sản phẩm mới, cải tiến, hoàn thiện sản phẩm hiện tại,....
+
+25

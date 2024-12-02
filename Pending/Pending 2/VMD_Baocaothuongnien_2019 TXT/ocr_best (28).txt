@@ -1,0 +1,25 @@
+Thứ hai. Đúng người bệnh
+
+Thông tin của người bệnh bao gồm tên, tuổi, ngày sinh, cân nặng, dị ứng, chẩn đoán, kết quả xét nghiệm hiện tại và dấu hiệu sinh tồn. Hỏi họ tên của người bệnh, ngày tháng năm sinh, kiểm tra mã ID của NB trên vòng tay nhận dạng trước khi tiến hành bất kỳ điều gì với người bệnh. Cho dù nếu bạn biết tên của người bệnh đó, bạn vẫn cần phải hỏi chỉ để xác minh lại thông tin của người bệnh. Kiểm tra ghi chép về tình trạng dị ứng của NB được ghi chép trong hồ sơ.
+
+Quét mã vạch ở băng đeo tay của người bệnh để xác nhận danh tính có thể giảm thiểu sai sót về thuốc liên quan đến thông tin người bệnh. Nhưng ban đầu, công nghệ mã vạch sẽ tăng thời gian làm việc, phương pháp mã vạch không để lại bằng chứng khi đổi chiều; cũng có thể dẫn đến sai sót nếu băng đeo tay của NB bị thiếu hoặc có thể không dò tìm được, hoặc pin của máy quét bị hết.
+
+Thứ ba. Đúng liều
+
+Kiểm tra phiếu sao thuốc và y lệnh của bác sĩ trong bệnh án trước khi thực hiện thuốc, Hãy lưu ý liều dùng khác nhau giữa người lớn và trẻ em. Nếu chưa chắc chắn về bất kỳ thông tin nào (thuốc, hàm lượng, liều dùng...) cần kiểm tra lại bằng từ điển thuốc.
+
+Sự tính toán liều cần phải được chính xác do vậy để tránh nhầm lẫn người TDV cần phải lấy thuốc trong môi trường hoàn toàn yên tĩnh, phải chủ tâm cao độ, không làm việc gì khác; nên đối chiếu kiểm tra lại sự tỉnh toán của mình bằng cách so với các TDV khác. Sau khi tính toán liều thuốc chính xác, người TDV phải biết dùng dụng cụ đo lường chính xác từng mà hay từng giọt một, việc bé đối một viên thuốc nên dùng dụng cụ cắt thuốc cho cán xứng. Với số lượng thuốc quá nhỏ vài giọt ta có thể cho trực tiếp vào miệng người bệnh hoặc cho một ít nước vào ly trước khi cho thuốc vào để tránh thuốc dính vào ly.
+
+Thứ tư. Đúng đường dùng
+
+Kiểm tra chỉ định về đường dùng thuốc; uổng, tiêm bắp, tiêm dưới da, tiêm tĩnh mạch, tiêm trong da, đặt, xông... bằng từ điển thuốc, hướng dẫn sử dụng thuốc, trên lọ thuốc... Thứ năm. Đúng thời gian và tốc độ
+
+Thực hiện thuốc cho người bệnh đồng thời gian và lưu ý số lần dùng thuốc trong 24 giờ, khoảng cách giữa các lần dùng thuốc, thời điểm dùng thuốc, thời gian đào thải của thuốc. Đảm bảo đúng tốc độ khi tiêm, truyền cho người bệnh.
+
+TDV phải biết vì sao một số thuốc được cho y lệnh vào một số giờ nhất định trong ngày. Ví dụ: thuốc lợi tiểu không nên dùng sau 15 giờ vì người bệnh có thể đi tiểu ban đêm gãy mất giấc ngủ, hoặc một số thuốc như kháng sinh cần duy trì nồng độ thuốc đều trong máu do phải cách mỗi 8 tiếng hoặc 12 tiếng dùng thuốc một lần. Nếu như ta không thực hiện đúng thì hiệu quả của việc điều trị sẽ giảm và đôi khi sẽ mất tác dụng và có thể gây nặng thêm cho
+
+người bệnh.
+
+Kiểm tra lại về trinh tự của các thuốc sẽ dùng cho người bệnh trước khi tiến hành, điều này rất quan trọng nhất là những toa thuốc hóa trị.
+
+28

@@ -1,0 +1,95 @@
+(1) Hệ số cơ cấu nguồn vốn
+
+Hệ số nợ = Nợ phải trả / Tổng nguồn vốn
+
+Hệ số vốn chủ sở hữu = Vốn chủ sở hữu / Tổng nguồn vốn
+
+Hệ số này cho thấy được tỷ trọng nợ trong tổng nguồn vốn của Vimedimex. Vậy hệ số nợ của Vimedimex bao nhiêu là hợp lý? Trên thực tế, rất khó để đánh giá được tỷ lệ nợ như thế nào là hợp lý đối với Vimedimex, tỷ lệ này phụ thuộc vào nhiều yếu tố quy mô hay mục đích vay,... Tuy nhiên, thông thường, hệ số ng thấp thể hiện Vimedimex có mức độ an toàn cao, rủi ro tài chính thấp. Ngược lại, Vimedimex có hệ số nợ cao sẽ tiềm ẩn nhiều rủi ro.
+
+Các hệ số này cho thấy nguồn vốn của Vimedimex được hình thành chủ yếu từ đâu, mức độ độc lập về tài chính của Vimedimex hay rủi ro về tài chính mà Vimedimex có thể gặp phải. Chỉ số này có ý nghĩa quan trọng với các đối tác cho vay vốn kinh doanh, các nhà đầu tư nên thường được họ xem xét rất kỹ.
+
+Hệ số nợ của Vimedimex giảm từ 87,1% năm 2022 xuống còn 77,15% năm 2023 chứng tỏ mức độ an toàn tài chính của Vimedimex được cải thiện, giảm thiểu rủi ro.
+
+(2) Hệ số cơ cấu tài sản
+
+Tỷ lệ tài sản ngắn hạn = Tài sản ngắn hạn / Tổng tài sản
+
+Tỷ lệ tài sản dài hạn = Tài sản dài hạn / Tổng tài sản Các hệ số này cho thấy cơ cấu tài sản ngắn và dài hạn trong Vimedimex, theo ngành nghề kinh doanh dược phẩm.
+
+Tỷ lệ tài sản ngắn hạn của Vimedimex giảm từ 92,57% năm 2022 xuống còn 87,3% năm 2023, tương ứng với tỷ lệ giảm của Hệ số nợ chứng tỏ mức độ an toàn tài chính của Vimedimex được cải thiện, giảm thiểu rủi ro.
+
+c) Nhóm chỉ số hiệu quả hoạt động
+
+STT
+
+Chi tiêu
+
+Năm 2022 Năm 2023
+
+Trung bình
+
+1
+
+Tỷ suất lợi nhuận sau thuế
+
+- trên tổng tài sản (ROA)
+
+0,82%
+
+1,22%
+
+1,02%
+
+2
+
+Tỷ suất lợi nhuận sau thuế
+
+| trên vốn chủ sở hữu (ROE)
+
+8,61%
+
+7,4%
+
+8,01%
+
+Tỷ suất lợi nhuận sau thuế
+
+3
+
+trên doanh thu (ROS)
+
+0,50%
+
+0,88%
+
+0,69%
+
+4 Biên lợi nhuận gộp
+
+7,70%
+
+8,13%
+
+7,92%
+
+5
+
+thường (EPS)
+
+Thu nhập một cổ phần
+
+2.255
+
+2.020
+
+2.138
+
+(1) Tỷ suất lợi nhuận sau thuế trên tổng tài sản
+
+Tỷ suất lợi nhuận sau thuế trên tổng tài sản (ROA)= Lợi nhuận sau
+
+thuế / Tổng tài sản bình quân
+
+Hệ số phản ánh hiệu suất sinh lời của 1 đồng tài sản thì đang tạo ra bao nhiêu đồng lợi nhuận sau thuế. Hay hiệu quả sử dụng tài sản của Vimedimex ra sao. Thông thường, ROA càng cao càng tốt. Đặc biệt, đối với các doanh nghiệp trong ngành sản xuất, phân phối dược phẩm,... như Vimedimex thì ROA là chỉ tiêu vô cùng quan trọng. Vì Vimedimex sử dụng tài sản dài hạn là các TTPP, nhà kho theo tiêu chuẩn GSP,... để nâng cao tỷ suất lợi nhuận. ROA các năm qua của
+
+37

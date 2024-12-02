@@ -1,0 +1,85 @@
+toán các khoản nợ ngắn hạn mà không phụ thuộc đến thu các khoản phải thu, bán hàng tồn kho... Hệ số này hữu ích để đánh giá khả năng thanh toán của Vimedimex trong giai đoạn nền kinh tế gặp khủng hoảng, khi mà hàng tồn kho không tiêu thụ được, cũng như các khoản nợ phải thu khó thu hồi.
+
+Từ năm 2021 đến năm 2022, hệ số khả năng thanh toán tức thời của Vimedimex luôn ở mức an toàn, tăng từ 3% lên 8%.
+
+(3) Hệ số khả năng thanh toán nhanh
+
+Khả năng thanh toán nhanh = (Tài sản ngắn hạn - Hàng tồn kho) / Nợ ngắn hạn
+
+Hệ số này thể hiện khả năng thanh toán nhanh trong thời gian hàng tồn kho tiêu thụ chậm, việc thu hồi nợ khó khăn,..
+
+Hệ số thanh toán nhanh của Vimedimex từ năm 2021 đến 2022 tăng dần từ 0,54 lên 0,71 lần. Điều đó thể hiện khả năng thanh toán nhanh của công ty tốt và khả năng thanh toán nhanh các khoản nợ đến hạn tăng dần.
+
+(4) Hệ số khả năng thanh toán lãi vay
+
+Hệ số khả năng thanh toán lãi vay = Lợi nhuận trước thuế và lãi vay (EBIT) / Lãi vay phải trả
+
+Nợ phải trả của Vimedimex sẽ bao gồm: nợ vay và các khoản phải trả (cho nhà cung cấp, người lao động,...). Trong đó, nếu sử dụng nợ vay thì Vimedimex phải trả chi phí sử dụng - lãi vay. Bởi vậy, cần đánh giá xem liệu có xảy ra rủi ro nào trong việc thanh toán lãi vay của Vimedimex hay không.
+
+Hệ số này của Vimedimex tăng từ 2,9 lần năm 2021 lên 10,28 lần năm 2022 chứng tỏ mức độ rủi ro trong việc thanh toán lãi vay của Vimedimex thấp. b) Nhóm chỉ số cơ cấu nguồn vốn, cơ cấu tài sản
+
+470
+
+STT
+
+Chỉ tiêu
+
+Năm 2021
+
+Năm 2022
+
+Trung bình
+
+PH
+
+1 Hệ sống
+
+93%
+
+86%
+
+90%
+
+10
+
+2
+
+Hệ số vốn chủ sở hữu
+
+7%
+
+14%
+
+10%
+
+3
+
+Tỷ lệ tài sản ngắn hạn
+
+95%
+
+92%
+
+94%
+
+4
+
+Tỷ lệ tài sản dài hạn
+
+5%
+
+8%
+
+6%
+
+(1) Hệ số cơ cấu nguồn vốn
+
+Hệ số nợ = Nợ phải trả / Tổng nguồn vốn
+
+Hệ số vốn chủ sở hữu = Vốn chủ sở hữu / Tổng nguồn vốn
+
+Hệ số này cho thấy được tỷ trọng nợ trong tổng nguồn vốn của Vimedimex. Vậy hệ số nợ của Vimedimex bao nhiêu là hợp lý? Trên thực tế, rất khó để đánh giá được tỷ lệ nợ như thế nào là hợp lý đối với Vimedimex, tỷ lệ này phụ thuộc vào nhiều yếu tố quy mô hay mục đích vay,... Tuy nhiên, thông thường, hệ số nợ thấp thể hiện Vimedimex có mức độ an toàn cao, rủi ro tài chính thấp. Ngược lại, Vimedimex có hệ số nợ cao sẽ tiềm ẩn nhiều rủi ro.
+
+Các hệ số này cho thấy nguồn vốn của Vimedimex được hình thành chủ yếu từ đâu, mức độ độc lập về tài chính của Vimedimex hay rủi ro về tài chính mà Vimedimex có thể gặp phải. Chỉ số này có ý nghĩa quan trọng với các đối tác cho vay vốn kinh doanh, các nhà đầu tư nên thường được họ xem xét rất kỹ.
+
+37

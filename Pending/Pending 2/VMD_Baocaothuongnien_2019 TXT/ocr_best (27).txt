@@ -1,0 +1,25 @@
+Quản lý con người là một phần quan trọng của một nhà quản lý. Nhân viên trong các nhà thuốc thưởng rất đa dạng, từ nhân viên đứng quầy bán thời gian, trợ lý kho cho tới được sĩ và kỹ thuật viên được cấp phép.
+
+Nhà quản lý phải có trách nhiệm thiết lập một lịch trình làm việc cho tất cả các nhân viên. Một dược sĩ được cấp phép phải luôn có mặt, nếu không cửa hàng không thể hoạt động hợp pháp. Điều này có nghĩa là người điều hành phải đảm bảo rằng được sĩ luôn có mặt đùng theo lịch trình, và có sự sẵn sàng thay thế, bổ sung trong trường hợp vắng mặt, nghỉ phép.
+
+Trình dược viên là trung gian giữa nhà cung cấp và khách hàng, có vai trò quan trọng khi chịu trách nhiệm giới thiệu, bán hàng và thu tiền hàng khách hàng. Chính vì vậy, các công ty dược phẩm đều có nhu cầu theo dõi doanh số bán hàng, theo dõi công nợ khách hàng theo từng trình được viên. Phần mềm ERP đáp ứng tốt nghiệp vụ này của các doanh nghiệp được pham.
+
+d. Cung cấp hệ thống báo cáo đáp ứng đặc thủ lĩnh vực được phẩm
+
+Phần mềm ERP sẽ cung cấp đầy đủ các biểu mẫu chứng từ, báo cáo mang đặc thù của lĩnh vực kế toán dược phẩm (Theo Tiêu chuẩn thực hành tốt phân phối thuốc, GDP – Good Distribution Practices) như: Mẫu biểu báo cáo tổng hợp tồn kho theo lô, Phiếu nhập kho, xuất kho số là hạn dùng, Phiếu xuất kho kiêm vận chuyển nội bộ ...
+
+Song song với các mẫu biểu báo cáo theo quy định của Bộ Tài chính, phần mềm ERP còn thiết kế hàng trăm mẫu biểu báo cáo quản trị phù hợp với các yêu cầu của doanh nghiệp, kế toán chỉ cần lựa chọn các biểu mẫu phù hợp nhất với doanh nghiệp minh.
+
+IV. Kiểm soát thông tin về sản phẩm và bao bì sản phẩm
+
+Để đảm bảo cung cấp thông tin đầy đủ nhất về sản phẩm đến người tiêu dùng, VMD2 trực tiếp thiết kế bao bì sản phẩm trên nền tảng các quy định nghiêm ngặt của Bộ Y tế một cách rõ ràng cho từng sản phẩm bao gồm các nội dung: hoạt chất, tả được, hàm lượng, dạng bào chế, cách sử dụng, đối tượng sử dụng, điều kiện bảo quản, từ đó khách hàng mới rõ ràng hiểu rõ và sử dụng sản phẩm đúng cách để đạt được hiệu quả tối ưu nhất.
+
+Thứ nhất. Đúng thuốc
+
+Kiểm tra và xác nhận đúng tên thuốc, dạng thuốc (siro, viên nén, viên đặt, viên nhộng, tiêm truyền...). Lưu ý những thuốc có tên gọi giống nhau hoặc âm giống nhau (look alike, sound alike). Hiểu sai tên thuốc là một trong những lỗi thường xảy ra. Những thuốc tên gần giống nhau có thể phát âm giống nhau và có thể dẫn đến những sai sót khi cho y lệnh miệng. Kiểm tra trong danh sách các thuốc có tên gần giống nhau và âm gọi giống nhau.
+
+Khi lấy thuốc cần kiểm tra: tên thuốc, hàm lượng, đường dùng, hạn sử dụng, sự nguyên vẹn, chất lượng cảm quan của thuốc.
+
+Không được dùng thuốc không có nhân. Không nên dùng thuốc đã được chuẩn bị cho người bệnh khác. Không nên quản lý thuốc vào lọ mà không dán nhãn hoặc dán nhãn thuốc khác. Trường hợp người bệnh gặp khó khăn về nuốt như NB bị liệt, trẻ em cần thông báo cho bác sĩ biết để thay đổi dạng thuốc phù hợp như: siro, thuốc dạng lỏng..hoặc bơm
+
+27

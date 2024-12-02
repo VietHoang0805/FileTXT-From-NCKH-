@@ -1,0 +1,185 @@
+TT Tên Công trình
+
+Duong day 220kV
+
+ĐZ 220kV Vinh - Đông Hội
+
+Chiều dài /
+
+Näm
+
+công suất (kM/KVA) hoàn thành
+
+1
+
+2
+
+ĐZ 220KV Quy Nhơn - Pleiku
+
+3
+
+ĐZ 220kV Pleiku - Không Buk
+
+4
+
+5
+
+ĐZ 220KV Đà Nẵng – Hoà Khánh
+
+ĐZ 220KV Krông Búk – Nha Trong
+
+214
+
+76
+
+102.4
+
+147
+
+13.3
+
+6
+
+ĐZ 220KV Hàm Thuận – Bảo Lộc
+
+28
+
+7
+
+ĐZ 220KV Ninh Bình – Thanh Hoa
+
+28.415
+
+8
+
+ĐZ 220kV Hoà Khánh – Huế
+
+82.17
+
+9
+
+ĐZ 220kV đầu nối sau TBA 500kV Hà Tĩnh
+
+7.34
+
+10
+
+ĐZ 220kV Rạch Giá - Bạc Liêu
+
+50
+
+11
+
+ĐZ 220kV Đa Nhim – Nha Trang
+
+113.33
+
+12
+
+ĐZ 220KV Đà Nẵng - Dốc Sỏi
+
+104.6
+
+13
+
+E2 220WV Đa Nhìn – Long Bình
+
+6.44
+
+14 ĐZ 220kV Cà Mau- Ô Môn (đoạn 4 mạch)
+
+29.702
+
+15 ĐZ 220KV Thốt Nốt - Châu Đốc Tịnh Biên
+
+96.198
+
+16.
+
+Nâng cấp ĐZ 220kV Thủ Đức – Long Bình
+
+5.232
+
+17
+
+Đề 220 kV Thanh Thủy - Hà Giang – Tuyên Quang
+
+35
+
+18 ĐZ 220KV Tuyên Quang – Yên Bái (VT: 1 -> VI:65)
+
+38
+
+19
+
+Ez 220kV Tuy Hòa - Nha Trang (đoạn từ ĐĐ-G33)
+
+38.82
+
+2007-2009
+
+20
+
+Đz 220kV Tuy Hòa - Nha Trong (đoạn từ G33-G50) 29.4 km
+
+29.41
+
+2007-2009
+
+21
+
+Đz 220kV Hạ Sông Ba - Tuy Hòa 35,48lm
+
+35.46
+
+2007-2009
+
+22 Đ2 220KV Quy Nhơn - Tuy Hòa (đoạn từ ĐĐ-G34) 46.85km
+
+46.85
+
+2007-2009
+
+23 Đz 220kV Thanh Hóa - Vinh
+
+32.76
+
+2011-2014
+
+24 Đz 220KV Vùng Ông - Hà Tĩnh (gói 6,2 và 64)
+
+40.735
+
+2011-2013
+
+25. Đz 220KV Duyên Hải - Trà Vinh.
+
+45.7
+
+2012-2014
+
+12
+
+26. Đi đầu nối 110/220 vào TBA Sông Mây
+
+27 Đz 220KV Vinh Tân - Phan Thiết
+
+28 Đz 220kV Phan Thiết - Phù Mỹ 2
+
+BÁO CÁO THƯỜNG NIÊN 2018
+
+VNICO
+
+53
+
+23
+
+8.2
+
+2011-2014
+
+2012-2014
+
+46.67
+
+2013-2016

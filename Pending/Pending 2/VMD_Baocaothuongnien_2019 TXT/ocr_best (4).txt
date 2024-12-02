@@ -1,0 +1,19 @@
+EON
+
+QUAN
+
+trị kịp thời... Người dân được khám sức khỏe định kỳ với các dịch vụ: Khám lâm sàng tổng quát, xét nghiệm huyết học (các chỉ số hồng cầu, bạch cầu, tiểu cầu..... xét nghiệm sinh hóa máu (đánh giả chức năng gan, thận, mỡ máu, đường huyết, bệnh gút ), xét nghiệm nước tiểu (tầm soát bệnh đường tiết niệu...), xét nghiệm đông màu (đánh giá khả năng đóng, cầm máu, rối loạn đông máu...), siêu âm ổ bụng tổng quát (Siêu âm gan, mật, thận, tụy, bàng quang), chụp X-quang tim phổi (đánh giá bệnh về phổi, tim, lồng ngực... ngoài ra có thể bao gồm cả Nội soi tai mũi họng, điện tâm đồ, xét nghiệm Viêm Gan B
+
+Đây là bước đi tiếp theo, đánh dấu sự có mặt về dịch vụ chăm sóc sức khỏe y tế gia
+
+định, với hình thức chăm sóc sức khỏe toàn diện cho cư dân, từ khi sinh ra, cho tới khi
+
+trưởng thành, về già, tới lúc qua đời một cách gần gũi, thiết thực của hệ thống y khoa, được triển khai thực hiện tại tòa nhà chung cư cao tầng, các khu đô thị với phương châm “Điều trị bằng khối óc, chăm sóc bằng trái tim” .
+
+Thứ tư: Hoàn thành ứng dụng phần mềm IT trong hệ thống phân phối được phẩm
+
+của Vimedimex
+
+Hệ thống phân phối theo tiêu chuẩn GDP, GSP, GPP thông qua phần mềm ERP, quản lý kho là một công việc rất quan trọng của Vimedimex, bởi hàng hóa ở đây rất đa dạng về chủng loại và việc nhập xuất hàng hóa diễn ra thường xuyên, liên tục. Phần mềm ERP giúp Vimedimex quản lý hàng hóa vật tư theo từng lỗ và hạn sử dụng, chi tiết tới từng kho, đáp ứng tốt quy định về Tiêu chuẩn thực hành tốt bảo quản thuốc (Good Storage Practices . GSP) của Bộ Y tế, bảo đảm nguyên tắc hàng hóa nhập trước xuất trước (FIFO- First In First Out) hoặc hết hạn trước xuất trước (FEFO- First Expires First Out). Do đặc thù được phẩm có đơn vị tính đa dạng (thủng, hộp, vì, viên...) nên việc quản lý bằng excel hay sổ sách thông thường chỉ tốn thời gian mà không hiệu quả, phần mềm ERP cho phép kế toán nhập dữ liệu một lần, mà có thể xem được các báo cáo theo nhiều đơn vị tinh khác nhau. Đồng thời, với mô hình quản lý được phẩm theo sơ đồ hình cây, phần mềm ERP sẽ dễ dàng quản lý nhập, xuất, tồn kho theo lỗ, hạn sử dụng, doanh thu, chi phi, công nơi doanh số bán hàng theo từng nhóm sản phẩm, nhóm bệnh của trình được viên.
+
+Phần mềm VNPT Pharmacy ứng dụng quản lý các thông tin về sức khỏe của cả nhân, gia đình và cộng đồng. Kết nối mạng giữa phòng khám đa khoa hoạt động theo nguyên lý bác sĩ gia đình với người bệnh, với các cơ sở khám bệnh, chữa bệnh và các cơ sở y tế khác. Ứng dụng VNPT Pharmacy trọn vẹn từ khi đặt lịch khám hoặc lựa chọn bác sỹ chuyên khoa, tiếp đón bệnh nhân, đến khi thanh toán viện phí. Ứng dụng VNPT Pharmacy được cá nhân hóa đến từng người bệnh, qua ứng dụng trên điện thoại. Bác sỹ hoàn toàn có thể tư vấn cho bệnh nhân, thăm khám từ xa qua hình ảnh, âm thanh bằng ứng dụng được cài đặt trên điện thoại di động. Hơn thế, VNPT Pharmacy còn hỗ trợ sau khám chữa bệnh như: nhắc lịch uống thuốc, nhắc lịch tái khám (nếu có), tra cứu lịch sử khám chữa bệnh. Áp dụng chuẩn bệnh án điện tử quốc tế, để chuẩn hóa bệnh án điện tử cho người bệnh. Bệnh án điện tử của người bệnh giúp cho bác sĩ lưu trữ thông tin bệnh nhân một cách chi tiết, đầy đủ, có hệ thống, điều này rất quan trọng khi bác sĩ đưa ra kết quả chẩn đoán và phương thức điều trị chính xác cũng như hạn chế việc chỉ định các xét nghiệm không cần thiết. Bên cạnh đó, VNPT Pharmacy cung cấp giải pháp quản lý nhà thuốc toàn

@@ -1,0 +1,69 @@
+(1) Hệ số khả năng thanh toán ngắn hạn
+
+Hệ số khả năng thanh toán ngắn hạn = Tài sản ngắn hạn / Nợ ngắn
+
+han
+
+Thể hiện khả năng thanh toán các khoản nợ ngắn hạn của Vimedimex. Vimedimex chỉ có thể tồn tại nếu đáp ứng được các nghĩa vụ thanh toán khi đến hạn. Nếu chỉ số này nhỏ hơn 1 thì thể hiện khả năng chỉ trả các khoản nợ đến hạn yếu, bảo hiệu rủi ro tiềm ẩn trong hoạt động tải chính, vì vậy chỉ số này phải luôn duy trì lớn hơn 1 để đảm bảo an toàn trong hoạt động tài chính.
+
+Hệ số này qua các năm của Vimedimex luôn lớn hơn >1 thể hiện việc Vimedimex luôn đảm bảo được nghĩa vụ thanh toán các khoản nợ ngắn hạn của
+
+mình đúng hạn.
+
+(2) Hệ số khả năng thanh toán tức thời
+
+Hệ số khả năng thanh toán tức thời = Tiền và các khoản tương đương với tiền / Nợ ngắn hạn
+
+Hệ số này thể hiện nguồn tiền mặt dồi dào có thể đáp ứng ngay việc thanh toán các khoản nợ ngắn hạn mà không phụ thuộc đến thu các khoản phải thu, bán hàng tồn kho,... Hệ số này hữu ích để đánh giá khả năng thanh toán của Vimedimex trong giai đoạn nền kinh tế gặp khủng hoảng, khi mà hàng tồn kho không tiêu thụ được, cũng như các khoản nợ phải thu khó thu hồi.
+
+Từ năm 2022 đến năm 2023, hệ số khả năng thanh toán tức thời của Vimedimex luôn ở mức an toàn, tăng từ 8% lên 15%.
+
+(3) Hệ số khả năng thanh toán nhanh
+
+Khả năng thanh toán nhanh = (Tài sản ngắn hạn - Hàng tồn kho) / Nợ ngắn hạn
+
+Hệ số này thể hiện khả năng thanh toán nhanh trong thời gian hàng tồn kho tiêu thụ chậm, việc thu hồi nợ khó khăn,...
+
+Hệ số thanh toán nhanh của Vimedimex từ năm 2022 đến 2023 tăng dần từ 0,73 lên 0,97 lần. Điều đó thể hiện khả năng thanh toán nhanh của công ty tốt và khả năng thanh toán nhanh các khoản nợ đến hạn tăng dần.
+
+(4) Hệ số khả năng thanh toán lãi vay.
+
+Hệ số khả năng thanh toán lãi vay = Lợi nhuận trước thuế và lãi vay (EBIT) / Lãi vay phải trả
+
+Nợ phải trả của Vimedimex sẽ bao gồm: nợ vay và các khoản phải trả (cho nhà cung cấp, người lao động,...). Trong đó, nếu sử dụng nợ vay thì Vimedimex phải trả chi phí sử dụng - lãi vay. Bởi vậy, cần đánh giá xem liệu có xảy ra rủi ro nào trong việc thanh toán lãi vay của Vimedimex hay không.
+
+Hệ số này của Vimedimex tăng từ 10,28 lần năm 2022 lên 25,93 lần năm 2023 chứng tỏ mức độ rủi ro trong việc thanh toán lãi vay của Vimedimex thấp. b) Nhóm chỉ số cơ cấu nguồn vốn, cơ cấu tài sản
+
+STT
+
+1 Hệ số nợ
+
+2
+
+Chỉ tiêu
+
+Hệ số vốn chủ sở hữu 3 Tỷ lệ tài sản ngắn hạn 4 Tỷ lệ tài sản dài hạn
+
+Năm 2022
+
+Năm 2023
+
+Trung bình
+
+87,1%
+
+77,15%
+
+82,13%
+
+12,9%
+
+22,85%
+
+17,87%
+
+92%
+
+8%
+
+36

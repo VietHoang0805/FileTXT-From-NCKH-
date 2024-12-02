@@ -1,0 +1,109 @@
+STT
+
+2. Tình hình tài chính
+
+Nhóm chỉ số hiệu suất hoạt động của Vimedimex như sau:
+
+Chi tiêu
+
+Năm 2021 | Năm 2022 | Trung bình
+
+1
+
+Vòng quay hàng tồn kho
+
+3,51
+
+3,75
+
+3,63
+
+2
+
+Số ngày bình quân của 1 vòng quay
+
+| hàng tồn kho
+
+103,99
+
+97,25
+
+100,62
+
+3
+
+Vòng quay nợ phải thu
+
+4,16
+
+3,60
+
+3,88
+
+4
+
+Số ngày bình quân của 1 vòng quay
+
+nợ phải thu
+
+87,74
+
+101,26
+
+94,50
+
+56
+
+Hiệu suất sử dụng tài sản cố định
+
+94,11
+
+60,34
+
+77,23
+
+Hệ số tài sản cố định
+
+31,39%
+
+26,15%
+
+28,77%
+
+7
+
+Hệ số thích ứng dài hạn của tài sản
+
+cố định
+
+30,03%
+
+24,91% 27,47%
+
+(1) Số vòng quay hàng tồn kho
+
+Vòng quay hàng tồn kho = Giá vốn hàng bán / Hàng tồn kho bình
+
+quân
+
+Hệ số này phản ánh 1 đồng vốn hàng tồn kho quay được bao nhiêu vòng trong một chu kỳ. Số vòng quay cảng cao thì thể hiện Vimedimex quản lý hiệu quả dự trữ hàng tồn kho, tỉnh hình tiêu thụ sản phẩm tốt.
+
+Theo bảng dữ liệu phân tích ở trên thì chỉ số vòng quay hàng tồn kho của công ty từ năm 2021 đến năm 2022 bình quân là 3,63 vòng. Qua đó ta thấy khả năng quản lý hàng tồn kho của công ty ngày càng tốt hơn, nâng cao hiệu quả hoạt
+
+động của Công ty.
+
+Và từ đỗ có thể tính được số ngày bình quân của 1 vòng quay hàng tồn kho, chỉ số này phản ánh hàng tồn trong kho bao nhiêu ngày thì tiêu thụ được. Số ngày bình quân của 1 vòng quay hàng tồn kho = 365 / Vòng quay hàng tồn kho
+
+Thông thường, hệ số vòng quay hàng tồn kho cảng lớn có nghĩa là hàng tồn kho ít, sản phẩm được tiêu thụ nhanh và vẫn không bị ứ đọng ở hàng tồn kho.
+
+Cũng tương tự như chỉ số vòng quay hàng tồn kho, do hoạt động quản lý của Công ty ngày càng hiệu quả, số ngày bình quân vòng quay hàng tồn kho của Công ty từ năm 2021 đến năm 2022 cũng rất tốt, trung bình khoảng 100 ngày. Điều đó giúp Công ty cắt giảm nhiều chi phí không cần thiết, tăng hiệu quả hoạt động trong năm 2022.
+
+(2) Vòng quay nợ phải thu
+
+Trường hợp Vimedimex liên tục cho khách hàng mua chịu mà không thu tiền, không sớm thì muộn, Vimedimex sẽ không có đủ tiền để phục vụ cho hoạt động sản xuất, kinh doanh. Để có thể đánh giá tốc độ thu hồi công nợ (các khoản phải thu) của Vimedimex chúng ta sử dụng hệ số vòng quay các khoản phải thu theo công thức sau:
+
+Vòng quay nợ phải thu = Doanh thu bán hàng / Các khoản phải thu
+
+bình quân
+
+41

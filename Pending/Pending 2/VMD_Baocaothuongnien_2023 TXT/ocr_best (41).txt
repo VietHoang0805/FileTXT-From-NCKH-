@@ -1,0 +1,29 @@
+Hệ số này phải ánh nợ phải thu luân chuyển được bao nhiêu vòng. Từ năm 2022 đến nay, vòng quay các khoản phải thu của Công ty ở mức tương đối tốt, trung bình 3,07 vòng/năm. Cùng với việc doanh thu của Công ty tăng trưởng ổn định thì chứng tỏ khả năng thu hồi công nợ của Công ty tốt, đảm bảo sự an toàn về tài chính của Công ty.
+
+Từ chỉ số này Vimedimex cũng có thể tính được số ngày thu tiền bình quân 1 vòng quay nợ phải thu. Lấy 365 ngày (1 năm) chia cho vòng quay các khoản phải thu như sau:
+
+Số ngày bình quân của 1 vòng quay nợ phải thu = 365 / Vòng quay
+
+nợ phải thu
+
+Kỳ thu tiền bình quân: Thời hạn sau bao lâu thì KH sẽ thu được tiền bán hàng. Lưu ý: Hệ số này sẽ phụ thuộc vào chính sách bán hàng (nợ gối đầu) và chính sách thanh toán của Vimedimex.
+
+Tương tự với vòng quay các khoản phải thu của Công ty tăng dần nên số ngày bình quân của một vòng quay khoản phải thu của Công ty trung bình là 122,79 ngày. Với một Công ty phân phối dược phẩm, đây là con số khá lý tưởng khi công nợ phải thu của các khách hàng trung bình 120 ngày, điều đó chứng tỏ khả năng thu hồi công nợ của Công ty rất tốt.
+
+(3) Hiệu suất sử dụng tài sản cố định
+
+Hiệu suất sử dụng tài sản cố định = Doanh thu thuần / Nguyên giá tài sản cố định bình quân
+
+Chỉ số phản ánh hiệu suất sử dụng tài sản cố định trong kỳ của Vimedimex. Hiệu suất này của Vimedimex luôn cao, bình quân 46,71 lần chứng tỏ việc sử dụng tài sản cố định để tạo ra của Vimedimex đạt hiệu quả cao. (4) Hệ số tài sản cố định
+
+Hệ số tài sản cố định = Tài sản cố định / Vốn chủ sở hữu
+
+Tỷ số này cho Vimedimex thấy mức độ ổn định của việc đầu tư vào tài sân cố định. Điều này dựa trên quan điểm rằng, những khoản đầu tư vào tài sản cố định (như đất đai và nhà cửa) có thể được tái tạo như mong muốn từ vốn chủ sở hữu vì những khoản đầu tư như vậy thưởng cần một khoảng thời gian dài để tái tạo. Tỷ lệ này càng nhỏ thì càng an toàn. Tuy nhiên, nếu doanh nghiệp nắm giữ nhiều tài sản như chứng khoán có khả năng chuyển đổi ra tiền mặt cao, thì thực tế doanh nghiệp này an toàn hơn nhiều hơn là so với những gì, hệ số này có thể phản ánh.
+
+Tuy nhiên, Vimedimex là doanh nghiệp với hệ thống kho tại 63 tỉnh thành thuộc diện phải khấu hao, tỷ số này sẽ tự được cải thiện hơn (tức là sẽ giảm đi) do quá trình khấu hao với giả định Vimedimex không mua mới thiết bị và có một dự trữ nhất định vào bất cứ lúc nào. Tỷ số này và hệ số thanh toán ngắn hạn tốt lên hoặc xấu đi một cách đồng thời những theo chiều ngược nhau.
+
+Nếu như tỷ số này cao, Vimedimex cần phải kiểm tra hệ số thích ứng dài hạn của tài sản cố định và tình hình hoàn trả các khoản vay dài hạn. Nếu việc hoàn trả những khoản vay dài hạn có thể được thực hiện trong phạm vi thu nhập ròng hiện tại và chi phí khấu hao, ta có thể nói rằng hiện tại Vimedimex đang ở mức
+
+độ an toàn.
+
+41

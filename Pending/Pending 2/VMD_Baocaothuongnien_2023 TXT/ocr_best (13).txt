@@ -1,0 +1,23 @@
+4. Định hướng phát triển
+
+4.1. Tầm nhìn, sứ mệnh, giá trị cốt lõi của Vimedimex
+
+Tầm nhìn: Trở thành nhân tố tích cực của nền y tế chất lượng cao Việt Nam và từng bước xây dựng vị thế trong nền y tế khu vực.
+
+Sứ mệnh: Sản xuất, phân phối thuốc chất lượng cao, cung cấp cho mọi người dân, ở mọi nơi trên toàn quốc.
+
+Giá trị cốt lõi: Sản xuất dược phẩm chất lượng cao, lấy sức khỏe cộng đồng làm trung tâm cho mọi hoạt động, với định hướng đầu tư sản xuất các sản phẩm thuốc mới, các kỹ thuật bảo chế hiện đại theo hình thức chuyển giao công nghệ 576 thuốc chuyên khoa đặc trị về thần kinh, tim mạch, tiểu đường, tiêu hóa, mỡ máu, dị ứng, kháng sinh đặc trị... ung thư theo diễn biến bệnh tật, thuốc có nguồn gốc sinh học hoặc thuốc có dạng bảo chế đặc biệt và được sản xuất trên dãy truyền thuốc viên, thuốc tiêm Nonbetalactam, Cephalosporin, Ung thư đạt tiêu chuẩn GMP-WHO và GMP-EU trên cơ sở tích hợp áp dụng phần mềm Siemens SIMATIC PCS 7. Đảm bảo thuốc cung cấp kịp thời cho nhu cầu chăm sóc sức khỏe của người dân trên cả nước và mở rộng xuất khẩu ra các nước khu vực, với mục tiêu cung cấp những sản phẩm có chất lượng tốt, giá cả hợp lý, thuận tiện, phục vụ tận tình chu đáo.
+
+- Giữ vững vị thế là Công ty Dược phẩm sản xuất, phân phối hàng đầu trong nước, tạo lợi thế cạnh tranh riêng biệt, tiếp tục chiến lược phát triển ổn định, bền vững và hiệu quả.
+
+- Phát triển kênh phân phối dược phẩm Vimedimex với chức năng bản lễ online trên nền tảng phần mềm Oracle netsuite, Mobile App kết nối trực tiếp đến Bác sỹ kê đơn và chức năng bán buôn online cho các bệnh viện, nhà thuốc, phòng khám trên nền tảng ứng dụng phần mềm Oracle netsuite - MobiWork DMS tại 63 tỉnh thành trên cả nước
+
+- Hợp tác quốc tế với các nước G7 và các nước có nền công nghiệp dược phát triển nghiên cứu Anh, Nga... đầu tư sản xuất các sản phẩm thuốc mới, các kỹ thuật bào chế hiện đại theo hình thức chuyển giao công nghệ... khi thuốc biệt dược gốc đã hết bản quyền được gọi là thuốc generic.
+
+- Nghiên cứu, nhập khẩu nguyên liệu theo hướng phát triển các kỹ thuật phân lập hoạt chất có tác dụng, có hàm lượng cao hoặc tinh khiết phục vụ sản xuất và quản lý chất lượng thuốc toàn diện, tăng cường các giải pháp để thuốc lưu hành trên thị trường đảm bảo chất lượng, đáp ứng tiêu chuẩn Dược điển Anh, Dược điển Mỹ, Dược điển Châu Âu.
+
+- Lấy nguồn nhân lực làm trọng tâm để thể hiện hình ảnh, văn hóa, triết lý kinh doanh mang đậm nét Vimedimex đến với cộng đồng. Cái Tâm - tức cái Đức là gốc của con người chân chính, lương thiện, nhưng cái Tài cũng là một phẩm chất quan trọng để tạo nên nhân phẩm. Người vừa có Đức, vừa có Tài, mới là “Con người phát triển toàn diện và Vimedimex mới phát triển bền vững". - Lấy chất lượng sản phẩm là nhân cách của doanh nghiệp.
+
+4.2. Các mục tiêu chủ yếu của Công ty: Giữ vững vị thế là Công ty phân phối Dược phẩm uy tín hàng đầu trong nước, tạo lợi thế cạnh tranh riêng biệt, tiếp tục chiến lược phát triển ổn định, bền vững và hiệu quả.
+
+13

@@ -1,0 +1,201 @@
+14
+
+Tấn Công trình
+
+Chiều dài/
+
+Näm
+
+công suất (kM/kVA) hoàn thành
+
+IV
+
+Trạm biến áp 220kV
+
+1
+
+Trạm biến áp 220kV Vĩnh
+
+125
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Trạm biến áp 220kV Đông Hội
+
+Trạm biến áp 220kV Quy Nhơn
+
+Trạm biến áp 220kV Đa Nhim
+
+Trạm biến áp 220kV Krông Búk
+
+Trạm biển áp 220kV Nha Trang
+
+63
+
+63
+
+7
+
+Trạm biến áp 220kV Vinh (MR)
+
+125
+
+8
+
+Trạm biến áp 220kV Huế
+
+125
+
+9
+
+Trạm biến áp 220kV Hoà Khánh
+
+10
+
+Trạm biển áp 220kV Dốc Sỏi
+
+63
+
+11
+
+Trạm biến áp 220kV Quy Nhơn (MR)
+
+12
+
+Trạm biến áp 220kV Nha Trang (MR)
+
+2 3 3 3 3 2 2 2 2 2 2 2
+
+123
+
+125
+
+125
+
+13
+
+Trạm biến áp 220kV Long Xuyên 2 & Đz đấu nối
+
+250MVA
+
+14
+
+Trạm biến áp 220kV Phù Mỹ
+
+250MVA
+
+V
+
+Trạm biến áp 110kV
+
+1
+
+Trạm biến áp 110kV Xuân Hội
+
+2
+
+Trạm biến áp 110kV Đồng Hới
+
+50
+
+16
+
+3
+
+Trạm biến áp 110kV Huế
+
+25
+
+4
+
+Trạm biến áp 110kV Đông Hà
+
+5
+
+Trạm biển áp 110kV Quảng Ngãi
+
+5
+
+6
+
+Trạm biến áp 110kV Cam Ranh
+
+7
+
+Trạm biến áp 110KV Văn Xã
+
+8
+
+Trạm biến áp 110kV Quy Nhơn 2
+
+9
+
+Trạm biến áp 110kV Tuy Hoà 2
+
+10
+
+Trạm biến áp 110KV Đôn Phố
+
+11
+
+Trạm biến áp 110KV Hoà Khánh + đấu nổi
+
+12
+
+Trạm biến áp 110KV Hà Tĩnh (M2)
+
+345
+
+13
+
+Trạm biến áp 110kV Linh Cảm
+
+14
+
+Trạm biến áp 110kV Bến Thủy
+
+15
+
+16
+
+Trạm biến áp 110kV Liên Trì
+
+Trạm biến áp 110kV Vĩnh Long (MR)
+
+82 2 2 2 2 2 2 2 2 2 2 2 2
+
+25
+
+25
+
+16
+
+16
+
+25
+
+40
+
+25
+
+16
+
+25
+
+25
+
+25
+
+25
+
+BÁO CÁO THƯỜNG NIÊN 2017.
+
+VNICO

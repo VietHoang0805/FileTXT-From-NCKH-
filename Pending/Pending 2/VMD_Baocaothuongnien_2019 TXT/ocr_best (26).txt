@@ -1,0 +1,37 @@
+Chỉ ra hướng phát triển sản phẩm trong tương lai, xác định khả năng tiêu thụ sản phẩm mới, đề xuất những kiến nghị về chế tạo sản xuất sản phẩm mới, đề ra chính sách chủng loại sản phẩm hợp lý, nghiên cứu hoàn thiện bao gói sản phẩm.
+
+- Nghiên cứu tổ chức phân phối sản phẩm (Tổ chức tiêu thụ sản phẩm, hàng hoá): Nghiên cứu các kiểu kênh phân phối, thiết lập hệ thống (mạng lưới) phân phối sản phẩm, xác định các mối quan hệ về sở hữu, về lợi ích, về hợp tác, về thông tin trong hệ thống phân phối, các địa điểm tiêu thụ sản phẩm, bán hàng, tuyển chọn nhân viên bán hàng, tổ chức các khó tăng và các phương tiện, bảo quản sản phẩm hàng hoá,...
+
+- Nghiên cứu giá cả: Kiểm soát các yếu tố chi phi phân tích sự biến đổi của chi phí cổ định và chi phí biến đổi trong mối quan hệ với khối lượng sản phẩm sản xuất ra, xây dựng các mức giá dự kiến, tiến hành phân tích hoà vốn để chỉ ra những sản phẩm có triển vọng tiêu thụ nhất, làm giả phân biệt để khai thác tối ưu các đoạn của thị trường.
+
+- Nghiên cứu các biện pháp yểm trợ marketing: Xây dựng chương trình tuyến truyền quảng cáo, khuyếch trương sản phẩm, xúc tiến bán hàng.... Tuyên truyền quảng cáo về sản phẩm hàng hoá và về doanh nghiệp, đánh giá tác dụng của quảng cáo, lựa chọn các phương tiện của quảng cáo, tổ chức triển lãm, hội chợ, hội nghị khách hàng,
+
+a. Phần mềm ERP giúp quản lý kho chi tiết, hiệu quả
+
+Quản lý kho là một công việc rất quan trọng của các công ty dược phẩm, bởi hàng hóa ở đây rất đa dạng về chủng loại, và việc nhập xuất hàng hóa diễn ra thường xuyên, liên tục.
+
+Các phần mềm ERP giúp doanh nghiệp quản lý hàng hóa vật tư theo từng lỗ và hạn sử dụng, chi tiết tới từng kho, đáp ứng tốt quy định về Tiêu chuẩn thực hành tốt bảo quản thuốc (Good Storage Practices . GSP) của Bộ Y tế, bảo đảm nguyên tắc hàng hòa nhập trước xuất trước (FIFO- First In First Out) hoặc hết hạn trước xuất trước (FEFO- First Expires First Out).
+
+Bên cạnh đó, đặc thù của các doanh nghiệp kinh doanh dược phẩm là hàng hóa cơ đơn vị tính đa dạng (thùng, hộp, vi, viên...) nên việc quản lý bằng excel hay sổ sách thông thường chỉ tốn thời gian mà không hiệu quả. Các phần mềm ERP cho phép kế toán chỉ cần nhập dữ liệu một lần mà vẫn có thể xem được các báo cáo theo nhiều đơn vị tính khác nhau. Đồng thời, với mô hình quản lý hàng hóa theo sơ đồ hình cây, phần mềm erp còn giúp các doanh nghiệp dễ dàng theo dõi số lượng, doanh số bán hàng theo từng dòng sản phẩm, từng nhà sản
+
+xuất.
+
+b. Phần mềm ERP giúp quản lý hoạt động phân phối
+
+Như đã nói ở trên, phần mềm ERP quản lý hàng hỏa theo sơ đồ hình cây, nên ngoài khả năng quản lý nhập, xuất, tồn hàng hóa, thì còn giúp kế toán quản lý tốt doanh thu, chỉ phi, công nợ... chi tiết đến từng nhà thuốc, phòng khám, trạm xá .... Đặc biệt, phần mềm còn giúp kế toán theo dõi chặt chẽ hàng gửi bán cho các đại lý.
+
+c. Phần mềm ERP giúp quản lý doanh số bán hàng của “trình được viên”
+
+797
+
+CP
+
+TY
+
+A
+
+DIM
+
+THE
+
+26
