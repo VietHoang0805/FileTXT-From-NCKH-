@@ -1,0 +1,281 @@
+- BÁO CÁO THƯỜNG NIÊN 2023 Danh mục các công trình đã thi công
+
+TT Tên công trình
+
+Chiều dài/
+
+Công suất(Km/kVA)
+
+Näm
+
+hoàn thành
+
+Duong day 500kV
+
+1
+
+Da 500 kV Bắc - Nam
+
+524
+
+1992-1994
+
+2
+
+Dz 500kV Yaly - Pleiku
+
+40
+
+1997-1999
+
+3
+
+Đz 500kV Pleiku - Phú Lâm
+
+134.623
+
+2001-2006
+
+4
+
+Đz 500Kv Phủ Mỹ- Nhà Bè- Phú Lâm
+
+11.483
+
+2001-2006
+
+5
+
+Đz 500Kv Pleiku- Dốc Sỏi - Đà Nẵng
+
+76.567
+
+2001-2006
+
+6
+
+Đz 500kV Đà Nẵng - Hà Tĩnh
+
+152,01
+
+2001-2006
+
+7
+
+Đz 500kV Hà Tĩnh - Thường Tin
+
+89.584
+
+2001-2006
+
+8
+
+Đz 500kV Nhà Bè - Ô Môn (đoạn Ô Môn - Cai Lây)
+
+24.585
+
+2001-2006
+
+9
+
+Đz 500kv Quảng Ninh - Thường Tín
+
+23,96
+
+2007-2009
+
+10
+
+Đz 500kV Quảng Ninh - Hiệp Hòa (là 8.1)
+
+34.504
+
+2012-2014
+
+11
+
+Đz 500kV Quảng Ninh - Hiệp Hòa (lô 8.2)
+
+34.494
+
+2012-2014
+
+12
+
+Đz 500kV Vĩnh Tân - Sông Mây
+
+35,2
+
+2010-2014
+
+13
+
+Đz 500kV Pleiky - Mỹ Phước - Cầu Bông
+
+67
+
+2010-2014
+
+14
+
+Đz 500kV Phú Mỹ - Sông Mây
+
+29,57
+
+2009-2013
+
+15
+
+Đz 500kV Sơn La - Lai Châu (gói thầu số 9 và 12)
+
+33.552
+
+2013-2015
+
+16
+
+Đz 500kV Long Phú - Ô Môn
+
+17.078
+
+2014-2016
+
+17
+
+TBA 500kV Duyên Hải
+
+450MVA
+
+2013-2015
+
+18
+
+Đz 500kV Duyên Hải - Mỹ Tho
+
+29,45
+
+2014-2016
+
+19
+
+Đz 50XIV Dự án Xây dựng đường Cao tốc Đà Nẵng - Quảng Ngãi
+
+5,4
+
+2014-2016
+
+20
+
+TBA 500kV Pleiku 2
+
+3.453
+
+2015-2016
+
+21
+
+Ez 500kV Sông Mây - Tân Uyên
+
+53
+
+2015-2017
+
+22
+
+Đz 500kV Vĩnh Tân - Rẻ Sông Mây - Tân Uyên
+
+33,7
+
+2015-2017
+
+23
+
+TBA 500kV Tần Uyên và đầu nối
+
+300MVA
+
+2015-2017
+
+24
+
+Đz 500kV Mỹ Tho-Đức Hòa
+
+17,08
+
+2016-2018
+
+25
+
+TBA 500kV Đức Hòa
+
+300MVA
+
+2017-2021
+
+26
+
+Đz 500kV Đầu nối NMNĐ Thăng Long
+
+4,37
+
+2016-2017
+
+27
+
+Đz 500/ 220kV Hiệp Hòa - Đông Anh - Bắc Ninh 2
+
+8,01
+
+2016-2017
+
+28
+
+Đz 500kV đầu nối NMĐ Nghi Sơn 2 vào Hệ thống điện QG
+
+11,42
+
+2018-2020
+
+29
+
+Đz 500kV Quảng Trạch - Dốc Sỏi (03 10)
+
+100,41
+
+2018-2020
+
+30
+
+Đz 500kV Chơn Thành - Đức Hoà (lô 5,3)
+
+5,3
+
+2020-2021
+
+31
+
+Đz 500kV Vĩnh Tân - Văn Phong (gói 11)
+
+22,1
+
+2021-2022
+
+32
+
+TBA 500kV Thốt Nốt (gói 5)
+
+250MVA
+
+2021-2023
+
+33
+
+Đz 500kV đầu nói TBA 500kV Thuận Nam vào
+
+1.5
+
+2022-2023
+
+Đz 500kV Văn Phong - NĐ Vinh Tân (G9)
+
+12

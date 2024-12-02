@@ -1,0 +1,167 @@
+TT Tên công trình
+
+Ex 20-110V Cầu Bông-Bình Tân từ G19 đến TBA 500kV Cầu Bông
+
+Chiều dài/ Công suối(Km/kVA)
+
+Nám
+
+hoàn thành
+
+3,613
+
+2017-2018
+
+8
+
+9
+
+Đ:110kV 173 Trảng Bàng 2-177Đức Hòa 2; 174 Trảng Bàng 2-171
+
+Đức Huệ 172 Đức Huệ-178 Đức Hòa 2 (Phân phía dây dẫn)
+
+8,763
+
+2017-2018
+
+10
+
+Ez 110kV 174 Phan Thiết-172 Phan Ri (Phần pha dây dẫn)
+
+14,3
+
+2017-2018
+
+11
+
+Đầu nối 110kV sau TBA 220kV Phong Điền
+
+5,7
+
+2018-2018
+
+12
+
+Nâng cấp Để 110kV TBA 220kV Quảng Ngãi-Đức Phổ-Tam Quan 28,02
+
+2018-2018
+
+13
+
+Cải tạo nâng cao khả năng truyền tải đường dây 110kV từ
+
+TBA 110kV Nha Trang đi TBA 110kV Ninh Hòa
+
+34,076
+
+2018-2018
+
+14
+
+Treo dây mạch 2 ĐZ 110kV Quỳnh Lưu - Diễn Châu - Của Lò - Hưng Đông 14,832
+
+2018-2019
+
+15
+
+Đz 110kV Quy Nhơn - Sông Cầu (đoạn Phủ Yên)
+
+30
+
+2019-2020
+
+IV. Trạm biến áp 220kV
+
+1
+
+Trạm biến áp 220kV Vinh
+
+2
+
+Trạm biến áp 220kV Đông Hải
+
+3
+
+Trạm biến áp 220kV Quy Nhơn
+
+4
+
+Trạm biến áp 220kV Đa Nhim
+
+5
+
+Trạm biến áp 220kV Krông Buk
+
+6
+
+Trạm biến áp 220kV Nha Trung
+
+7
+
+Trạm biến áp 220kV Vĩnh (MR)
+
+8
+
+Trạm biến áp 220kV Huế
+
+9
+
+Trạm biến áp 220kV Hoà Khánh
+
+10
+
+Trạm biến áp 220kV Đốc Sỏi
+
+11
+
+Trạm biến áp 220kV Quy Nhơn (MR)
+
+12
+
+Trạm biến áp 220kV Nha Trang (MR)
+
+ཕྱི་ཥ་ ུ་ཀླུ་རྒྱ བ མི་སྐྱ་སྐྱ་ཎྞཱ ཀྵ ཎྜ
+
+125
+
+123
+
+125
+
+125
+
+125
+
+125
+
+125
+
+13
+
+Trạm biến áp 220kV Long Xuyên 2 & Đz đấu nổi
+
+250MVA
+
+2016-2017
+
+14
+
+Trạm biến áp 220kV Đô Lương
+
+250MVA
+
+2017-2018
+
+15
+
+Trạm biến áp 220kV Phủ Mỹ
+
+250MVA
+
+2017-2018
+
+BÁO CÁO THƯỜNG NIÊN 2019
+
+VNECO
+
+13

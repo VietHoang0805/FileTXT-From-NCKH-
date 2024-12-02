@@ -1,0 +1,185 @@
+16
+
+BÁO CÁO THƯỜNG NIÊN 2022
+
+Chiều dài Công suất(Km/kVA).
+
+TT
+
+Tên công trình
+
+V
+
+Tram bien op 110KV
+
+1
+
+Trạm biến áp 110kV Xuân Hà
+
+2
+
+Trạm biến áp 110KV Đồng Hội
+
+3
+
+Trạm biến áp 110kV Huế
+
+4
+
+Trạm biến áp 110KV Đồng Hồ
+
+5
+
+Trạm biến áp 110KV Quảng Ngãi
+
+6
+
+Trạm biến áp 110kV Cam Ranh
+
+7
+
+Trạm biến áp 110KV Văn Xã
+
+8
+
+Trạm biến áp 110kV Quy Nhơn 2
+
+9
+
+Trạm biến áp 110KV Tuy Hoà 2
+
+10
+
+Trạm biến áp 110KV Đồn Phố
+
+11
+
+Trạm biến áp 110KV Hoa Khánh + đầu nồi
+
+12
+
+Trạm biến áp 110KV Hà Tĩnh (M2)
+
+13
+
+Trạm biến áp 110KV Linh cảm
+
+14
+
+Trạm biến áp 110kV Bến Thủy
+
+15
+
+Trạm biến áp 110KV LÊN THÌ
+
+16
+
+Trạm biến áp 110kV Vĩnh Long (MR)
+
+17
+
+Trạm biến áp 110KV Dung Quốc
+
+18
+
+Trạm biến áp 110kV Cầu Đỏ (MR)
+
+19
+
+Trạm biến áp 110KV An Đồn
+
+20
+
+Trạm biến áp 110KV Ba Đồn
+
+21
+
+22
+
+23
+
+24
+
+27
+
+2 2 2 2 2 2 2
+
+Trạm biến áp 110kV Diễn Hồng
+
+Trạm biến áp 110kV Sóc Trăng (M2)
+
+Trạm biến áp 110kV Tháp Chàm (M2)
+
+Trạm biến áp 110kV Sóc Trăng
+
+50
+
+16
+
+25
+
+16
+
+5
+
+16
+
+25
+
+40
+
+25
+
+25
+
+25
+
+25
+
+25
+
+25
+
+25
+
+25
+
+25
+
+25
+
+25
+
+25
+
+40
+
+25
+
+40
+
+40
+
+25
+
+8221 222 22 2 2 2 2 2 2 2 2 2 2 9 29 9 229
+
+25
+
+26
+
+Trạm biến áp 110KV Điện Ngọc Trạm biến áp 110kV Phù Cát
+
+Trạm biến áp 110kV Vĩnh Linh
+
+25
+
+28
+
+Trạm biến áp 110kV Liên Chiều
+
+40
+
+Nom
+
+hoàn thành

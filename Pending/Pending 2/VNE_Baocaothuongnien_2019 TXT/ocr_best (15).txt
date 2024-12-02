@@ -1,0 +1,185 @@
+IV
+
+Trạm biến áp 110kV
+
+1
+
+2
+
+Tên công trình
+
+Trạm biến áp 110kV Xuân Hà
+
+Trạm biến áp 110kV Đông Mới
+
+Chiều dài/ Công suất(Km/kVA)
+
+50
+
+16
+
+Nam
+
+hoàn thành
+
+3
+
+Trạm biến áp 110kV Huế
+
+4
+
+Trạm biến áp 110kV Đông Hà
+
+5
+
+Trạm biến áp 110kV Quảng Ngãi
+
+6
+
+Trạm biến áp 110kV Cam Ranh
+
+7
+
+Trạm biến áp 110kV Văn Xá
+
+8
+
+Trạm biến áp 110kV Quy Nhơn 2.
+
+9
+
+Trạm biến áp 110kV Tuy Hoà 2
+
+10
+
+Trạm biến áp 110kV Đôn Phủ
+
+11
+
+Trạm biến áp 110kV Hoà Khánh + đấu nối
+
+12
+
+Trạm biến áp 110kV Hà Tĩnh (M2)
+
+13
+
+Trạm biến áp 110kV Linh Cảm
+
+14
+
+Trạm biến áp 110kV Bến Thủy
+
+15
+
+Trạm biến áp 110kV Liên Tri
+
+16
+
+Trạm biến áp 110kV Vĩnh Long (MR)
+
+17
+
+Trạm biến áp 110kV Dung Quất
+
+18
+
+Trạm biến áp 110kV Cầu Đỏ (MR)
+
+19
+
+Trạm biến áp 110kV An Đôn
+
+20
+
+Trạm biến áp 110kV Ba Đôn
+
+21
+
+Trạm biến áp 110kV Diên Hồng
+
+22
+
+Trạm biến áp 110kV Sóc Trăng (M2)
+
+23
+
+Trạm biến áp 110kV Tháp Chàm (M2)
+
+24
+
+Trạm biến áp 110kV Sóc Trăng
+
+25
+
+Trạm biến áp 110kV Điện Ngọc
+
+26
+
+Trạm biến áp 110kV Phù Cát
+
+27
+
+Trạm biến áp 110kV Vĩnh Linh
+
+28
+
+Trạm biến áp 110kV Liên Chiều
+
+822 in 1 1 2 1 1 1 1 1 1 1 * * * *9999
+
+25
+
+16
+
+16
+
+25
+
+40
+
+25
+
+16
+
+25
+
+25
+
+25
+
+25
+
+25
+
+25
+
+25
+
+25
+
+25
+
+25
+
+25
+
+40
+
+25
+
+40
+
+40
+
+25
+
+25
+
+40
+
+BÁO CÁO THƯỜNG NIÊN 2019
+
+14
+
+VNECO
