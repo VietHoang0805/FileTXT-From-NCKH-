@@ -1,0 +1,191 @@
+17
+
+5. Cơ cấu cổ đông, thay đổi vốn đầu tư của chủ sở hữu
+
+a) Cổ phiếu
+
+| Mã cổ phiếu
+
+Loại cổ phiếu
+
+Mệnh giá (đồng/cổ phiếu)
+
+Số cổ phiếu bị hạn chế chuyển nhượng
+
+Số cổ phiếu quỹ
+
+| Số cổ phiếu ưu đãi
+
+Số cổ phiếu tự do chuyển nhượng
+
+Số cổ phiếu đang lưu hành
+
+Tổng số cổ phiếu tại thời điểm 31/12/2023
+
+VTO
+
+Phổ thông |
+
+10.000
+
+0
+
+0
+
+0
+
+79.866.666
+
+79.866.666
+
+79.866.666
+
+b) Cơ cấu cổ đông
+
+Cơ cấu cổ đông của Công ty theo danh sách chốt ngày 18/03/2024 do Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam – Chi nhánh Thành phố Hồ Chí Minh cung cấp:
+
+Số lượng Số cổ phần
+
+Tỷ lệ
+
+STT
+
+Cổ đông
+
+cổ đông
+
+(người)
+
+sở hữu (Cổ phần)
+
+|
+
+Giá trị (1.000 đồng)
+
+sở hữu
+
+(%)
+
+1
+
+CỎ ĐÔNG TRONG NƯỚC
+
+5.614
+
+76.399.107
+
+763.991.070
+
+95,66%
+
+1.1
+
+Cổ đông tổ chức
+
+43
+
+44.874.522 448.745.220
+
+56,19%
+
+1.la | Cổ đông sở hữu trên 5% 1.1b | Cổ đông sở hữu dưới 5% 1.2 | Cổ đông cá nhân
+
+1.2a | Cổ đông sở hữu trên 5% 1.2b | Cổ đông sở hữu dưới 5%
+
+01
+
+41.465.217
+
+414.652.170 51,92%
+
+42 3.409.305
+
+34.093.050 4,27%
+
+5.571
+
+31.524.585
+
+315.245.850 39,47%
+
+0
+
+0
+
+0
+
+5.571
+
+31.524.585 315.245.850 39,47%
+
+2
+
+CỎ ĐÔNG NƯỚC NGOÀI
+
+97 3.467.559 34.675.590 4,34%
+
+2.1 | Cổ đông tổ chức
+
+18
+
+3.216.846
+
+32.168.460.
+
+4,03%
+
+2.la | Cổ đông sở hữu trên 5%
+
+0
+
+0
+
+0
+
+2.1b | Cổ đông sở hữu dưới 5%
+
+18
+
+3.216.846.
+
+32.168.460
+
+4,03%
+
+2.2 | Cổ đông cá nhân
+
+79
+
+250.713
+
+2.507.130
+
+0,31%
+
+2.2a | Cổ đông sở hữu trên 5%
+
+0
+
+0
+
+0
+
+2.2b | Cổ đông sở hữu dưới 5%
+
+79
+
+250.713
+
+2.507.130
+
+0,31%
+
+TONG CONG
+
+5.771
+
+79.866.666
+
+798.666.660
+
+100,00%
